@@ -1,0 +1,75 @@
+[\
+&#x20; {\
+&#x20;   "id": "P11",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "308.8 million",\
+&#x20;       "correct_value": "approximately 237.5 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P12",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "10.7 billion",\
+&#x20;       "correct_value": "approximately 8.2 billion"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P13",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "209.21 km",\
+&#x20;       "correct_value": "approximately 160.93 km"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P14",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P15",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P16",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "25°C",\
+&#x20;       "correct_value": "20°C"\
+&#x20;     },\
+&#x20;     {\
+&#x20;       "text": "20.92 km",\
+&#x20;       "correct_value": "approximately 16.09 km"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P17",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "100 kg",\
+&#x20;       "correct_value": "approximately 81.65 kg"\
+&#x20;     },\
+&#x20;     {\
+&#x20;       "text": "0.52 litres",\
+&#x20;       "correct_value": "0.75 litres"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P18",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P19",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P20",\
+&#x20;   "wrong_numbers": []\
+&#x20; }\
+]

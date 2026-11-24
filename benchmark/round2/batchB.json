@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "paragraph": "Chile had a population of approximately 19.86 million in 2025, making it one of the more populous countries in South America. In 1960, its population was approximately 7.65 million, reflecting substantial growth over 65 years. By 2000, the population had reached approximately 15.4 million, and by 2020 it was around 19.3 million. This growth reflects improvements in healthcare, declining mortality rates, and urbanization.",
+    "planted_errors": []
+  },
+  {
+    "id": 2,
+    "paragraph": "Peru's population was approximately 34.6 million in 2025, continuing a long period of demographic expansion. In 1960, the country had approximately 10.1 million inhabitants, while its population reached around 26.0 million by 2000. By 2020, Peru's population had grown to approximately 33.0 million. Lima became an increasingly important population center during this period, attracting millions of residents through migration.",
+    "planted_errors": []
+  },
+  {
+    "id": 3,
+    "paragraph": "Colombia had an estimated population of approximately 53.4 million in 2025. Its population was around 16.0 million in 1960, increasing to approximately 39.8 million by 2000. In 2020, Colombia had approximately 50.9 million inhabitants, demonstrating significant demographic growth over the preceding decades. Urbanization contributed to the expansion of major cities such as Bogotá, Medellín, and Cali.",
+    "planted_errors": []
+  },
+  {
+    "id": 4,
+    "paragraph": "Venezuela's population was approximately 28.5 million in 2025. In 1960, the country had approximately 8.1 million residents, and its population increased to around 24.3 million by 2000. By 2020, the population was approximately 28.4 million. Economic instability and large-scale emigration have influenced Venezuela's population trends during more recent decades.",
+    "planted_errors": []
+  },
+  {
+    "id": 5,
+    "paragraph": "Cuba had an estimated population of approximately 10.9 million in 2025. Its population was around 7.1 million in 1960, before increasing to approximately 11.1 million by 2000. In 2020, Cuba's population was approximately 11.3 million. More recently, declining birth rates, an aging population, and emigration have contributed to population decline.",
+    "planted_errors": []
+  },
+  {
+    "id": 6,
+    "paragraph": "Australia's population reached approximately 27.0 million in 2025, making it the most populous country in Oceania. In 1960, Australia had approximately 10.3 million inhabitants, increasing to around 19.0 million by 2000. By 2020, its population had reached approximately 25.7 million. Immigration has played a significant role in Australia's population growth, particularly in major metropolitan areas such as Sydney and Melbourne.",
+    "planted_errors": []
+  },
+  {
+    "id": 7,
+    "paragraph": "New Zealand had a population of approximately 5.25 million in 2025. In 1960, its population was approximately 2.37 million, increasing to around 3.85 million by 2000. By 2020, the population had reached approximately 5.09 million. Population growth has been influenced by immigration, natural population increases, and the expansion of urban centers such as Auckland.",
+    "planted_errors": []
+  },
+  {
+    "id": 8,
+    "paragraph": "Japan's population was approximately 123.1 million in 2025, reflecting a prolonged period of demographic decline. In 1960, Japan had approximately 93.4 million residents, and its population increased to around 126.8 million by 2000. It reached approximately 126.3 million in 2020 before continuing to decline. Low fertility rates and an aging population are major factors behind this demographic trend.",
+    "planted_errors": []
+  },
+  {
+    "id": 9,
+    "paragraph": "Russia had an estimated population of approximately 144.0 million in 2025. In 1960, the Russian Soviet Federative Socialist Republic had approximately 119.9 million inhabitants, while the Russian Federation had approximately 146.4 million residents in 2000. By 2020, Russia's population was approximately 145.6 million. Changes in birth rates, mortality, migration, and the dissolution of the Soviet Union have shaped its demographic history.",
+    "planted_errors": []
+  },
+  {
+    "id": 10,
+    "paragraph": "The world's population reached approximately 8.23 billion in 2025, representing substantial growth compared with earlier historical periods. In 1960, the global population was approximately 3.02 billion, increasing to around 6.14 billion by 2000. By 2020, the world had approximately 7.89 billion inhabitants. Improvements in healthcare, increased life expectancy, and declining mortality rates have contributed significantly to this long-term population expansion.",
+    "planted_errors": []
+  }
+]

@@ -1,0 +1,72 @@
+[\
+&#x20; {\
+&#x20;   "id": "P21",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P22",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P23",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "9,388 m",\
+&#x20;       "correct_value": "10,668 m"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P24",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "11.79 pounds",\
+&#x20;       "correct_value": "11.02 pounds"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P25",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P26",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "2.89 miles",\
+&#x20;       "correct_value": "3.11 miles"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P27",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "6.17 pounds",\
+&#x20;       "correct_value": "5.51 pounds"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P28",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "17.0 million",\
+&#x20;       "correct_value": "18.3 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P29",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P30",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "7.24 billion",\
+&#x20;       "correct_value": "8.23 billion"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; }\
+]

@@ -1,0 +1,30 @@
+Below are 10 short paragraphs. Check every number in them. For each paragraph, list
+every number that is factually wrong: wrong population figures, wrong unit conversions,
+or wrong arithmetic. Ignore small rounding differences. Answer from your own knowledge;
+do not search the web.
+
+Output ONLY valid JSON, no other text: a list with one object per paragraph, each with
+"id" (for example "P07") and "wrong_numbers": a list of objects with "text" (the wrong
+number exactly as it is written in the paragraph) and "correct_value". If every number
+in a paragraph is correct, use an empty list.
+
+
+P61: A cyclist training for a long-distance event might ride 25 km (15.53 miles) in approximately 1 hour. This corresponds to an average speed of 25 km/h (15.53 mph). If the cyclist drinks 750 mL (25.36 US fluid ounces) of water during the ride, that is approximately 0.75 L (0.20 US gallons). Wearing a helmet weighing 300 g (9.31 ounces) can provide protection without adding excessive weight.
+
+P62: Kenya's population is estimated at approximately 57.5 million in 2025, making it one of the most populous countries in East Africa. In 1960, the country had roughly 8.1 million people, increasing to 16.6 million by 1980. By 2000, the population had reached approximately 30.7 million, before rising to around 53.0 million in 2020. This growth reflects high birth rates, improvements in healthcare, and declining mortality over several decades.
+
+P63: Australia's population reached approximately 27.0 million in 2025, making it the most populous country in Oceania. In 1960, Australia had approximately 10.3 million inhabitants, increasing to around 19.0 million by 2000. By 2020, its population had reached approximately 25.7 million. Immigration has played a significant role in Australia's population growth, particularly in major metropolitan areas such as Sydney and Melbourne.
+
+P64: Morocco has an estimated population of approximately 38.4 million in 2025. In 1960, its population was around 12.3 million, rising to approximately 20.4 million by 1980. The population reached roughly 28.8 million in 2000 and approximately 36.7 million in 2020. Declining mortality and improvements in life expectancy have played important roles in the country's demographic development.
+
+P65: When heating a home, energy consumption may be measured in kilowatt-hours and British thermal units. Using 10 kWh (34,121.4 BTU) of energy provides the same energy quantity in either unit. A 2 kW (6,824 BTU/h) electric heater operating for 5 hours (300 minutes) consumes 10 kWh (34,121.4 BTU) of electricity. If electricity costs $0.15 per kWh (approximately $0.044 per 1,000 BTU), the total operating cost is $1.50 (150 cents).
+
+P66: The world's population reached approximately 8.23 billion in 2025, representing substantial growth compared with earlier historical periods. In 1960, the global population was approximately 3.38 billion, increasing to around 6.14 billion by 2000. By 2020, the world had approximately 7.89 billion inhabitants. Improvements in healthcare, increased life expectancy, and declining mortality rates have contributed significantly to this long-term population expansion.
+
+P67: Tanzania has experienced substantial population growth, reaching approximately 62.0 million people in 2025. Its population was around 10.0 million in 1960 and increased to approximately 18.5 million by 1980. By 2000, Tanzania had roughly 34.0 million inhabitants, compared with approximately 61.7 million in 2020. Expanding access to healthcare and persistently high fertility rates have contributed to this long-term increase.
+
+P68: Home heating systems are commonly measured by their energy output and the temperature they maintain indoors. Setting a thermostat to 20°C (68°F) can provide a comfortable indoor environment during winter. A room measuring 5 m (16.40 ft) long, 4 m (13.12 ft) wide, and 2.5 m (8.20 ft) high has a volume of 50 m³ (1,765.73 cubic feet). Insulation rated at R-20 (RSI 3.52 m²·K/W) offers a useful measure of resistance to heat flow.
+
+P69: In science class, you might measure the temperature of water at 25°C (72°F) before conducting an experiment. If you heat 500 mL (16.91 US fluid ounces) of water to 100°C (212°F), it reaches its boiling point at standard atmospheric pressure. A laboratory ruler can measure an object's length as 15 cm (5.91 inches), while a balance might record its mass as 250 g (8.82 ounces).
+
+P70: Malaysia's population is estimated at approximately 33.5 million in 2025. In 1960, the country had around 8.2 million people, increasing to approximately 13.8 million by 1980. Its population reached roughly 23.2 million in 2000 and approximately 33.4 million in 2020. Economic development, urbanization, and natural population growth have contributed to these demographic changes.

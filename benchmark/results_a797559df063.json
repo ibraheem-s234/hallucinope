@@ -1,0 +1,1274 @@
+{
+  "fingerprint": "a797559df063",
+  "summary": {
+    "errors": {
+      "all": {
+        "errors": 58,
+        "caught": 45,
+        "flagged": 2,
+        "missed": 11,
+        "outcomes": {
+          "caught": 45,
+          "missed: not detected": 11,
+          "flagged": 2
+        }
+      },
+      "population": {
+        "errors": 31,
+        "caught": 29,
+        "flagged": 2,
+        "missed": 0,
+        "outcomes": {
+          "caught": 29,
+          "flagged": 2
+        }
+      },
+      "conversion": {
+        "errors": 27,
+        "caught": 16,
+        "flagged": 0,
+        "missed": 11,
+        "outcomes": {
+          "missed: not detected": 11,
+          "caught": 16
+        }
+      },
+      "injected": {
+        "errors": 45,
+        "caught": 36,
+        "flagged": 2,
+        "missed": 7,
+        "outcomes": {
+          "caught": 36,
+          "missed: not detected": 7,
+          "flagged": 2
+        }
+      },
+      "chatgpt": {
+        "errors": 13,
+        "caught": 9,
+        "flagged": 0,
+        "missed": 4,
+        "outcomes": {
+          "caught": 9,
+          "missed: not detected": 4
+        }
+      }
+    },
+    "natural_claims_checked": 43,
+    "natural_false_alarms": 6,
+    "natural_ambers": 1,
+    "other_reds_in_error_items": 19
+  },
+  "results": [
+    {
+      "id": "batch4#1",
+      "kind": "natural",
+      "errors": [],
+      "claims_checked": 1,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#2",
+      "kind": "natural",
+      "errors": [],
+      "claims_checked": 3,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#3",
+      "kind": "natural",
+      "errors": [],
+      "claims_checked": 0,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#4",
+      "kind": "natural",
+      "errors": [],
+      "claims_checked": 4,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#5",
+      "kind": "natural",
+      "errors": [],
+      "claims_checked": 1,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#6",
+      "kind": "natural",
+      "errors": [],
+      "claims_checked": 4,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#7",
+      "kind": "natural",
+      "errors": [],
+      "claims_checked": 1,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#8",
+      "kind": "natural",
+      "errors": [],
+      "claims_checked": 3,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#9",
+      "kind": "natural",
+      "errors": [],
+      "claims_checked": 2,
+      "other_reds": [
+        {
+          "text": "5 m by 4 m",
+          "message": "Wrong: 5 m = 5 m, not 4 m (off by 20.0%)."
+        },
+        {
+          "text": "10.764 square feet, meaning that a 100 m²",
+          "message": "Wrong: 10.76 square feet = 1 m², not 100 m² (off by 9899.9%)."
+        }
+      ],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#10",
+      "kind": "natural",
+      "errors": [],
+      "claims_checked": 1,
+      "other_reds": [
+        {
+          "text": "27 million",
+          "message": "Wrong: Australia's population is 27,614,411 (World Bank 2025 estimate), not 27 million (2.2% off)."
+        }
+      ],
+      "ambers": 0
+    },
+    {
+      "id": "batch5#1",
+      "kind": "natural",
+      "errors": [],
+      "claims_checked": 4,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch5#2",
+      "kind": "natural",
+      "errors": [],
+      "claims_checked": 5,
+      "other_reds": [
+        {
+          "text": "39.7 million",
+          "message": "Wrong: Canada's population is 41,262,329 (World Bank 2024 estimate), not 39.7 million (3.8% off)."
+        }
+      ],
+      "ambers": 0
+    },
+    {
+      "id": "batch5#3",
+      "kind": "natural",
+      "errors": [],
+      "claims_checked": 4,
+      "other_reds": [],
+      "ambers": 1
+    },
+    {
+      "id": "batch5#4",
+      "kind": "natural",
+      "errors": [],
+      "claims_checked": 5,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch5#5",
+      "kind": "natural",
+      "errors": [],
+      "claims_checked": 3,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch5#6",
+      "kind": "natural",
+      "errors": [],
+      "claims_checked": 0,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch5#7",
+      "kind": "natural",
+      "errors": [],
+      "claims_checked": 0,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch5#8",
+      "kind": "natural",
+      "errors": [],
+      "claims_checked": 1,
+      "other_reds": [
+        {
+          "text": "30 g of melted butter and 15 g",
+          "message": "Wrong: 30 g = 30 g, not 15 g (off by 50.0%)."
+        }
+      ],
+      "ambers": 0
+    },
+    {
+      "id": "batch5#9",
+      "kind": "natural",
+      "errors": [],
+      "claims_checked": 0,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch5#10",
+      "kind": "natural",
+      "errors": [],
+      "claims_checked": 1,
+      "other_reds": [
+        {
+          "text": "250 g of flour, 150 g",
+          "message": "Wrong: 250 g = 250 g, not 150 g (off by 40.0%)."
+        }
+      ],
+      "ambers": 0
+    },
+    {
+      "id": "batch1#1",
+      "kind": "chatgpt",
+      "errors": [
+        {
+          "text": "280 million",
+          "start": 80,
+          "category": "population",
+          "note": "Nigeria 2025: ~238M (17% off)",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 3,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch1#2",
+      "kind": "chatgpt",
+      "errors": [
+        {
+          "text": "110 million",
+          "start": 103,
+          "category": "population",
+          "note": "Ethiopia 2025: ~135M (19% off)",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 2,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch1#4",
+      "kind": "chatgpt",
+      "errors": [
+        {
+          "text": "75 million",
+          "start": 348,
+          "category": "population",
+          "note": "Bangladesh 1971: ~67M (12% off)",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 3,
+      "other_reds": [
+        {
+          "text": "1,193",
+          "message": "Wrong: The world's population is 8,215,424,893 (World Bank 2025 estimate), not 1,193 (100.0% off)."
+        }
+      ],
+      "ambers": 0
+    },
+    {
+      "id": "batch2#1",
+      "kind": "chatgpt",
+      "errors": [
+        {
+          "text": "24.5 million",
+          "start": 86,
+          "category": "population",
+          "note": "Canada 1960: 17.9M (37% off)",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 4,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch3#1",
+      "kind": "chatgpt",
+      "errors": [
+        {
+          "text": "300 mL",
+          "start": 60,
+          "category": "conversion",
+          "note": "1 US cup = 236.6 mL",
+          "outcome": "missed: not detected"
+        }
+      ],
+      "claims_checked": 0,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch3#2",
+      "kind": "chatgpt",
+      "errors": [
+        {
+          "text": "4.0 miles",
+          "start": 131,
+          "category": "conversion",
+          "note": "5 km = 3.11 miles",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 2,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch3#3",
+      "kind": "chatgpt",
+      "errors": [
+        {
+          "text": "80°F",
+          "start": 146,
+          "category": "conversion",
+          "note": "20 °C = 68 °F",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 4,
+      "other_reds": [
+        {
+          "text": "0°C and boils at approximately 100°C",
+          "message": "Wrong: 0 °C = 0 °C, not 100 °C (off by 100 °C)."
+        }
+      ],
+      "ambers": 0
+    },
+    {
+      "id": "batch3#4",
+      "kind": "chatgpt",
+      "errors": [
+        {
+          "text": "120 km/h",
+          "start": 164,
+          "category": "conversion",
+          "note": "60 mph = 96.6 km/h",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 2,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch3#5",
+      "kind": "chatgpt",
+      "errors": [
+        {
+          "text": "190 lb",
+          "start": 143,
+          "category": "conversion",
+          "note": "70 kg = 154.3 lb",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 2,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch3#6",
+      "kind": "chatgpt",
+      "errors": [
+        {
+          "text": "15 m²",
+          "start": 183,
+          "category": "conversion",
+          "note": "120 sq ft = 11.15 m²",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 3,
+      "other_reds": [
+        {
+          "text": "12 ft by 10 ft",
+          "message": "Wrong: 12 ft = 12 ft, not 10 ft (off by 16.7%)."
+        },
+        {
+          "text": "15 ft by 20 ft",
+          "message": "Wrong: 15 ft = 15 ft, not 20 ft (off by 33.3%)."
+        }
+      ],
+      "ambers": 0
+    },
+    {
+      "id": "batch3#8",
+      "kind": "chatgpt",
+      "errors": [
+        {
+          "text": "1.5 US cups",
+          "start": 150,
+          "category": "conversion",
+          "note": "250 mL = 1.06 US cups",
+          "outcome": "missed: not detected"
+        }
+      ],
+      "claims_checked": 0,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch3#9",
+      "kind": "chatgpt",
+      "errors": [
+        {
+          "text": "25°C",
+          "start": 154,
+          "category": "conversion",
+          "note": "68 °F = 20 °C",
+          "outcome": "missed: not detected"
+        }
+      ],
+      "claims_checked": 1,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch3#10",
+      "kind": "chatgpt",
+      "errors": [
+        {
+          "text": "100 kg",
+          "start": 157,
+          "category": "conversion",
+          "note": "180 lb = 81.6 kg",
+          "outcome": "missed: not detected"
+        }
+      ],
+      "claims_checked": 3,
+      "other_reds": [
+        {
+          "text": "2.4 m by 3 m",
+          "message": "Wrong: 2.4 m = 2.4 m, not 3 m (off by 25.0%)."
+        }
+      ],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#1/inject1",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "29.1 million",
+          "start": 41,
+          "category": "population",
+          "note": "was '41.6 million', changed x0.7",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 1,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#2/inject2",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "1.903 billion",
+          "start": 51,
+          "category": "population",
+          "note": "was '1.464 billion', changed x1.3",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 3,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#2/inject3",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "0.985 billion",
+          "start": 111,
+          "category": "population",
+          "note": "was '1.407 billion', changed x0.7",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 3,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#2/inject4",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "444.3 million",
+          "start": 162,
+          "category": "population",
+          "note": "was '341.8 million', changed x1.3",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 3,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#4/inject5",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "6.52 miles",
+          "start": 117,
+          "category": "conversion",
+          "note": "was '9.32 miles', changed x0.7",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 4,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#4/inject6",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "209.21 km",
+          "start": 162,
+          "category": "conversion",
+          "note": "was '160.93 km', changed x1.3",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 4,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#4/inject7",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "43.50 mph",
+          "start": 234,
+          "category": "conversion",
+          "note": "was '62.14 mph', changed x0.7",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 4,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#4/inject8",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "100°F",
+          "start": 295,
+          "category": "conversion",
+          "note": "was '77°F', changed x1.3",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 4,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#5/inject9",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "239.3 million",
+          "start": 63,
+          "category": "population",
+          "note": "was '341.8 million', changed x0.7",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 1,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#6/inject10",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "228.4 million",
+          "start": 126,
+          "category": "population",
+          "note": "was '175.7 million', changed x1.3",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 4,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#6/inject11",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "178.6 million",
+          "start": 242,
+          "category": "population",
+          "note": "was '255.2 million', changed x0.7",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 4,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#6/inject12",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "308.8 million",
+          "start": 296,
+          "category": "population",
+          "note": "was '237.5 million', changed x1.3",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 4,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#6/inject13",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "149.0 million",
+          "start": 351,
+          "category": "population",
+          "note": "was '212.8 million', changed x0.7",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 4,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#7/inject14",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "1.43 pounds",
+          "start": 236,
+          "category": "conversion",
+          "note": "was '1.10 pounds', changed x1.3",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 1,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#7/inject15",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "0.37 US gallons",
+          "start": 321,
+          "category": "conversion",
+          "note": "was '0.53 US gallons', changed x0.7",
+          "outcome": "missed: not detected"
+        }
+      ],
+      "claims_checked": 1,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#8/inject16",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "108.5 million",
+          "start": 26,
+          "category": "population",
+          "note": "was '83.5 million', changed x1.3",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 3,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#8/inject17",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "48.1 million",
+          "start": 89,
+          "category": "population",
+          "note": "was '68.7 million', changed x0.7",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 3,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#8/inject18",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "76.6 million",
+          "start": 130,
+          "category": "population",
+          "note": "was '58.9 million', changed x1.3",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 3,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#9/inject19",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "753.5 square feet",
+          "start": 350,
+          "category": "conversion",
+          "note": "was '1,076.4 square feet', changed x0.7",
+          "outcome": "missed: not detected"
+        }
+      ],
+      "claims_checked": 2,
+      "other_reds": [
+        {
+          "text": "5 m by 4 m",
+          "message": "Wrong: 5 m = 5 m, not 4 m (off by 20.0%)."
+        },
+        {
+          "text": "10.764 square feet, meaning that a 100 m²",
+          "message": "Wrong: 10.76 square feet = 1 m², not 100 m² (off by 9899.9%)."
+        }
+      ],
+      "ambers": 0
+    },
+    {
+      "id": "batch4#10/inject20",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "35 million",
+          "start": 28,
+          "category": "population",
+          "note": "was '27 million', changed x1.3",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 1,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch5#1/inject21",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "1.8 billion",
+          "start": 96,
+          "category": "population",
+          "note": "was '2.5 billion', changed x0.7",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 4,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch5#1/inject22",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "3.9 billion",
+          "start": 145,
+          "category": "population",
+          "note": "was '3.0 billion', changed x1.3",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 4,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch5#1/inject23",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "4.3 billion",
+          "start": 169,
+          "category": "population",
+          "note": "was '6.1 billion', changed x0.7",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 4,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch5#1/inject24",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "10.7 billion",
+          "start": 247,
+          "category": "population",
+          "note": "was '8.2 billion', changed x1.3",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 4,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch5#2/inject25",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "10 million",
+          "start": 120,
+          "category": "population",
+          "note": "was '14 million', changed x0.7",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 5,
+      "other_reds": [
+        {
+          "text": "39.7 million",
+          "message": "Wrong: Canada's population is 41,262,329 (World Bank 2024 estimate), not 39.7 million (3.8% off)."
+        }
+      ],
+      "ambers": 0
+    },
+    {
+      "id": "batch5#2/inject26",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "23.7 million",
+          "start": 163,
+          "category": "population",
+          "note": "was '18.2 million', changed x1.3",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 5,
+      "other_reds": [
+        {
+          "text": "39.7 million",
+          "message": "Wrong: Canada's population is 41,262,329 (World Bank 2024 estimate), not 39.7 million (3.8% off)."
+        }
+      ],
+      "ambers": 0
+    },
+    {
+      "id": "batch5#2/inject27",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "21.5 million",
+          "start": 188,
+          "category": "population",
+          "note": "was '30.7 million', changed x0.7",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 5,
+      "other_reds": [
+        {
+          "text": "39.7 million",
+          "message": "Wrong: Canada's population is 41,262,329 (World Bank 2024 estimate), not 39.7 million (3.8% off)."
+        }
+      ],
+      "ambers": 0
+    },
+    {
+      "id": "batch5#2/inject28",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "51.6 million",
+          "start": 265,
+          "category": "population",
+          "note": "was '39.7 million', changed x1.3",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 5,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch5#3/inject29",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "263 million",
+          "start": 113,
+          "category": "population",
+          "note": "was '376 million', changed x0.7",
+          "outcome": "flagged"
+        }
+      ],
+      "claims_checked": 4,
+      "other_reds": [],
+      "ambers": 1
+    },
+    {
+      "id": "batch5#3/inject30",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "1.37 billion",
+          "start": 154,
+          "category": "population",
+          "note": "was '1.05 billion', changed x1.3",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 4,
+      "other_reds": [],
+      "ambers": 1
+    },
+    {
+      "id": "batch5#3/inject31",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "1.01 billion",
+          "start": 202,
+          "category": "population",
+          "note": "was '1.45 billion', changed x0.7",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 4,
+      "other_reds": [],
+      "ambers": 1
+    },
+    {
+      "id": "batch5#4/inject32",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "707 million",
+          "start": 102,
+          "category": "population",
+          "note": "was '544 million', changed x1.3",
+          "outcome": "flagged"
+        }
+      ],
+      "claims_checked": 5,
+      "other_reds": [],
+      "ambers": 1
+    },
+    {
+      "id": "batch5#4/inject33",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "0.88 billion",
+          "start": 147,
+          "category": "population",
+          "note": "was '1.26 billion', changed x0.7",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 5,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch5#4/inject34",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "1.85 billion",
+          "start": 276,
+          "category": "population",
+          "note": "was '1.42 billion', changed x1.3",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 5,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch3#1/inject35",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "124°C",
+          "start": 200,
+          "category": "conversion",
+          "note": "was '177°C', changed x0.7",
+          "outcome": "missed: not detected"
+        }
+      ],
+      "claims_checked": 0,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch3#2/inject36",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "9.70 miles",
+          "start": 171,
+          "category": "conversion",
+          "note": "was '7.46 miles', changed x1.3",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 2,
+      "other_reds": [
+        {
+          "text": "5 km is approximately 4.0 miles",
+          "message": "Wrong: 5 km = 3.107 miles, not 4 miles (off by 28.7%)."
+        }
+      ],
+      "ambers": 0
+    },
+    {
+      "id": "batch3#2/inject37",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "43.50 mph",
+          "start": 259,
+          "category": "conversion",
+          "note": "was '62.14 mph', changed x0.7",
+          "outcome": "missed: not detected"
+        }
+      ],
+      "claims_checked": 2,
+      "other_reds": [
+        {
+          "text": "5 km is approximately 4.0 miles",
+          "message": "Wrong: 5 km = 3.107 miles, not 4 miles (off by 28.7%)."
+        }
+      ],
+      "ambers": 0
+    },
+    {
+      "id": "batch3#3/inject38",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "112°F",
+          "start": 233,
+          "category": "conversion",
+          "note": "was '86°F', changed x1.3",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 4,
+      "other_reds": [
+        {
+          "text": "20°C is equivalent to 80°F",
+          "message": "Wrong: 20 °C = 68 °F, not 80 °F (off by 12 °F)."
+        },
+        {
+          "text": "0°C and boils at approximately 100°C",
+          "message": "Wrong: 0 °C = 0 °C, not 100 °C (off by 100 °C)."
+        }
+      ],
+      "ambers": 0
+    },
+    {
+      "id": "batch3#4/inject39",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "39.14 mph",
+          "start": 224,
+          "category": "conversion",
+          "note": "was '55.92 mph', changed x0.7",
+          "outcome": "missed: not detected"
+        }
+      ],
+      "claims_checked": 2,
+      "other_reds": [
+        {
+          "text": "60 mph is moving at approximately 120 km/h",
+          "message": "Wrong: 60 mph = 96.56 km/h, not 120 km/h (off by 24.3%)."
+        }
+      ],
+      "ambers": 0
+    },
+    {
+      "id": "batch3#4/inject40",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "4.7 km/h",
+          "start": 267,
+          "category": "conversion",
+          "note": "was '3.6 km/h', changed x1.3",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 2,
+      "other_reds": [
+        {
+          "text": "60 mph is moving at approximately 120 km/h",
+          "message": "Wrong: 60 mph = 96.56 km/h, not 120 km/h (off by 24.3%)."
+        }
+      ],
+      "ambers": 0
+    },
+    {
+      "id": "batch3#5/inject41",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "7.71 lb",
+          "start": 210,
+          "category": "conversion",
+          "note": "was '11.02 lb', changed x0.7",
+          "outcome": "missed: not detected"
+        }
+      ],
+      "claims_checked": 2,
+      "other_reds": [
+        {
+          "text": "190 lb, while someone weighing 5 kg",
+          "message": "Wrong: 190 lb = 86.18 kg, not 5 kg (off by 94.2%)."
+        }
+      ],
+      "ambers": 0
+    },
+    {
+      "id": "batch3#5/inject42",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "88.45 kg",
+          "start": 280,
+          "category": "conversion",
+          "note": "was '68.04 kg', changed x1.3",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 2,
+      "other_reds": [
+        {
+          "text": "190 lb, while someone weighing 5 kg",
+          "message": "Wrong: 190 lb = 86.18 kg, not 5 kg (off by 94.2%)."
+        }
+      ],
+      "ambers": 0
+    },
+    {
+      "id": "batch3#9/inject43",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "2.81 km",
+          "start": 234,
+          "category": "conversion",
+          "note": "was '4.02 km', changed x0.7",
+          "outcome": "missed: not detected"
+        }
+      ],
+      "claims_checked": 1,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch3#9/inject44",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "20.92 km",
+          "start": 301,
+          "category": "conversion",
+          "note": "was '16.09 km', changed x1.3",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 1,
+      "other_reds": [],
+      "ambers": 0
+    },
+    {
+      "id": "batch3#10/inject45",
+      "kind": "injected",
+      "errors": [
+        {
+          "text": "0.52 litres",
+          "start": 276,
+          "category": "conversion",
+          "note": "was '0.75 litres', changed x0.7",
+          "outcome": "caught"
+        }
+      ],
+      "claims_checked": 3,
+      "other_reds": [
+        {
+          "text": "2.4 m by 3 m",
+          "message": "Wrong: 2.4 m = 2.4 m, not 3 m (off by 25.0%)."
+        }
+      ],
+      "ambers": 0
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+Below are 9 short paragraphs. Check every number in them. For each paragraph, list
+every number that is factually wrong: wrong population figures, wrong unit conversions,
+or wrong arithmetic. Ignore small rounding differences. Answer from your own knowledge;
+do not search the web.
+
+Output ONLY valid JSON, no other text: a list with one object per paragraph, each with
+"id" (for example "P07") and "wrong_numbers": a list of objects with "text" (the wrong
+number exactly as it is written in the paragraph) and "correct_value". If every number
+in a paragraph is correct, use an empty list.
+
+
+P71: Russia had an estimated population of approximately 144.0 million in 2025. In 1960, the Russian Soviet Federative Socialist Republic had approximately 119.9 million inhabitants, while the Russian Federation had approximately 146.4 million residents in 2000. By 2020, Russia's population was approximately 145.6 million. Changes in birth rates, mortality, migration, and the dissolution of the Soviet Union have shaped its demographic history.
+
+P72: Australia's population reached approximately 27.0 million in 2025, making it the most populous country in Oceania. In 1960, Australia had approximately 9.1 million inhabitants, increasing to around 19.0 million by 2000. By 2020, its population had reached approximately 25.7 million. Immigration has played a significant role in Australia's population growth, particularly in major metropolitan areas such as Sydney and Melbourne.
+
+P73: When shipping a package, its dimensions and weight are often required to calculate the delivery cost. A box measuring 40 cm (17.64 inches) long, 30 cm (11.81 inches) wide, and 20 cm (7.87 inches) tall has a volume of 24,000 cm³ (1,464.57 cubic inches). If the package weighs 5 kg (11.02 pounds), the shipping company may charge based on its actual weight or dimensional weight. Checking both metric and imperial measurements helps prevent shipping delays.
+
+P74: Ghana's population is estimated at approximately 35.1 million in 2025. Historical figures show that the country had around 6.6 million inhabitants in 1960, increasing to approximately 11.9 million in 1980. By 2000, the population had grown to roughly 19.5 million, reaching approximately 32.8 million by 2020. Urbanization and improvements in public health have accompanied this demographic expansion.
+
+P75: When planning a garden, knowing the correct measurements helps determine how much soil and water you need. A garden bed measuring 2 m (6.56 ft) long and 1.5 m (4.92 ft) wide has an area of 3 m² (32.29 square feet). Adding a 5 cm (1.97 inches) layer of compost requires approximately 0.15 m³ (5.94 cubic feet) of material. Many vegetables also benefit from approximately 25 mm (0.98 inches) of water per week, depending on rainfall and soil conditions.
+
+P76: New Zealand had a population of approximately 5.25 million in 2025. In 1960, its population was approximately 2.37 million, increasing to around 3.85 million by 2000. By 2020, the population had reached approximately 5.09 million. Population growth has been influenced by immigration, natural population increases, and the expansion of urban centers such as Auckland.
+
+P77: Chile had a population of approximately 18.47 million in 2025, making it one of the more populous countries in South America. In 1960, its population was approximately 7.65 million, reflecting substantial growth over 65 years. By 2000, the population had reached approximately 15.4 million, and by 2020 it was around 19.3 million. This growth reflects improvements in healthcare, declining mortality rates, and urbanization.
+
+P78: Cuba had an estimated population of approximately 10.1 million in 2025. Its population was around 7.1 million in 1960, before increasing to approximately 11.1 million by 2000. In 2020, Cuba's population was approximately 11.3 million. More recently, declining birth rates, an aging population, and emigration have contributed to population decline.
+
+P79: Kenya's population is estimated at approximately 53.5 million in 2025, making it one of the most populous countries in East Africa. In 1960, the country had roughly 8.1 million people, increasing to 16.6 million by 1980. By 2000, the population had reached approximately 30.7 million, before rising to around 53.0 million in 2020. This growth reflects high birth rates, improvements in healthcare, and declining mortality over several decades.

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "paragraph": "Canada's population has grown considerably since the 1960s, when it had approximately 24.5 million people in 1960. By 2000, the population had reached approximately 30.7 million, increasing further to 38.0 million in 2020. According to United Nations medium-variant projections, Canada's population is expected to approach approximately 45 million by 2050.",
+    "planted_errors": [
+      {
+        "text": "24.5 million",
+        "true_value": 17909
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "paragraph": "Germany had a population of approximately 72.8 million in 1960, making it one of Europe's most populous countries. Its population increased to approximately 82.2 million in 2000 and reached around 83.2 million in 2020. By 2050, Germany's population is projected to be approximately 79 million, reflecting its aging population and relatively low birth rate.",
+    "planted_errors": [
+      {
+        "text": "82.2 million",
+        "true_value": 82163
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "paragraph": "The United States experienced substantial population growth between 1960 and 2020. Its population was approximately 180.7 million in 1960, increased to 281.7 million in 2000, and reached approximately 331 million in 2020. United Nations projections suggest that the population could reach approximately 380.8 million by 2050, although the actual figure will depend on migration, fertility, and mortality trends.",
+    "planted_errors": [
+      {
+        "text": "331 million",
+        "true_value": 331449281
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "paragraph": "Brazil is the most populous country in South America, with approximately 72.4 million inhabitants in 1960. Its population grew to around 174 million by 2000 and approximately 208.7 million in 2020. The United Nations projects that Brazil could have approximately 217.5 million inhabitants by 2050, followed by a gradual population decline later in the century.",
+    "planted_errors": [
+      {
+        "text": "174 million",
+        "true_value": 174018282
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "paragraph": "France's population has increased steadily over several decades, rising from approximately 46.6 million in 1960 to 58.9 million in 2000. By 2020, France had approximately 67.4 million residents, making it one of the largest populations in Western Europe. Future projections suggest that France could have approximately 68 million people by 2050, depending on demographic developments.",
+    "planted_errors": [
+      {
+        "text": "58.9 million",
+        "true_value": 60700000
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "paragraph": "Mexico's population increased dramatically during the second half of the 20th century. In 1960, the country had approximately 38.2 million inhabitants, compared with approximately 98 million in 2000 and 126 million in 2020. United Nations projections indicate that Mexico's population could reach approximately 148 million by 2050, although growth is expected to slow as fertility rates decline.",
+    "planted_errors": [
+      {
+        "text": "38.2 million",
+        "true_value": 36297000
+      },
+      {
+        "text": "98 million",
+        "true_value": 97483300
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "paragraph": "Italy's population has experienced relatively modest changes compared with many countries in the Americas. It had approximately 50 million inhabitants in 1960 and grew to approximately 56.9 million by 2000. In 2020, Italy's population was approximately 59.4 million, but United Nations projections suggest it could decline to approximately 53 million by 2050 because of low fertility and population aging.",
+    "planted_errors": [
+      {
+        "text": "56.9 million",
+        "true_value": 56900000
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "paragraph": "Argentina had approximately 20.6 million residents in 1960, increasing to approximately 36.9 million in 2000. By 2020, its population had reached approximately 45.2 million, making it one of the largest countries in South America by population. The United Nations medium-variant projection estimates that Argentina could have approximately 51 million inhabitants by 2050.",
+    "planted_errors": [
+      {
+        "text": "20.6 million",
+        "true_value": 20600000
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "paragraph": "The world's population has increased substantially since the middle of the 20th century. It stood at approximately 3.0 billion in 1960, reached around 6.1 billion in 2000, and exceeded 7.8 billion in 2020. The United Nations projects that global population will reach approximately 9.7 billion by 2050 and peak at around 10.3 billion during the mid-2080s before declining slightly toward 10.2 billion by 2100.",
+    "planted_errors": [
+      {
+        "text": "6.1 billion",
+        "true_value": 6143490000
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "paragraph": "Spain's population grew from approximately 30.5 million in 1960 to around 40.5 million in 2000. By 2020, Spain had approximately 47.4 million inhabitants, reflecting decades of population growth and immigration. Looking toward the future, United Nations projections suggest that Europe's overall population could decline from approximately 744 million in 2025 to around 703 million by 2050, although individual countries will experience different demographic trends.",
+    "planted_errors": [
+      {
+        "text": "40.5 million",
+        "true_value": 40263200
+      }
+    ]
+  }
+]

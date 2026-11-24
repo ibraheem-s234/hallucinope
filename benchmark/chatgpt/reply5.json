@@ -1,0 +1,85 @@
+[\
+&#x20; {\
+&#x20;   "id": "P41",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "1.5 US cups",\
+&#x20;       "correct_value": "approximately 1.06 US cups"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P42",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P43",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "43.50 mph",\
+&#x20;       "correct_value": "approximately 62.14 mph"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P44",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P45",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "0.985 billion",\
+&#x20;       "correct_value": "approximately 1.416 billion"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P46",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "4.3 billion",\
+&#x20;       "correct_value": "approximately 6.1 billion"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P47",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "80°F",\
+&#x20;       "correct_value": "68°F"\
+&#x20;     },\
+&#x20;     {\
+&#x20;       "text": "112°F",\
+&#x20;       "correct_value": "86°F"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P48",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P49",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "4.0 miles",\
+&#x20;       "correct_value": "approximately 3.11 miles"\
+&#x20;     },\
+&#x20;     {\
+&#x20;       "text": "9.70 miles",\
+&#x20;       "correct_value": "approximately 7.46 miles"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P50",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "120 km/h",\
+&#x20;       "correct_value": "approximately 96.56 km/h"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; }\
+]

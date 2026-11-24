@@ -1,0 +1,67 @@
+[\
+&#x20; {\
+&#x20;   "id": "P11",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "6.32 inches",\
+&#x20;       "correct_value": "5.91 inches"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P12",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "1.09 miles",\
+&#x20;       "correct_value": "1.24 miles"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P13",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "28.42 square feet",\
+&#x20;       "correct_value": "32.29 square feet"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P14",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P15",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P16",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "31.8 million",\
+&#x20;       "correct_value": "28.4 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P17",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P18",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "38.1 million",\
+&#x20;       "correct_value": "34.0 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P19",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P20",\
+&#x20;   "wrong_numbers": []\
+&#x20; }\
+]

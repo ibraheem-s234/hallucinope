@@ -1,0 +1,89 @@
+[\
+&#x20; {\
+&#x20;   "id": "P51",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "15 m²",\
+&#x20;       "correct_value": "11.15 m²"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P52",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "190 lb",\
+&#x20;       "correct_value": "154.32 lb"\
+&#x20;     },\
+&#x20;     {\
+&#x20;       "text": "88.45 kg",\
+&#x20;       "correct_value": "68.04 kg"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P53",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "18.2 million",\
+&#x20;       "correct_value": "Approximately 17.9 million"\
+&#x20;     },\
+&#x20;     {\
+&#x20;       "text": "21.5 million",\
+&#x20;       "correct_value": "Approximately 30.7 million"\
+&#x20;     },\
+&#x20;     {\
+&#x20;       "text": "39.7 million",\
+&#x20;       "correct_value": "Approximately 41.3 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P54",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P55",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "48.1 million",\
+&#x20;       "correct_value": "Approximately 68.6 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P56",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "100°F",\
+&#x20;       "correct_value": "77°F"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P57",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "25°C",\
+&#x20;       "correct_value": "20°C"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P58",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P59",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "100 kg",\
+&#x20;       "correct_value": "81.65 kg"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P60",\
+&#x20;   "wrong_numbers": []\
+&#x20; }\
+]

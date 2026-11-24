@@ -1,0 +1,30 @@
+Below are 10 short paragraphs. Check every number in them. For each paragraph, list
+every number that is factually wrong: wrong population figures, wrong unit conversions,
+or wrong arithmetic. Ignore small rounding differences. Answer from your own knowledge;
+do not search the web.
+
+Output ONLY valid JSON, no other text: a list with one object per paragraph, each with
+"id" (for example "P07") and "wrong_numbers": a list of objects with "text" (the wrong
+number exactly as it is written in the paragraph) and "correct_value". If every number
+in a paragraph is correct, use an empty list.
+
+
+P51: Morocco has an estimated population of approximately 38.4 million in 2025. In 1960, its population was around 12.3 million, rising to approximately 20.4 million by 1980. The population reached roughly 32.3 million in 2000 and approximately 36.7 million in 2020. Declining mortality and improvements in life expectancy have played important roles in the country's demographic development.
+
+P52: During air travel, passengers often see their cruising altitude displayed in feet and metres. A commercial aircraft flying at 35,000 ft (10,668 m) is travelling at a typical cruising altitude. If the aircraft covers 800 km (497.10 miles) in 1 hour, its average ground speed is 800 km/h (497.10 mph). Airport baggage allowances may also specify a maximum checked-bag weight of 23 kg (50.71 pounds).
+
+P53: Poland's population is estimated at approximately 38.1 million in 2025. In 1960, the country had roughly 26.0 million inhabitants, increasing to approximately 35.6 million by 1980. Its population reached around 38.3 million in 2000 and approximately 38.0 million in 2020. More recently, low fertility rates, emigration, and an aging population have contributed to demographic stagnation and decline.
+
+P54: Malaysia's population is estimated at approximately 36.0 million in 2025. In 1960, the country had around 8.2 million people, increasing to approximately 13.8 million by 1980. Its population reached roughly 23.2 million in 2000 and approximately 33.4 million in 2020. Economic development, urbanization, and natural population growth have contributed to these demographic changes.
+
+P55: New Zealand had a population of approximately 5.25 million in 2025. In 1960, its population was approximately 2.37 million, increasing to around 4.12 million by 2000. By 2020, the population had reached approximately 5.09 million. Population growth has been influenced by immigration, natural population increases, and the expansion of urban centers such as Auckland.
+
+P56: Russia had an estimated population of approximately 144.0 million in 2025. In 1960, the Russian Soviet Federative Socialist Republic had approximately 119.9 million inhabitants, while the Russian Federation had approximately 136.2 million residents in 2000. By 2020, Russia's population was approximately 145.6 million. Changes in birth rates, mortality, migration, and the dissolution of the Soviet Union have shaped its demographic history.
+
+P57: When planning a garden, knowing the correct measurements helps determine how much soil and water you need. A garden bed measuring 2 m (6.56 ft) long and 1.5 m (4.92 ft) wide has an area of 3 m² (32.29 square feet). Adding a 5 cm (1.97 inches) layer of compost requires approximately 0.15 m³ (5.30 cubic feet) of material. Many vegetables also benefit from approximately 25 mm (0.98 inches) of water per week, depending on rainfall and soil conditions.
+
+P58: Cuba had an estimated population of approximately 10.9 million in 2025. Its population was around 7.1 million in 1960, before increasing to approximately 11.1 million by 2000. In 2020, Cuba's population was approximately 11.3 million. More recently, declining birth rates, an aging population, and emigration have contributed to population decline.
+
+P59: Australia's population reached approximately 27.0 million in 2025, making it the most populous country in Oceania. In 1960, Australia had approximately 10.3 million inhabitants, increasing to around 19.0 million by 2000. By 2020, its population had reached approximately 28.8 million. Immigration has played a significant role in Australia's population growth, particularly in major metropolitan areas such as Sydney and Melbourne.
+
+P60: South Korea has an estimated population of approximately 51.7 million in 2025. Its population was around 22.0 million in 1960 and increased to approximately 38.1 million by 1980. By 2000, the population had reached roughly 46.8 million, before growing to approximately 51.8 million in 2020. Unlike many developing countries, South Korea now faces demographic challenges associated with extremely low fertility and an aging population.

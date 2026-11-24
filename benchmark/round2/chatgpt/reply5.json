@@ -1,0 +1,77 @@
+[\
+&#x20; {\
+&#x20;   "id": "P41",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P42",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "6,005 BTU/h",\
+&#x20;       "correct_value": "6,824 BTU/h"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P43",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P44",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "15.1 million",\
+&#x20;       "correct_value": "14.1 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P45",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P46",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "108.3 million",\
+&#x20;       "correct_value": "Approximately 123 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P47",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "10.34 minutes per mile",\
+&#x20;       "correct_value": "9.66 minutes per mile"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P48",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "42.6 million",\
+&#x20;       "correct_value": "Approximately 38.0 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P49",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "47.16 pounds",\
+&#x20;       "correct_value": "50.71 pounds"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P50",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "52.4 million",\
+&#x20;       "correct_value": "Approximately 47.0 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; }\
+]

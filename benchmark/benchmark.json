@@ -1,0 +1,876 @@
+[
+  {
+    "id": "batch4#1",
+    "kind": "natural",
+    "text": "Canada had a population of approximately 41.6 million people in 2025, making it one of the world's most populous countries. Ontario had approximately 16.2 million residents, representing about 39% of Canada's population. Quebec had approximately 9.1 million people, while British Columbia had approximately 5.7 million. Canada's nominal GDP was approximately $2.32 trillion USD in 2025, with GDP per capita reaching approximately $55,698 USD.",
+    "errors": []
+  },
+  {
+    "id": "batch4#2",
+    "kind": "natural",
+    "text": "India had an estimated population of approximately 1.464 billion people in 2025, while China had approximately 1.407 billion. The United States had approximately 341.8 million residents, making it the 3rd most populous country. India's nominal GDP was approximately $3.96 trillion USD in 2025, compared with China's $19.50 trillion USD. India's population was therefore more than 4 times larger than that of the United States.",
+    "errors": []
+  },
+  {
+    "id": "batch4#3",
+    "kind": "natural",
+    "text": "Toronto is Canada's largest metropolitan area, with approximately 6.2 million residents recorded in the 2021 census. Montreal had approximately 4.29 million people, while Vancouver had approximately 2.64 million. Calgary's metropolitan population was approximately 1.48 million in 2021, and Ottawa-Gatineau had approximately 1.49 million. Together, these metropolitan areas account for a substantial portion of Canada's urban population.",
+    "errors": []
+  },
+  {
+    "id": "batch4#4",
+    "kind": "natural",
+    "text": "Unit conversions are useful when comparing measurements from different systems. A distance of 15 km is equivalent to 9.32 miles, while 100 miles is approximately 160.93 km. If a vehicle travels at 100 km/h, its speed is approximately 62.14 mph. Similarly, a temperature of 25°C is equivalent to 77°F, using the formula °F = (°C × 9/5) + 32.",
+    "errors": []
+  },
+  {
+    "id": "batch4#5",
+    "kind": "natural",
+    "text": "The United States had an estimated population of approximately 341.8 million in 2025, while California had approximately 39.5 million residents. Texas had approximately 31.7 million people, making it the 2nd most populous state. New York State had approximately 20 million residents, while Florida had approximately 23.8 million. The United States recorded a nominal GDP of approximately $30.77 trillion USD in 2025, the largest national economy in the world.",
+    "errors": []
+  },
+  {
+    "id": "batch4#6",
+    "kind": "natural",
+    "text": "Population density helps explain how people are distributed across different geographical areas. Bangladesh had approximately 175.7 million residents in 2025 despite having a land area of approximately 148,460 km². Pakistan had approximately 255.2 million people, while Nigeria had approximately 237.5 million. By comparison, Brazil had approximately 212.8 million residents across an area of approximately 8.52 million km². These figures demonstrate how population size and geographical area can vary considerably between countries.",
+    "errors": []
+  },
+  {
+    "id": "batch4#7",
+    "kind": "natural",
+    "text": "Cooking measurements frequently require conversions between metric and imperial units. One US cup holds approximately 236.59 mL, while 1 US tablespoon equals approximately 14.79 mL. A recipe requiring 500 g of flour needs approximately 1.10 pounds of flour. Additionally, 2 litres of water is equivalent to approximately 0.53 US gallons. These conversions help ensure accurate ingredient measurements when following international recipes.",
+    "errors": []
+  },
+  {
+    "id": "batch4#8",
+    "kind": "natural",
+    "text": "Germany had approximately 83.5 million residents in 2025, while France had approximately 68.7 million and Italy had approximately 58.9 million. Germany's nominal GDP reached approximately $5.05 trillion USD in 2025, making it Europe's largest national economy. France recorded a nominal GDP of approximately $3.37 trillion USD, while Italy reached approximately $2.55 trillion USD. Germany's GDP per capita was approximately $60,496 USD, compared with approximately $49,000 USD in France.",
+    "errors": []
+  },
+  {
+    "id": "batch4#9",
+    "kind": "natural",
+    "text": "Area and volume measurements are important when calculating the dimensions of buildings and rooms. A rectangular room measuring 5 m by 4 m has a floor area of 20 m². If its ceiling is 2.5 m high, its total internal volume is 50 m³. One square metre is equivalent to approximately 10.764 square feet, meaning that a 100 m² apartment has approximately 1,076.4 square feet of floor space. One cubic metre is also equivalent to 1,000 litres.",
+    "errors": []
+  },
+  {
+    "id": "batch4#10",
+    "kind": "natural",
+    "text": "Australia had approximately 27 million residents in 2025, while its largest state, New South Wales, had approximately 8.5 million people. Victoria had approximately 7 million residents, and Queensland had approximately 5.7 million. Australia's nominal GDP was approximately $1.80 trillion USD in 2025, with annual GDP growth of approximately 2.1% according to World Bank data. Its population is concentrated primarily in major coastal cities such as Sydney, Melbourne, Brisbane and Perth.",
+    "errors": []
+  },
+  {
+    "id": "batch5#1",
+    "kind": "natural",
+    "text": "The world's population has increased dramatically over the past century. In 1950, approximately 2.5 billion people lived on Earth, compared with 3.0 billion in 1960 and 6.1 billion in 2000. By 2024, the global population had reached approximately 8.2 billion. This growth reflects improvements in healthcare, sanitation, nutrition, and life expectancy.",
+    "errors": []
+  },
+  {
+    "id": "batch5#2",
+    "kind": "natural",
+    "text": "Canada's population has grown considerably since the middle of the 20th century. In 1950, the country had approximately 14 million residents, increasing to around 18.2 million by 1960 and 30.7 million by 2000. By 2024, Canada's population had reached approximately 39.7 million. The United Nations projects that it could reach approximately 46.1 million by 2054.",
+    "errors": []
+  },
+  {
+    "id": "batch5#3",
+    "kind": "natural",
+    "text": "India has experienced substantial population growth since independence in 1947. Its population was approximately 376 million in 1950, increased to around 1.05 billion by 2000, and reached approximately 1.45 billion in 2024. India is projected to have approximately 1.68 billion people by 2050. Population growth is expected to slow as fertility rates decline.",
+    "errors": []
+  },
+  {
+    "id": "batch5#4",
+    "kind": "natural",
+    "text": "China's population experienced rapid growth throughout much of the 20th century. It had approximately 544 million residents in 1950, compared with 1.26 billion in 2000 and approximately 1.42 billion in 2021. Its population subsequently began declining, reaching approximately 1.42 billion in 2024. United Nations projections suggest that China's population could fall to approximately 633 million by 2100.",
+    "errors": []
+  },
+  {
+    "id": "batch5#5",
+    "kind": "natural",
+    "text": "The United Nations projects that the global population will continue growing over the coming decades, although the growth rate will gradually decrease. Its 2024 medium projection estimates approximately 9.8 billion people by 2054 and approximately 10.2 billion by 2100. The population is expected to peak at around 10.3 billion during the 2080s. These projections depend on future fertility, mortality, and migration patterns.",
+    "errors": []
+  },
+  {
+    "id": "batch5#6",
+    "kind": "natural",
+    "text": "If you are planning a road trip from Toronto to Montreal, the driving distance is approximately 543 km, depending on your route. At an average speed of 100 km/h, the journey would take approximately 5.4 hours without stops. A vehicle consuming 8 L of fuel per 100 km would use approximately 43.4 L for the trip. You should also account for traffic, rest breaks, and possible construction delays.",
+    "errors": []
+  },
+  {
+    "id": "batch5#7",
+    "kind": "natural",
+    "text": "A trip from Vancouver to Calgary covers approximately 970 km by road, depending on the chosen route. If you drive at an average speed of 90 km/h, the journey would require approximately 10.8 hours of driving. For a vehicle with a fuel consumption rate of 9 L per 100 km, the trip would require approximately 87.3 L of fuel. Mountain weather and road conditions can significantly affect travel times.",
+    "errors": []
+  },
+  {
+    "id": "batch5#8",
+    "kind": "natural",
+    "text": "When preparing a basic pancake recipe for 4 people, you can use 250 g of all-purpose flour, 300 mL of milk, and 2 large eggs. Add approximately 30 g of melted butter and 15 g of sugar to improve the flavour and texture. Mix the ingredients until combined, then cook each pancake for approximately 2 minutes per side. This recipe should produce around 8 medium-sized pancakes.",
+    "errors": []
+  },
+  {
+    "id": "batch5#9",
+    "kind": "natural",
+    "text": "For a simple pasta dinner serving 4 people, prepare approximately 400 g of dry pasta and 2 L of water for boiling. Add around 20 g of salt to the cooking water and prepare a sauce using 400 g of crushed tomatoes, 15 mL of olive oil, and 10 g of minced garlic. Most dried pasta takes approximately 8–12 minutes to cook, depending on its shape and thickness. Reserve approximately 120 mL of pasta water before draining if you want to adjust the sauce consistency.",
+    "errors": []
+  },
+  {
+    "id": "batch5#10",
+    "kind": "natural",
+    "text": "A standard baking recipe for 12 muffins might require 250 g of flour, 150 g of sugar, 120 mL of milk, and 100 g of melted butter. You would also need approximately 2 large eggs, 10 g of baking powder, and 2 mL of vanilla extract. Bake the muffins at 180°C for approximately 18–22 minutes. Allow them to cool for at least 10 minutes before removing them from the baking tray.",
+    "errors": []
+  },
+  {
+    "id": "batch1#1",
+    "kind": "chatgpt",
+    "text": "Nigeria is the most populous country in Africa, with an estimated population of 280 million in 2025. Its population has grown considerably from approximately 45 million in 1960. Ethiopia, the second-most populous country in Africa, has approximately 135 million people, making it one of the continent's largest nations.",
+    "errors": [
+      {
+        "text": "280 million",
+        "start": 80,
+        "category": "population",
+        "note": "Nigeria 2025: ~238M (17% off)"
+      }
+    ]
+  },
+  {
+    "id": "batch1#2",
+    "kind": "chatgpt",
+    "text": "Ethiopia has experienced rapid population growth over the past several decades, reaching approximately 110 million people in 2025. Egypt has a population of approximately 118 million, with most residents living near the Nile River. Together, these 2 countries account for a significant portion of Africa's population.",
+    "errors": [
+      {
+        "text": "110 million",
+        "start": 103,
+        "category": "population",
+        "note": "Ethiopia 2025: ~135M (19% off)"
+      }
+    ]
+  },
+  {
+    "id": "batch1#4",
+    "kind": "chatgpt",
+    "text": "Bangladesh has a population of approximately 176 million people, making it one of the most densely populated countries in the world. Its land area is approximately 147,570 square kilometres, resulting in a population density of around 1,193 people per square kilometre. In 1971, when Bangladesh became independent, its population was approximately 75 million.",
+    "errors": [
+      {
+        "text": "75 million",
+        "start": 348,
+        "category": "population",
+        "note": "Bangladesh 1971: ~67M (12% off)"
+      }
+    ]
+  },
+  {
+    "id": "batch2#1",
+    "kind": "chatgpt",
+    "text": "Canada's population has grown considerably since the 1960s, when it had approximately 24.5 million people in 1960. By 2000, the population had reached approximately 30.7 million, increasing further to 38.0 million in 2020. According to United Nations medium-variant projections, Canada's population is expected to approach approximately 45 million by 2050.",
+    "errors": [
+      {
+        "text": "24.5 million",
+        "start": 86,
+        "category": "population",
+        "note": "Canada 1960: 17.9M (37% off)"
+      }
+    ]
+  },
+  {
+    "id": "batch3#1",
+    "kind": "chatgpt",
+    "text": "When preparing a recipe, 1 US cup of water is approximately 300 mL, while 2 tablespoons equal 30 mL and 1 teaspoon equals 5 mL. If an oven is set to 350°F, the equivalent temperature is approximately 177°C. For a smaller recipe, 500 mL of milk is equivalent to approximately 2.11 US cups.",
+    "errors": [
+      {
+        "text": "300 mL",
+        "start": 60,
+        "category": "conversion",
+        "note": "1 US cup = 236.6 mL"
+      }
+    ]
+  },
+  {
+    "id": "batch3#2",
+    "kind": "chatgpt",
+    "text": "When planning a road trip, converting kilometres into miles can help estimate travel distances. A journey of 5 km is approximately 4.0 miles, while 12 km is approximately 7.46 miles. If a driver travels at 100 km/h, their speed is equivalent to approximately 62.14 mph. A 250 km trip would take 2.5 hours at an average speed of 100 km/h.",
+    "errors": [
+      {
+        "text": "4.0 miles",
+        "start": 131,
+        "category": "conversion",
+        "note": "5 km = 3.11 miles"
+      }
+    ]
+  },
+  {
+    "id": "batch3#3",
+    "kind": "chatgpt",
+    "text": "Understanding temperature conversions is useful when comparing weather forecasts from different countries. A temperature of 20°C is equivalent to 80°F, while 0°C corresponds to 32°F. On a particularly warm day, 30°C is equivalent to 86°F. Water freezes at approximately 0°C and boils at approximately 100°C under standard atmospheric pressure.",
+    "errors": [
+      {
+        "text": "80°F",
+        "start": 146,
+        "category": "conversion",
+        "note": "20 °C = 68 °F"
+      }
+    ]
+  },
+  {
+    "id": "batch3#4",
+    "kind": "chatgpt",
+    "text": "Speed conversions are especially useful when driving in countries that use different measurement systems. A vehicle travelling at 60 mph is moving at approximately 120 km/h. Similarly, 90 km/h is equivalent to approximately 55.92 mph. A speed of 1 m/s corresponds to 3.6 km/h, which is useful when studying walking and running speeds.",
+    "errors": [
+      {
+        "text": "120 km/h",
+        "start": 164,
+        "category": "conversion",
+        "note": "60 mph = 96.6 km/h"
+      }
+    ]
+  },
+  {
+    "id": "batch3#5",
+    "kind": "chatgpt",
+    "text": "Body weight is commonly measured in kilograms in Canada and pounds in the United States. A person weighing 70 kg has a weight of approximately 190 lb, while someone weighing 5 kg is equivalent to approximately 11.02 lb. Conversely, a weight of 150 lb corresponds to approximately 68.04 kg. These conversions are helpful when comparing measurements from different fitness devices.",
+    "errors": [
+      {
+        "text": "190 lb",
+        "start": 143,
+        "category": "conversion",
+        "note": "70 kg = 154.3 lb"
+      }
+    ]
+  },
+  {
+    "id": "batch3#6",
+    "kind": "chatgpt",
+    "text": "Calculating room area is important when purchasing flooring or planning furniture arrangements. A room measuring 12 ft by 10 ft has an area of 120 square feet, which is approximately 15 m². For comparison, 1 m² is equivalent to approximately 10.764 square feet. A larger room measuring 15 ft by 20 ft would have an area of 300 square feet.",
+    "errors": [
+      {
+        "text": "15 m²",
+        "start": 183,
+        "category": "conversion",
+        "note": "120 sq ft = 11.15 m²"
+      }
+    ]
+  },
+  {
+    "id": "batch3#8",
+    "kind": "chatgpt",
+    "text": "Cooking measurements frequently require converting between metric and imperial units. A measuring jug containing 250 mL of liquid holds approximately 1.5 US cups. Similarly, 1 litre is equivalent to approximately 4.23 US cups, and 15 mL equals 1 tablespoon. For a large recipe, 2 litres of water would provide approximately 8.45 US cups.",
+    "errors": [
+      {
+        "text": "1.5 US cups",
+        "start": 150,
+        "category": "conversion",
+        "note": "250 mL = 1.06 US cups"
+      }
+    ]
+  },
+  {
+    "id": "batch3#9",
+    "kind": "chatgpt",
+    "text": "Temperature and distance conversions are useful when travelling internationally. A weather forecast showing 68°F indicates a temperature of approximately 25°C. If a destination is located 2.5 miles away, the distance is approximately 4.02 km. A longer journey of 10 miles corresponds to approximately 16.09 km, which can help travellers estimate transportation distances.",
+    "errors": [
+      {
+        "text": "25°C",
+        "start": 154,
+        "category": "conversion",
+        "note": "68 °F = 20 °C"
+      }
+    ]
+  },
+  {
+    "id": "batch3#10",
+    "kind": "chatgpt",
+    "text": "Everyday measurements often involve converting body weight, room dimensions, and liquid volumes. A person weighing 180 lb has a body weight of approximately 100 kg. Meanwhile, a room measuring 2.4 m by 3 m has a floor area of 7.2 m². A bottle containing 750 mL of water holds 0.75 litres, while 3 litres is equivalent to 3,000 mL.",
+    "errors": [
+      {
+        "text": "100 kg",
+        "start": 157,
+        "category": "conversion",
+        "note": "180 lb = 81.6 kg"
+      }
+    ]
+  },
+  {
+    "id": "batch4#1/inject1",
+    "kind": "injected",
+    "text": "Canada had a population of approximately 29.1 million people in 2025, making it one of the world's most populous countries. Ontario had approximately 16.2 million residents, representing about 39% of Canada's population. Quebec had approximately 9.1 million people, while British Columbia had approximately 5.7 million. Canada's nominal GDP was approximately $2.32 trillion USD in 2025, with GDP per capita reaching approximately $55,698 USD.",
+    "errors": [
+      {
+        "text": "29.1 million",
+        "start": 41,
+        "category": "population",
+        "note": "was '41.6 million', changed x0.7"
+      }
+    ]
+  },
+  {
+    "id": "batch4#2/inject2",
+    "kind": "injected",
+    "text": "India had an estimated population of approximately 1.903 billion people in 2025, while China had approximately 1.407 billion. The United States had approximately 341.8 million residents, making it the 3rd most populous country. India's nominal GDP was approximately $3.96 trillion USD in 2025, compared with China's $19.50 trillion USD. India's population was therefore more than 4 times larger than that of the United States.",
+    "errors": [
+      {
+        "text": "1.903 billion",
+        "start": 51,
+        "category": "population",
+        "note": "was '1.464 billion', changed x1.3"
+      }
+    ]
+  },
+  {
+    "id": "batch4#2/inject3",
+    "kind": "injected",
+    "text": "India had an estimated population of approximately 1.464 billion people in 2025, while China had approximately 0.985 billion. The United States had approximately 341.8 million residents, making it the 3rd most populous country. India's nominal GDP was approximately $3.96 trillion USD in 2025, compared with China's $19.50 trillion USD. India's population was therefore more than 4 times larger than that of the United States.",
+    "errors": [
+      {
+        "text": "0.985 billion",
+        "start": 111,
+        "category": "population",
+        "note": "was '1.407 billion', changed x0.7"
+      }
+    ]
+  },
+  {
+    "id": "batch4#2/inject4",
+    "kind": "injected",
+    "text": "India had an estimated population of approximately 1.464 billion people in 2025, while China had approximately 1.407 billion. The United States had approximately 444.3 million residents, making it the 3rd most populous country. India's nominal GDP was approximately $3.96 trillion USD in 2025, compared with China's $19.50 trillion USD. India's population was therefore more than 4 times larger than that of the United States.",
+    "errors": [
+      {
+        "text": "444.3 million",
+        "start": 162,
+        "category": "population",
+        "note": "was '341.8 million', changed x1.3"
+      }
+    ]
+  },
+  {
+    "id": "batch4#4/inject5",
+    "kind": "injected",
+    "text": "Unit conversions are useful when comparing measurements from different systems. A distance of 15 km is equivalent to 6.52 miles, while 100 miles is approximately 160.93 km. If a vehicle travels at 100 km/h, its speed is approximately 62.14 mph. Similarly, a temperature of 25°C is equivalent to 77°F, using the formula °F = (°C × 9/5) + 32.",
+    "errors": [
+      {
+        "text": "6.52 miles",
+        "start": 117,
+        "category": "conversion",
+        "note": "was '9.32 miles', changed x0.7"
+      }
+    ]
+  },
+  {
+    "id": "batch4#4/inject6",
+    "kind": "injected",
+    "text": "Unit conversions are useful when comparing measurements from different systems. A distance of 15 km is equivalent to 9.32 miles, while 100 miles is approximately 209.21 km. If a vehicle travels at 100 km/h, its speed is approximately 62.14 mph. Similarly, a temperature of 25°C is equivalent to 77°F, using the formula °F = (°C × 9/5) + 32.",
+    "errors": [
+      {
+        "text": "209.21 km",
+        "start": 162,
+        "category": "conversion",
+        "note": "was '160.93 km', changed x1.3"
+      }
+    ]
+  },
+  {
+    "id": "batch4#4/inject7",
+    "kind": "injected",
+    "text": "Unit conversions are useful when comparing measurements from different systems. A distance of 15 km is equivalent to 9.32 miles, while 100 miles is approximately 160.93 km. If a vehicle travels at 100 km/h, its speed is approximately 43.50 mph. Similarly, a temperature of 25°C is equivalent to 77°F, using the formula °F = (°C × 9/5) + 32.",
+    "errors": [
+      {
+        "text": "43.50 mph",
+        "start": 234,
+        "category": "conversion",
+        "note": "was '62.14 mph', changed x0.7"
+      }
+    ]
+  },
+  {
+    "id": "batch4#4/inject8",
+    "kind": "injected",
+    "text": "Unit conversions are useful when comparing measurements from different systems. A distance of 15 km is equivalent to 9.32 miles, while 100 miles is approximately 160.93 km. If a vehicle travels at 100 km/h, its speed is approximately 62.14 mph. Similarly, a temperature of 25°C is equivalent to 100°F, using the formula °F = (°C × 9/5) + 32.",
+    "errors": [
+      {
+        "text": "100°F",
+        "start": 295,
+        "category": "conversion",
+        "note": "was '77°F', changed x1.3"
+      }
+    ]
+  },
+  {
+    "id": "batch4#5/inject9",
+    "kind": "injected",
+    "text": "The United States had an estimated population of approximately 239.3 million in 2025, while California had approximately 39.5 million residents. Texas had approximately 31.7 million people, making it the 2nd most populous state. New York State had approximately 20 million residents, while Florida had approximately 23.8 million. The United States recorded a nominal GDP of approximately $30.77 trillion USD in 2025, the largest national economy in the world.",
+    "errors": [
+      {
+        "text": "239.3 million",
+        "start": 63,
+        "category": "population",
+        "note": "was '341.8 million', changed x0.7"
+      }
+    ]
+  },
+  {
+    "id": "batch4#6/inject10",
+    "kind": "injected",
+    "text": "Population density helps explain how people are distributed across different geographical areas. Bangladesh had approximately 228.4 million residents in 2025 despite having a land area of approximately 148,460 km². Pakistan had approximately 255.2 million people, while Nigeria had approximately 237.5 million. By comparison, Brazil had approximately 212.8 million residents across an area of approximately 8.52 million km². These figures demonstrate how population size and geographical area can vary considerably between countries.",
+    "errors": [
+      {
+        "text": "228.4 million",
+        "start": 126,
+        "category": "population",
+        "note": "was '175.7 million', changed x1.3"
+      }
+    ]
+  },
+  {
+    "id": "batch4#6/inject11",
+    "kind": "injected",
+    "text": "Population density helps explain how people are distributed across different geographical areas. Bangladesh had approximately 175.7 million residents in 2025 despite having a land area of approximately 148,460 km². Pakistan had approximately 178.6 million people, while Nigeria had approximately 237.5 million. By comparison, Brazil had approximately 212.8 million residents across an area of approximately 8.52 million km². These figures demonstrate how population size and geographical area can vary considerably between countries.",
+    "errors": [
+      {
+        "text": "178.6 million",
+        "start": 242,
+        "category": "population",
+        "note": "was '255.2 million', changed x0.7"
+      }
+    ]
+  },
+  {
+    "id": "batch4#6/inject12",
+    "kind": "injected",
+    "text": "Population density helps explain how people are distributed across different geographical areas. Bangladesh had approximately 175.7 million residents in 2025 despite having a land area of approximately 148,460 km². Pakistan had approximately 255.2 million people, while Nigeria had approximately 308.8 million. By comparison, Brazil had approximately 212.8 million residents across an area of approximately 8.52 million km². These figures demonstrate how population size and geographical area can vary considerably between countries.",
+    "errors": [
+      {
+        "text": "308.8 million",
+        "start": 296,
+        "category": "population",
+        "note": "was '237.5 million', changed x1.3"
+      }
+    ]
+  },
+  {
+    "id": "batch4#6/inject13",
+    "kind": "injected",
+    "text": "Population density helps explain how people are distributed across different geographical areas. Bangladesh had approximately 175.7 million residents in 2025 despite having a land area of approximately 148,460 km². Pakistan had approximately 255.2 million people, while Nigeria had approximately 237.5 million. By comparison, Brazil had approximately 149.0 million residents across an area of approximately 8.52 million km². These figures demonstrate how population size and geographical area can vary considerably between countries.",
+    "errors": [
+      {
+        "text": "149.0 million",
+        "start": 351,
+        "category": "population",
+        "note": "was '212.8 million', changed x0.7"
+      }
+    ]
+  },
+  {
+    "id": "batch4#7/inject14",
+    "kind": "injected",
+    "text": "Cooking measurements frequently require conversions between metric and imperial units. One US cup holds approximately 236.59 mL, while 1 US tablespoon equals approximately 14.79 mL. A recipe requiring 500 g of flour needs approximately 1.43 pounds of flour. Additionally, 2 litres of water is equivalent to approximately 0.53 US gallons. These conversions help ensure accurate ingredient measurements when following international recipes.",
+    "errors": [
+      {
+        "text": "1.43 pounds",
+        "start": 236,
+        "category": "conversion",
+        "note": "was '1.10 pounds', changed x1.3"
+      }
+    ]
+  },
+  {
+    "id": "batch4#7/inject15",
+    "kind": "injected",
+    "text": "Cooking measurements frequently require conversions between metric and imperial units. One US cup holds approximately 236.59 mL, while 1 US tablespoon equals approximately 14.79 mL. A recipe requiring 500 g of flour needs approximately 1.10 pounds of flour. Additionally, 2 litres of water is equivalent to approximately 0.37 US gallons. These conversions help ensure accurate ingredient measurements when following international recipes.",
+    "errors": [
+      {
+        "text": "0.37 US gallons",
+        "start": 321,
+        "category": "conversion",
+        "note": "was '0.53 US gallons', changed x0.7"
+      }
+    ]
+  },
+  {
+    "id": "batch4#8/inject16",
+    "kind": "injected",
+    "text": "Germany had approximately 108.5 million residents in 2025, while France had approximately 68.7 million and Italy had approximately 58.9 million. Germany's nominal GDP reached approximately $5.05 trillion USD in 2025, making it Europe's largest national economy. France recorded a nominal GDP of approximately $3.37 trillion USD, while Italy reached approximately $2.55 trillion USD. Germany's GDP per capita was approximately $60,496 USD, compared with approximately $49,000 USD in France.",
+    "errors": [
+      {
+        "text": "108.5 million",
+        "start": 26,
+        "category": "population",
+        "note": "was '83.5 million', changed x1.3"
+      }
+    ]
+  },
+  {
+    "id": "batch4#8/inject17",
+    "kind": "injected",
+    "text": "Germany had approximately 83.5 million residents in 2025, while France had approximately 48.1 million and Italy had approximately 58.9 million. Germany's nominal GDP reached approximately $5.05 trillion USD in 2025, making it Europe's largest national economy. France recorded a nominal GDP of approximately $3.37 trillion USD, while Italy reached approximately $2.55 trillion USD. Germany's GDP per capita was approximately $60,496 USD, compared with approximately $49,000 USD in France.",
+    "errors": [
+      {
+        "text": "48.1 million",
+        "start": 89,
+        "category": "population",
+        "note": "was '68.7 million', changed x0.7"
+      }
+    ]
+  },
+  {
+    "id": "batch4#8/inject18",
+    "kind": "injected",
+    "text": "Germany had approximately 83.5 million residents in 2025, while France had approximately 68.7 million and Italy had approximately 76.6 million. Germany's nominal GDP reached approximately $5.05 trillion USD in 2025, making it Europe's largest national economy. France recorded a nominal GDP of approximately $3.37 trillion USD, while Italy reached approximately $2.55 trillion USD. Germany's GDP per capita was approximately $60,496 USD, compared with approximately $49,000 USD in France.",
+    "errors": [
+      {
+        "text": "76.6 million",
+        "start": 130,
+        "category": "population",
+        "note": "was '58.9 million', changed x1.3"
+      }
+    ]
+  },
+  {
+    "id": "batch4#9/inject19",
+    "kind": "injected",
+    "text": "Area and volume measurements are important when calculating the dimensions of buildings and rooms. A rectangular room measuring 5 m by 4 m has a floor area of 20 m². If its ceiling is 2.5 m high, its total internal volume is 50 m³. One square metre is equivalent to approximately 10.764 square feet, meaning that a 100 m² apartment has approximately 753.5 square feet of floor space. One cubic metre is also equivalent to 1,000 litres.",
+    "errors": [
+      {
+        "text": "753.5 square feet",
+        "start": 350,
+        "category": "conversion",
+        "note": "was '1,076.4 square feet', changed x0.7"
+      }
+    ]
+  },
+  {
+    "id": "batch4#10/inject20",
+    "kind": "injected",
+    "text": "Australia had approximately 35 million residents in 2025, while its largest state, New South Wales, had approximately 8.5 million people. Victoria had approximately 7 million residents, and Queensland had approximately 5.7 million. Australia's nominal GDP was approximately $1.80 trillion USD in 2025, with annual GDP growth of approximately 2.1% according to World Bank data. Its population is concentrated primarily in major coastal cities such as Sydney, Melbourne, Brisbane and Perth.",
+    "errors": [
+      {
+        "text": "35 million",
+        "start": 28,
+        "category": "population",
+        "note": "was '27 million', changed x1.3"
+      }
+    ]
+  },
+  {
+    "id": "batch5#1/inject21",
+    "kind": "injected",
+    "text": "The world's population has increased dramatically over the past century. In 1950, approximately 1.8 billion people lived on Earth, compared with 3.0 billion in 1960 and 6.1 billion in 2000. By 2024, the global population had reached approximately 8.2 billion. This growth reflects improvements in healthcare, sanitation, nutrition, and life expectancy.",
+    "errors": [
+      {
+        "text": "1.8 billion",
+        "start": 96,
+        "category": "population",
+        "note": "was '2.5 billion', changed x0.7"
+      }
+    ]
+  },
+  {
+    "id": "batch5#1/inject22",
+    "kind": "injected",
+    "text": "The world's population has increased dramatically over the past century. In 1950, approximately 2.5 billion people lived on Earth, compared with 3.9 billion in 1960 and 6.1 billion in 2000. By 2024, the global population had reached approximately 8.2 billion. This growth reflects improvements in healthcare, sanitation, nutrition, and life expectancy.",
+    "errors": [
+      {
+        "text": "3.9 billion",
+        "start": 145,
+        "category": "population",
+        "note": "was '3.0 billion', changed x1.3"
+      }
+    ]
+  },
+  {
+    "id": "batch5#1/inject23",
+    "kind": "injected",
+    "text": "The world's population has increased dramatically over the past century. In 1950, approximately 2.5 billion people lived on Earth, compared with 3.0 billion in 1960 and 4.3 billion in 2000. By 2024, the global population had reached approximately 8.2 billion. This growth reflects improvements in healthcare, sanitation, nutrition, and life expectancy.",
+    "errors": [
+      {
+        "text": "4.3 billion",
+        "start": 169,
+        "category": "population",
+        "note": "was '6.1 billion', changed x0.7"
+      }
+    ]
+  },
+  {
+    "id": "batch5#1/inject24",
+    "kind": "injected",
+    "text": "The world's population has increased dramatically over the past century. In 1950, approximately 2.5 billion people lived on Earth, compared with 3.0 billion in 1960 and 6.1 billion in 2000. By 2024, the global population had reached approximately 10.7 billion. This growth reflects improvements in healthcare, sanitation, nutrition, and life expectancy.",
+    "errors": [
+      {
+        "text": "10.7 billion",
+        "start": 247,
+        "category": "population",
+        "note": "was '8.2 billion', changed x1.3"
+      }
+    ]
+  },
+  {
+    "id": "batch5#2/inject25",
+    "kind": "injected",
+    "text": "Canada's population has grown considerably since the middle of the 20th century. In 1950, the country had approximately 10 million residents, increasing to around 18.2 million by 1960 and 30.7 million by 2000. By 2024, Canada's population had reached approximately 39.7 million. The United Nations projects that it could reach approximately 46.1 million by 2054.",
+    "errors": [
+      {
+        "text": "10 million",
+        "start": 120,
+        "category": "population",
+        "note": "was '14 million', changed x0.7"
+      }
+    ]
+  },
+  {
+    "id": "batch5#2/inject26",
+    "kind": "injected",
+    "text": "Canada's population has grown considerably since the middle of the 20th century. In 1950, the country had approximately 14 million residents, increasing to around 23.7 million by 1960 and 30.7 million by 2000. By 2024, Canada's population had reached approximately 39.7 million. The United Nations projects that it could reach approximately 46.1 million by 2054.",
+    "errors": [
+      {
+        "text": "23.7 million",
+        "start": 163,
+        "category": "population",
+        "note": "was '18.2 million', changed x1.3"
+      }
+    ]
+  },
+  {
+    "id": "batch5#2/inject27",
+    "kind": "injected",
+    "text": "Canada's population has grown considerably since the middle of the 20th century. In 1950, the country had approximately 14 million residents, increasing to around 18.2 million by 1960 and 21.5 million by 2000. By 2024, Canada's population had reached approximately 39.7 million. The United Nations projects that it could reach approximately 46.1 million by 2054.",
+    "errors": [
+      {
+        "text": "21.5 million",
+        "start": 188,
+        "category": "population",
+        "note": "was '30.7 million', changed x0.7"
+      }
+    ]
+  },
+  {
+    "id": "batch5#2/inject28",
+    "kind": "injected",
+    "text": "Canada's population has grown considerably since the middle of the 20th century. In 1950, the country had approximately 14 million residents, increasing to around 18.2 million by 1960 and 30.7 million by 2000. By 2024, Canada's population had reached approximately 51.6 million. The United Nations projects that it could reach approximately 46.1 million by 2054.",
+    "errors": [
+      {
+        "text": "51.6 million",
+        "start": 265,
+        "category": "population",
+        "note": "was '39.7 million', changed x1.3"
+      }
+    ]
+  },
+  {
+    "id": "batch5#3/inject29",
+    "kind": "injected",
+    "text": "India has experienced substantial population growth since independence in 1947. Its population was approximately 263 million in 1950, increased to around 1.05 billion by 2000, and reached approximately 1.45 billion in 2024. India is projected to have approximately 1.68 billion people by 2050. Population growth is expected to slow as fertility rates decline.",
+    "errors": [
+      {
+        "text": "263 million",
+        "start": 113,
+        "category": "population",
+        "note": "was '376 million', changed x0.7"
+      }
+    ]
+  },
+  {
+    "id": "batch5#3/inject30",
+    "kind": "injected",
+    "text": "India has experienced substantial population growth since independence in 1947. Its population was approximately 376 million in 1950, increased to around 1.37 billion by 2000, and reached approximately 1.45 billion in 2024. India is projected to have approximately 1.68 billion people by 2050. Population growth is expected to slow as fertility rates decline.",
+    "errors": [
+      {
+        "text": "1.37 billion",
+        "start": 154,
+        "category": "population",
+        "note": "was '1.05 billion', changed x1.3"
+      }
+    ]
+  },
+  {
+    "id": "batch5#3/inject31",
+    "kind": "injected",
+    "text": "India has experienced substantial population growth since independence in 1947. Its population was approximately 376 million in 1950, increased to around 1.05 billion by 2000, and reached approximately 1.01 billion in 2024. India is projected to have approximately 1.68 billion people by 2050. Population growth is expected to slow as fertility rates decline.",
+    "errors": [
+      {
+        "text": "1.01 billion",
+        "start": 202,
+        "category": "population",
+        "note": "was '1.45 billion', changed x0.7"
+      }
+    ]
+  },
+  {
+    "id": "batch5#4/inject32",
+    "kind": "injected",
+    "text": "China's population experienced rapid growth throughout much of the 20th century. It had approximately 707 million residents in 1950, compared with 1.26 billion in 2000 and approximately 1.42 billion in 2021. Its population subsequently began declining, reaching approximately 1.42 billion in 2024. United Nations projections suggest that China's population could fall to approximately 633 million by 2100.",
+    "errors": [
+      {
+        "text": "707 million",
+        "start": 102,
+        "category": "population",
+        "note": "was '544 million', changed x1.3"
+      }
+    ]
+  },
+  {
+    "id": "batch5#4/inject33",
+    "kind": "injected",
+    "text": "China's population experienced rapid growth throughout much of the 20th century. It had approximately 544 million residents in 1950, compared with 0.88 billion in 2000 and approximately 1.42 billion in 2021. Its population subsequently began declining, reaching approximately 1.42 billion in 2024. United Nations projections suggest that China's population could fall to approximately 633 million by 2100.",
+    "errors": [
+      {
+        "text": "0.88 billion",
+        "start": 147,
+        "category": "population",
+        "note": "was '1.26 billion', changed x0.7"
+      }
+    ]
+  },
+  {
+    "id": "batch5#4/inject34",
+    "kind": "injected",
+    "text": "China's population experienced rapid growth throughout much of the 20th century. It had approximately 544 million residents in 1950, compared with 1.26 billion in 2000 and approximately 1.42 billion in 2021. Its population subsequently began declining, reaching approximately 1.85 billion in 2024. United Nations projections suggest that China's population could fall to approximately 633 million by 2100.",
+    "errors": [
+      {
+        "text": "1.85 billion",
+        "start": 276,
+        "category": "population",
+        "note": "was '1.42 billion', changed x1.3"
+      }
+    ]
+  },
+  {
+    "id": "batch3#1/inject35",
+    "kind": "injected",
+    "text": "When preparing a recipe, 1 US cup of water is approximately 300 mL, while 2 tablespoons equal 30 mL and 1 teaspoon equals 5 mL. If an oven is set to 350°F, the equivalent temperature is approximately 124°C. For a smaller recipe, 500 mL of milk is equivalent to approximately 2.11 US cups.",
+    "errors": [
+      {
+        "text": "124°C",
+        "start": 200,
+        "category": "conversion",
+        "note": "was '177°C', changed x0.7"
+      }
+    ]
+  },
+  {
+    "id": "batch3#2/inject36",
+    "kind": "injected",
+    "text": "When planning a road trip, converting kilometres into miles can help estimate travel distances. A journey of 5 km is approximately 4.0 miles, while 12 km is approximately 9.70 miles. If a driver travels at 100 km/h, their speed is equivalent to approximately 62.14 mph. A 250 km trip would take 2.5 hours at an average speed of 100 km/h.",
+    "errors": [
+      {
+        "text": "9.70 miles",
+        "start": 171,
+        "category": "conversion",
+        "note": "was '7.46 miles', changed x1.3"
+      }
+    ]
+  },
+  {
+    "id": "batch3#2/inject37",
+    "kind": "injected",
+    "text": "When planning a road trip, converting kilometres into miles can help estimate travel distances. A journey of 5 km is approximately 4.0 miles, while 12 km is approximately 7.46 miles. If a driver travels at 100 km/h, their speed is equivalent to approximately 43.50 mph. A 250 km trip would take 2.5 hours at an average speed of 100 km/h.",
+    "errors": [
+      {
+        "text": "43.50 mph",
+        "start": 259,
+        "category": "conversion",
+        "note": "was '62.14 mph', changed x0.7"
+      }
+    ]
+  },
+  {
+    "id": "batch3#3/inject38",
+    "kind": "injected",
+    "text": "Understanding temperature conversions is useful when comparing weather forecasts from different countries. A temperature of 20°C is equivalent to 80°F, while 0°C corresponds to 32°F. On a particularly warm day, 30°C is equivalent to 112°F. Water freezes at approximately 0°C and boils at approximately 100°C under standard atmospheric pressure.",
+    "errors": [
+      {
+        "text": "112°F",
+        "start": 233,
+        "category": "conversion",
+        "note": "was '86°F', changed x1.3"
+      }
+    ]
+  },
+  {
+    "id": "batch3#4/inject39",
+    "kind": "injected",
+    "text": "Speed conversions are especially useful when driving in countries that use different measurement systems. A vehicle travelling at 60 mph is moving at approximately 120 km/h. Similarly, 90 km/h is equivalent to approximately 39.14 mph. A speed of 1 m/s corresponds to 3.6 km/h, which is useful when studying walking and running speeds.",
+    "errors": [
+      {
+        "text": "39.14 mph",
+        "start": 224,
+        "category": "conversion",
+        "note": "was '55.92 mph', changed x0.7"
+      }
+    ]
+  },
+  {
+    "id": "batch3#4/inject40",
+    "kind": "injected",
+    "text": "Speed conversions are especially useful when driving in countries that use different measurement systems. A vehicle travelling at 60 mph is moving at approximately 120 km/h. Similarly, 90 km/h is equivalent to approximately 55.92 mph. A speed of 1 m/s corresponds to 4.7 km/h, which is useful when studying walking and running speeds.",
+    "errors": [
+      {
+        "text": "4.7 km/h",
+        "start": 267,
+        "category": "conversion",
+        "note": "was '3.6 km/h', changed x1.3"
+      }
+    ]
+  },
+  {
+    "id": "batch3#5/inject41",
+    "kind": "injected",
+    "text": "Body weight is commonly measured in kilograms in Canada and pounds in the United States. A person weighing 70 kg has a weight of approximately 190 lb, while someone weighing 5 kg is equivalent to approximately 7.71 lb. Conversely, a weight of 150 lb corresponds to approximately 68.04 kg. These conversions are helpful when comparing measurements from different fitness devices.",
+    "errors": [
+      {
+        "text": "7.71 lb",
+        "start": 210,
+        "category": "conversion",
+        "note": "was '11.02 lb', changed x0.7"
+      }
+    ]
+  },
+  {
+    "id": "batch3#5/inject42",
+    "kind": "injected",
+    "text": "Body weight is commonly measured in kilograms in Canada and pounds in the United States. A person weighing 70 kg has a weight of approximately 190 lb, while someone weighing 5 kg is equivalent to approximately 11.02 lb. Conversely, a weight of 150 lb corresponds to approximately 88.45 kg. These conversions are helpful when comparing measurements from different fitness devices.",
+    "errors": [
+      {
+        "text": "88.45 kg",
+        "start": 280,
+        "category": "conversion",
+        "note": "was '68.04 kg', changed x1.3"
+      }
+    ]
+  },
+  {
+    "id": "batch3#9/inject43",
+    "kind": "injected",
+    "text": "Temperature and distance conversions are useful when travelling internationally. A weather forecast showing 68°F indicates a temperature of approximately 25°C. If a destination is located 2.5 miles away, the distance is approximately 2.81 km. A longer journey of 10 miles corresponds to approximately 16.09 km, which can help travellers estimate transportation distances.",
+    "errors": [
+      {
+        "text": "2.81 km",
+        "start": 234,
+        "category": "conversion",
+        "note": "was '4.02 km', changed x0.7"
+      }
+    ]
+  },
+  {
+    "id": "batch3#9/inject44",
+    "kind": "injected",
+    "text": "Temperature and distance conversions are useful when travelling internationally. A weather forecast showing 68°F indicates a temperature of approximately 25°C. If a destination is located 2.5 miles away, the distance is approximately 4.02 km. A longer journey of 10 miles corresponds to approximately 20.92 km, which can help travellers estimate transportation distances.",
+    "errors": [
+      {
+        "text": "20.92 km",
+        "start": 301,
+        "category": "conversion",
+        "note": "was '16.09 km', changed x1.3"
+      }
+    ]
+  },
+  {
+    "id": "batch3#10/inject45",
+    "kind": "injected",
+    "text": "Everyday measurements often involve converting body weight, room dimensions, and liquid volumes. A person weighing 180 lb has a body weight of approximately 100 kg. Meanwhile, a room measuring 2.4 m by 3 m has a floor area of 7.2 m². A bottle containing 750 mL of water holds 0.52 litres, while 3 litres is equivalent to 3,000 mL.",
+    "errors": [
+      {
+        "text": "0.52 litres",
+        "start": 276,
+        "category": "conversion",
+        "note": "was '0.75 litres', changed x0.7"
+      }
+    ]
+  }
+]

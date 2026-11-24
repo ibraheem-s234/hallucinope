@@ -1,0 +1,28 @@
+Below are 9 short paragraphs. Check every number in them. For each paragraph, list
+every number that is factually wrong: wrong population figures, wrong unit conversions,
+or wrong arithmetic. Ignore small rounding differences. Answer from your own knowledge;
+do not search the web.
+
+Output ONLY valid JSON, no other text: a list with one object per paragraph, each with
+"id" (for example "P07") and "wrong_numbers": a list of objects with "text" (the wrong
+number exactly as it is written in the paragraph) and "correct_value". If every number
+in a paragraph is correct, use an empty list.
+
+
+P80: Colombia had an estimated population of approximately 53.4 million in 2025. Its population was around 17.1 million in 1960, increasing to approximately 39.8 million by 2000. In 2020, Colombia had approximately 50.9 million inhabitants, demonstrating significant demographic growth over the preceding decades. Urbanization contributed to the expansion of major cities such as Bogotá, Medellín, and Cali.
+
+P81: When shipping a package, its dimensions and weight are often required to calculate the delivery cost. A box measuring 40 cm (15.75 inches) long, 30 cm (11.81 inches) wide, and 20 cm (7.87 inches) tall has a volume of 24,000 cm³ (1,464.57 cubic inches). If the package weighs 5 kg (11.02 pounds), the shipping company may charge based on its actual weight or dimensional weight. Checking both metric and imperial measurements helps prevent shipping delays.
+
+P82: In science class, you might measure the temperature of water at 25°C (77°F) before conducting an experiment. If you heat 500 mL (16.91 US fluid ounces) of water to 100°C (212°F), it reaches its boiling point at standard atmospheric pressure. A laboratory ruler can measure an object's length as 15 cm (5.91 inches), while a balance might record its mass as 250 g (8.82 ounces).
+
+P83: In a chemistry experiment, a student might need to measure 2.5 L (0.66 US gallons) of liquid for a reaction. If the liquid has a density of 1 g/mL (1 kg/L), its total mass is 2.5 kg (5.51 pounds). A thermometer showing 37°C (91.7°F) indicates a temperature close to normal human body temperature. Measuring 10 mL (0.34 US fluid ounces) with a graduated cylinder provides a more precise result than estimating the amount by eye.
+
+P84: When calculating car fuel consumption, it is useful to understand both litres per 100 kilometres and miles per gallon. A vehicle that consumes 8 L/100 km (29.4 US mpg) uses 8 litres of fuel (2.11 US gallons) to travel 100 km (62.14 miles). If a car has a 50 L (13.21 US gallon) fuel tank, it can travel approximately 625 km (388.36 miles) under those consumption conditions. Actual fuel economy can vary depending on traffic, speed, and driving habits.
+
+P85: Home heating systems are commonly measured by their energy output and the temperature they maintain indoors. Setting a thermostat to 20°C (63°F) can provide a comfortable indoor environment during winter. A room measuring 5 m (16.40 ft) long, 4 m (13.12 ft) wide, and 2.5 m (8.20 ft) high has a volume of 50 m³ (1,765.73 cubic feet). Insulation rated at R-20 (RSI 3.52 m²·K/W) offers a useful measure of resistance to heat flow.
+
+P86: Ghana's population is estimated at approximately 35.1 million in 2025. Historical figures show that the country had around 6.1 million inhabitants in 1960, increasing to approximately 11.9 million in 1980. By 2000, the population had grown to roughly 19.5 million, reaching approximately 32.8 million by 2020. Urbanization and improvements in public health have accompanied this demographic expansion.
+
+P87: Venezuela's population was approximately 28.5 million in 2025. In 1960, the country had approximately 7.1 million residents, and its population increased to around 24.3 million by 2000. By 2020, the population was approximately 28.4 million. Economic instability and large-scale emigration have influenced Venezuela's population trends during more recent decades.
+
+P88: Japan's population was approximately 123.1 million in 2025, reflecting a prolonged period of demographic decline. In 1960, Japan had approximately 93.4 million residents, and its population increased to around 126.8 million by 2000. It reached approximately 126.3 million in 2020 before continuing to decline. Low fertility rates and an aging population are major factors behind this demographic trend.

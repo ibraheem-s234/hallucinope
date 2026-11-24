@@ -1,0 +1,30 @@
+Below are 10 short paragraphs. Check every number in them. For each paragraph, list
+every number that is factually wrong: wrong population figures, wrong unit conversions,
+or wrong arithmetic. Ignore small rounding differences. Answer from your own knowledge;
+do not search the web.
+
+Output ONLY valid JSON, no other text: a list with one object per paragraph, each with
+"id" (for example "P07") and "wrong_numbers": a list of objects with "text" (the wrong
+number exactly as it is written in the paragraph) and "correct_value". If every number
+in a paragraph is correct, use an empty list.
+
+
+P11: Population density helps explain how people are distributed across different geographical areas. Bangladesh had approximately 175.7 million residents in 2025 despite having a land area of approximately 148,460 km². Pakistan had approximately 255.2 million people, while Nigeria had approximately 308.8 million. By comparison, Brazil had approximately 212.8 million residents across an area of approximately 8.52 million km². These figures demonstrate how population size and geographical area can vary considerably between countries.
+
+P12: The world's population has increased dramatically over the past century. In 1950, approximately 2.5 billion people lived on Earth, compared with 3.0 billion in 1960 and 6.1 billion in 2000. By 2024, the global population had reached approximately 10.7 billion. This growth reflects improvements in healthcare, sanitation, nutrition, and life expectancy.
+
+P13: Unit conversions are useful when comparing measurements from different systems. A distance of 15 km is equivalent to 9.32 miles, while 100 miles is approximately 209.21 km. If a vehicle travels at 100 km/h, its speed is approximately 62.14 mph. Similarly, a temperature of 25°C is equivalent to 77°F, using the formula °F = (°C × 9/5) + 32.
+
+P14: India has experienced substantial population growth since independence in 1947. Its population was approximately 376 million in 1950, increased to around 1.05 billion by 2000, and reached approximately 1.45 billion in 2024. India is projected to have approximately 1.68 billion people by 2050. Population growth is expected to slow as fertility rates decline.
+
+P15: A trip from Vancouver to Calgary covers approximately 970 km by road, depending on the chosen route. If you drive at an average speed of 90 km/h, the journey would require approximately 10.8 hours of driving. For a vehicle with a fuel consumption rate of 9 L per 100 km, the trip would require approximately 87.3 L of fuel. Mountain weather and road conditions can significantly affect travel times.
+
+P16: Temperature and distance conversions are useful when travelling internationally. A weather forecast showing 68°F indicates a temperature of approximately 25°C. If a destination is located 2.5 miles away, the distance is approximately 4.02 km. A longer journey of 10 miles corresponds to approximately 20.92 km, which can help travellers estimate transportation distances.
+
+P17: Everyday measurements often involve converting body weight, room dimensions, and liquid volumes. A person weighing 180 lb has a body weight of approximately 100 kg. Meanwhile, a room measuring 2.4 m by 3 m has a floor area of 7.2 m². A bottle containing 750 mL of water holds 0.52 litres, while 3 litres is equivalent to 3,000 mL.
+
+P18: China's population experienced rapid growth throughout much of the 20th century. It had approximately 544 million residents in 1950, compared with 1.26 billion in 2000 and approximately 1.42 billion in 2021. Its population subsequently began declining, reaching approximately 1.42 billion in 2024. United Nations projections suggest that China's population could fall to approximately 633 million by 2100.
+
+P19: Cooking measurements frequently require conversions between metric and imperial units. One US cup holds approximately 236.59 mL, while 1 US tablespoon equals approximately 14.79 mL. A recipe requiring 500 g of flour needs approximately 1.10 pounds of flour. Additionally, 2 litres of water is equivalent to approximately 0.53 US gallons. These conversions help ensure accurate ingredient measurements when following international recipes.
+
+P20: When preparing a basic pancake recipe for 4 people, you can use 250 g of all-purpose flour, 300 mL of milk, and 2 large eggs. Add approximately 30 g of melted butter and 15 g of sugar to improve the flavour and texture. Mix the ingredients until combined, then cook each pancake for approximately 2 minutes per side. This recipe should produce around 8 medium-sized pancakes.

@@ -1,0 +1,82 @@
+[\
+&#x20; {\
+&#x20;   "id": "P61",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "300 mL",\
+&#x20;       "correct_value": "236.59 mL"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P62",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P63",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "178.6 million",\
+&#x20;       "correct_value": "Approximately 255 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P64",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "0.37 US gallons",\
+&#x20;       "correct_value": "0.528 US gallons"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P65",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "4.0 miles",\
+&#x20;       "correct_value": "3.11 miles"\
+&#x20;     },\
+&#x20;     {\
+&#x20;       "text": "43.50 mph",\
+&#x20;       "correct_value": "62.14 mph"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P66",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "3.9 billion",\
+&#x20;       "correct_value": "Approximately 3.0 billion"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P67",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "1.85 billion",\
+&#x20;       "correct_value": "Approximately 1.41 billion"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P68",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "1.01 billion",\
+&#x20;       "correct_value": "Approximately 1.45 billion"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P69",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "753.5 square feet",\
+&#x20;       "correct_value": "1,076.4 square feet"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; }\
+]

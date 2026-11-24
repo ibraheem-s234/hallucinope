@@ -1,0 +1,86 @@
+[\
+&#x20; {\
+&#x20;   "id": "P70",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "120 km/h",\
+&#x20;       "correct_value": "96.56 km/h"\
+&#x20;     },\
+&#x20;     {\
+&#x20;       "text": "4.7 km/h",\
+&#x20;       "correct_value": "3.6 km/h"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P71",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P72",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "35 million",\
+&#x20;       "correct_value": "27 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P73",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "108.5 million",\
+&#x20;       "correct_value": "84.1 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P74",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "239.3 million",\
+&#x20;       "correct_value": "347 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P75",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "25°C",\
+&#x20;       "correct_value": "20°C"\
+&#x20;     },\
+&#x20;     {\
+&#x20;       "text": "2.81 km",\
+&#x20;       "correct_value": "4.02 km"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P76",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "51.6 million",\
+&#x20;       "correct_value": "41.6 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P77",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "110 million",\
+&#x20;       "correct_value": "135 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P78",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "444.3 million",\
+&#x20;       "correct_value": "347 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; }\
+]

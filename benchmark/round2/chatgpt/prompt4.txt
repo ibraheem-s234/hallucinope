@@ -1,0 +1,30 @@
+Below are 10 short paragraphs. Check every number in them. For each paragraph, list
+every number that is factually wrong: wrong population figures, wrong unit conversions,
+or wrong arithmetic. Ignore small rounding differences. Answer from your own knowledge;
+do not search the web.
+
+Output ONLY valid JSON, no other text: a list with one object per paragraph, each with
+"id" (for example "P07") and "wrong_numbers": a list of objects with "text" (the wrong
+number exactly as it is written in the paragraph) and "correct_value". If every number
+in a paragraph is correct, use an empty list.
+
+
+P31: Morocco has an estimated population of approximately 33.8 million in 2025. In 1960, its population was around 12.3 million, rising to approximately 20.4 million by 1980. The population reached roughly 28.8 million in 2000 and approximately 36.7 million in 2020. Declining mortality and improvements in life expectancy have played important roles in the country's demographic development.
+
+P32: Saudi Arabia's population is estimated at approximately 34.6 million in 2025. In 1960, the country had roughly 4.1 million inhabitants, increasing to approximately 9.6 million by 1980. Its population reached around 22.6 million in 2000 and approximately 32.8 million in 2020. Economic development, immigration, and relatively high fertility rates have all contributed to population growth.
+
+P33: If you are training for a 5 km run (3.11 miles), maintaining a pace of 6 minutes per kilometre (9.66 minutes per mile) means you will finish in approximately 30 minutes (0.5 hours). A beginner might start with 2 km (1.24 miles) of running and gradually increase the distance by 0.5 km (0.31 miles) each week. Drinking 500 mL (18.94 US fluid ounces) of water before exercise can help you stay hydrated.
+
+P34: Japan's population was approximately 123.1 million in 2025, reflecting a prolonged period of demographic decline. In 1960, Japan had approximately 104.6 million residents, and its population increased to around 126.8 million by 2000. It reached approximately 126.3 million in 2020 before continuing to decline. Low fertility rates and an aging population are major factors behind this demographic trend.
+
+P35: When calculating car fuel consumption, it is useful to understand both litres per 100 kilometres and miles per gallon. A vehicle that consumes 8 L/100 km (29.4 US mpg) uses 8 litres of fuel (2.11 US gallons) to travel 100 km (62.14 miles). If a car has a 50 L (14.80 US gallon) fuel tank, it can travel approximately 625 km (388.36 miles) under those consumption conditions. Actual fuel economy can vary depending on traffic, speed, and driving habits.
+
+P36: In science class, you might measure the temperature of water at 25°C (77°F) before conducting an experiment. If you heat 500 mL (16.91 US fluid ounces) of water to 100°C (212°F), it reaches its boiling point at standard atmospheric pressure. A laboratory ruler can measure an object's length as 15 cm (5.91 inches), while a balance might record its mass as 250 g (7.76 ounces).
+
+P37: Kenya's population is estimated at approximately 57.5 million in 2025, making it one of the most populous countries in East Africa. In 1960, the country had roughly 8.1 million people, increasing to 17.8 million by 1980. By 2000, the population had reached approximately 30.7 million, before rising to around 53.0 million in 2020. This growth reflects high birth rates, improvements in healthcare, and declining mortality over several decades.
+
+P38: During air travel, passengers often see their cruising altitude displayed in feet and metres. A commercial aircraft flying at 35,000 ft (10,668 m) is travelling at a typical cruising altitude. If the aircraft covers 800 km (556.75 miles) in 1 hour, its average ground speed is 800 km/h (497.10 mph). Airport baggage allowances may also specify a maximum checked-bag weight of 23 kg (50.71 pounds).
+
+P39: Sweden's population is estimated at approximately 10.7 million in 2025. In 1960, the country had around 6.6 million inhabitants, increasing to approximately 8.3 million by 1980. Its population reached roughly 8.9 million in 2000 and approximately 10.4 million in 2020. Immigration, relatively high life expectancy, and gradual population growth have helped shape Sweden's demographic trends.
+
+P40: Peru's population was approximately 30.4 million in 2025, continuing a long period of demographic expansion. In 1960, the country had approximately 10.1 million inhabitants, while its population reached around 26.0 million by 2000. By 2020, Peru's population had grown to approximately 33.0 million. Lima became an increasingly important population center during this period, attracting millions of residents through migration.

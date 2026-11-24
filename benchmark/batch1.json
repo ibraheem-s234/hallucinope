@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "paragraph": "Nigeria is the most populous country in Africa, with an estimated population of 280 million in 2025. Its population has grown considerably from approximately 45 million in 1960. Ethiopia, the second-most populous country in Africa, has approximately 135 million people, making it one of the continent's largest nations.",
+    "planted_errors": [
+      {
+        "text": "280 million",
+        "true_value": "238 million"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "paragraph": "Ethiopia has experienced rapid population growth over the past several decades, reaching approximately 110 million people in 2025. Egypt has a population of approximately 118 million, with most residents living near the Nile River. Together, these 2 countries account for a significant portion of Africa's population.",
+    "planted_errors": [
+      {
+        "text": "110 million",
+        "true_value": "135 million"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "paragraph": "Pakistan is one of the most populous countries in Asia, with approximately 255 million residents in 2025. Its population has increased from roughly 45 million in 1960, representing substantial long-term growth. The country covers approximately 881,913 square kilometres and has several major urban centres, including Karachi and Lahore.",
+    "planted_errors": []
+  },
+  {
+    "id": 4,
+    "paragraph": "Bangladesh has a population of approximately 176 million people, making it one of the most densely populated countries in the world. Its land area is approximately 147,570 square kilometres, resulting in a population density of around 1,193 people per square kilometre. In 1971, when Bangladesh became independent, its population was approximately 75 million.",
+    "planted_errors": [
+      {
+        "text": "75 million",
+        "true_value": "66 million"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "paragraph": "Vietnam has an estimated population of approximately 102 million people in 2025. Its population was around 30 million in 1960, demonstrating significant growth over 65 years. The country has a land area of approximately 331,212 square kilometres and a population density of roughly 308 people per square kilometre.",
+    "planted_errors": [
+      {
+        "text": "30 million",
+        "true_value": "33 million"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "paragraph": "The Philippines has approximately 117 million residents in 2025, making it one of Southeast Asia's most populous nations. Its capital, Manila, is part of a metropolitan region with a population exceeding 14 million people. The country consists of approximately 7,641 islands and covers around 300,000 square kilometres.",
+    "planted_errors": [
+      {
+        "text": "14 million",
+        "true_value": "14.0 million"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "paragraph": "Iran has a population of approximately 92 million people in 2025, making it one of the largest countries in Western Asia. Its population was approximately 22 million in 1960, indicating substantial growth over several decades. Iran also has a land area of approximately 1.65 million square kilometres, making it geographically larger than many European countries.",
+    "planted_errors": [
+      {
+        "text": "22 million",
+        "true_value": "21 million"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "paragraph": "Turkey has an estimated population of approximately 87.7 million people in 2025. Its population was around 28 million in 1960, showing considerable growth over time. Istanbul is the country's largest city, with a population of approximately 15.7 million residents, and Turkey covers about 783,562 square kilometres.",
+    "planted_errors": [
+      {
+        "text": "28 million",
+        "true_value": "28.2 million"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "paragraph": "Thailand has a population of approximately 71.6 million people in 2025. Its population has grown from roughly 27 million in 1960, although its growth rate has slowed considerably in recent decades. Bangkok, the capital city, has approximately 11 million residents in its urban area and serves as the country's main economic centre.",
+    "planted_errors": [
+      {
+        "text": "11 million",
+        "true_value": "10.5 million"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "paragraph": "Egypt and Nigeria are among Africa's most populous countries, with approximately 118 million and 238 million residents respectively in 2025. Ethiopia has approximately 135 million people, while South Africa has around 65 million residents. These 4 countries together have a combined population of approximately 566 million, representing a substantial share of Africa's total population.",
+    "planted_errors": [
+      {
+        "text": "566 million",
+        "true_value": "556 million"
+      }
+    ]
+  }
+]

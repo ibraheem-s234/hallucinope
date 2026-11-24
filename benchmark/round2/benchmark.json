@@ -1,0 +1,1053 @@
+[
+  {
+    "id": "batchA#1",
+    "kind": "natural",
+    "text": "Kenya's population is estimated at approximately 57.5 million in 2025, making it one of the most populous countries in East Africa. In 1960, the country had roughly 8.1 million people, increasing to 16.6 million by 1980. By 2000, the population had reached approximately 30.7 million, before rising to around 53.0 million in 2020. This growth reflects high birth rates, improvements in healthcare, and declining mortality over several decades.",
+    "errors": []
+  },
+  {
+    "id": "batchA#2",
+    "kind": "natural",
+    "text": "Tanzania has experienced substantial population growth, reaching approximately 70.5 million people in 2025. Its population was around 10.0 million in 1960 and increased to approximately 18.5 million by 1980. By 2000, Tanzania had roughly 34.0 million inhabitants, compared with approximately 61.7 million in 2020. Expanding access to healthcare and persistently high fertility rates have contributed to this long-term increase.",
+    "errors": []
+  },
+  {
+    "id": "batchA#3",
+    "kind": "natural",
+    "text": "Ghana's population is estimated at approximately 35.1 million in 2025. Historical figures show that the country had around 6.6 million inhabitants in 1960, increasing to approximately 11.9 million in 1980. By 2000, the population had grown to roughly 19.5 million, reaching approximately 32.8 million by 2020. Urbanization and improvements in public health have accompanied this demographic expansion.",
+    "errors": []
+  },
+  {
+    "id": "batchA#4",
+    "kind": "natural",
+    "text": "Morocco has an estimated population of approximately 38.4 million in 2025. In 1960, its population was around 12.3 million, rising to approximately 20.4 million by 1980. The population reached roughly 28.8 million in 2000 and approximately 36.7 million in 2020. Declining mortality and improvements in life expectancy have played important roles in the country's demographic development.",
+    "errors": []
+  },
+  {
+    "id": "batchA#5",
+    "kind": "natural",
+    "text": "Saudi Arabia's population is estimated at approximately 34.6 million in 2025. In 1960, the country had roughly 4.1 million inhabitants, increasing to approximately 9.6 million by 1980. Its population reached around 21.1 million in 2000 and approximately 32.8 million in 2020. Economic development, immigration, and relatively high fertility rates have all contributed to population growth.",
+    "errors": []
+  },
+  {
+    "id": "batchA#6",
+    "kind": "natural",
+    "text": "South Korea has an estimated population of approximately 51.7 million in 2025. Its population was around 25.0 million in 1960 and increased to approximately 38.1 million by 1980. By 2000, the population had reached roughly 46.8 million, before growing to approximately 51.8 million in 2020. Unlike many developing countries, South Korea now faces demographic challenges associated with extremely low fertility and an aging population.",
+    "errors": []
+  },
+  {
+    "id": "batchA#7",
+    "kind": "natural",
+    "text": "Malaysia's population is estimated at approximately 36.0 million in 2025. In 1960, the country had around 8.2 million people, increasing to approximately 13.8 million by 1980. Its population reached roughly 23.2 million in 2000 and approximately 33.4 million in 2020. Economic development, urbanization, and natural population growth have contributed to these demographic changes.",
+    "errors": []
+  },
+  {
+    "id": "batchA#8",
+    "kind": "natural",
+    "text": "Poland's population is estimated at approximately 38.1 million in 2025. In 1960, the country had roughly 29.6 million inhabitants, increasing to approximately 35.6 million by 1980. Its population reached around 38.3 million in 2000 and approximately 38.0 million in 2020. More recently, low fertility rates, emigration, and an aging population have contributed to demographic stagnation and decline.",
+    "errors": []
+  },
+  {
+    "id": "batchA#9",
+    "kind": "natural",
+    "text": "The Netherlands has an estimated population of approximately 18.3 million in 2025. Its population was around 11.5 million in 1960, increasing to approximately 14.1 million by 1980. By 2000, the population had reached roughly 15.9 million, rising to approximately 17.4 million in 2020. Immigration, natural population growth, and increasing life expectancy have contributed to this steady expansion.",
+    "errors": []
+  },
+  {
+    "id": "batchA#10",
+    "kind": "natural",
+    "text": "Sweden's population is estimated at approximately 10.7 million in 2025. In 1960, the country had around 7.5 million inhabitants, increasing to approximately 8.3 million by 1980. Its population reached roughly 8.9 million in 2000 and approximately 10.4 million in 2020. Immigration, relatively high life expectancy, and gradual population growth have helped shape Sweden's demographic trends.",
+    "errors": []
+  },
+  {
+    "id": "batchB#1",
+    "kind": "natural",
+    "text": "Chile had a population of approximately 19.86 million in 2025, making it one of the more populous countries in South America. In 1960, its population was approximately 7.65 million, reflecting substantial growth over 65 years. By 2000, the population had reached approximately 15.4 million, and by 2020 it was around 19.3 million. This growth reflects improvements in healthcare, declining mortality rates, and urbanization.",
+    "errors": []
+  },
+  {
+    "id": "batchB#2",
+    "kind": "natural",
+    "text": "Peru's population was approximately 34.6 million in 2025, continuing a long period of demographic expansion. In 1960, the country had approximately 10.1 million inhabitants, while its population reached around 26.0 million by 2000. By 2020, Peru's population had grown to approximately 33.0 million. Lima became an increasingly important population center during this period, attracting millions of residents through migration.",
+    "errors": []
+  },
+  {
+    "id": "batchB#3",
+    "kind": "natural",
+    "text": "Colombia had an estimated population of approximately 53.4 million in 2025. Its population was around 16.0 million in 1960, increasing to approximately 39.8 million by 2000. In 2020, Colombia had approximately 50.9 million inhabitants, demonstrating significant demographic growth over the preceding decades. Urbanization contributed to the expansion of major cities such as Bogotá, Medellín, and Cali.",
+    "errors": []
+  },
+  {
+    "id": "batchB#4",
+    "kind": "natural",
+    "text": "Venezuela's population was approximately 28.5 million in 2025. In 1960, the country had approximately 8.1 million residents, and its population increased to around 24.3 million by 2000. By 2020, the population was approximately 28.4 million. Economic instability and large-scale emigration have influenced Venezuela's population trends during more recent decades.",
+    "errors": []
+  },
+  {
+    "id": "batchB#5",
+    "kind": "natural",
+    "text": "Cuba had an estimated population of approximately 10.9 million in 2025. Its population was around 7.1 million in 1960, before increasing to approximately 11.1 million by 2000. In 2020, Cuba's population was approximately 11.3 million. More recently, declining birth rates, an aging population, and emigration have contributed to population decline.",
+    "errors": []
+  },
+  {
+    "id": "batchB#6",
+    "kind": "natural",
+    "text": "Australia's population reached approximately 27.0 million in 2025, making it the most populous country in Oceania. In 1960, Australia had approximately 10.3 million inhabitants, increasing to around 19.0 million by 2000. By 2020, its population had reached approximately 25.7 million. Immigration has played a significant role in Australia's population growth, particularly in major metropolitan areas such as Sydney and Melbourne.",
+    "errors": []
+  },
+  {
+    "id": "batchB#7",
+    "kind": "natural",
+    "text": "New Zealand had a population of approximately 5.25 million in 2025. In 1960, its population was approximately 2.37 million, increasing to around 3.85 million by 2000. By 2020, the population had reached approximately 5.09 million. Population growth has been influenced by immigration, natural population increases, and the expansion of urban centers such as Auckland.",
+    "errors": []
+  },
+  {
+    "id": "batchB#8",
+    "kind": "natural",
+    "text": "Japan's population was approximately 123.1 million in 2025, reflecting a prolonged period of demographic decline. In 1960, Japan had approximately 93.4 million residents, and its population increased to around 126.8 million by 2000. It reached approximately 126.3 million in 2020 before continuing to decline. Low fertility rates and an aging population are major factors behind this demographic trend.",
+    "errors": []
+  },
+  {
+    "id": "batchB#9",
+    "kind": "natural",
+    "text": "Russia had an estimated population of approximately 144.0 million in 2025. In 1960, the Russian Soviet Federative Socialist Republic had approximately 119.9 million inhabitants, while the Russian Federation had approximately 146.4 million residents in 2000. By 2020, Russia's population was approximately 145.6 million. Changes in birth rates, mortality, migration, and the dissolution of the Soviet Union have shaped its demographic history.",
+    "errors": []
+  },
+  {
+    "id": "batchB#10",
+    "kind": "natural",
+    "text": "The world's population reached approximately 8.23 billion in 2025, representing substantial growth compared with earlier historical periods. In 1960, the global population was approximately 3.02 billion, increasing to around 6.14 billion by 2000. By 2020, the world had approximately 7.89 billion inhabitants. Improvements in healthcare, increased life expectancy, and declining mortality rates have contributed significantly to this long-term population expansion.",
+    "errors": []
+  },
+  {
+    "id": "batchC#1",
+    "kind": "natural",
+    "text": "If you are training for a 5 km run (3.11 miles), maintaining a pace of 6 minutes per kilometre (9.66 minutes per mile) means you will finish in approximately 30 minutes (0.5 hours). A beginner might start with 2 km (1.24 miles) of running and gradually increase the distance by 0.5 km (0.31 miles) each week. Drinking 500 mL (16.91 US fluid ounces) of water before exercise can help you stay hydrated.",
+    "errors": []
+  },
+  {
+    "id": "batchC#2",
+    "kind": "natural",
+    "text": "In science class, you might measure the temperature of water at 25°C (77°F) before conducting an experiment. If you heat 500 mL (16.91 US fluid ounces) of water to 100°C (212°F), it reaches its boiling point at standard atmospheric pressure. A laboratory ruler can measure an object's length as 15 cm (5.91 inches), while a balance might record its mass as 250 g (8.82 ounces).",
+    "errors": []
+  },
+  {
+    "id": "batchC#3",
+    "kind": "natural",
+    "text": "When shipping a package, its dimensions and weight are often required to calculate the delivery cost. A box measuring 40 cm (15.75 inches) long, 30 cm (11.81 inches) wide, and 20 cm (7.87 inches) tall has a volume of 24,000 cm³ (1,464.57 cubic inches). If the package weighs 5 kg (11.02 pounds), the shipping company may charge based on its actual weight or dimensional weight. Checking both metric and imperial measurements helps prevent shipping delays.",
+    "errors": []
+  },
+  {
+    "id": "batchC#4",
+    "kind": "natural",
+    "text": "During air travel, passengers often see their cruising altitude displayed in feet and metres. A commercial aircraft flying at 35,000 ft (10,668 m) is travelling at a typical cruising altitude. If the aircraft covers 800 km (497.10 miles) in 1 hour, its average ground speed is 800 km/h (497.10 mph). Airport baggage allowances may also specify a maximum checked-bag weight of 23 kg (50.71 pounds).",
+    "errors": []
+  },
+  {
+    "id": "batchC#5",
+    "kind": "natural",
+    "text": "When planning a garden, knowing the correct measurements helps determine how much soil and water you need. A garden bed measuring 2 m (6.56 ft) long and 1.5 m (4.92 ft) wide has an area of 3 m² (32.29 square feet). Adding a 5 cm (1.97 inches) layer of compost requires approximately 0.15 m³ (5.30 cubic feet) of material. Many vegetables also benefit from approximately 25 mm (0.98 inches) of water per week, depending on rainfall and soil conditions.",
+    "errors": []
+  },
+  {
+    "id": "batchC#6",
+    "kind": "natural",
+    "text": "Home heating systems are commonly measured by their energy output and the temperature they maintain indoors. Setting a thermostat to 20°C (68°F) can provide a comfortable indoor environment during winter. A room measuring 5 m (16.40 ft) long, 4 m (13.12 ft) wide, and 2.5 m (8.20 ft) high has a volume of 50 m³ (1,765.73 cubic feet). Insulation rated at R-20 (RSI 3.52 m²·K/W) offers a useful measure of resistance to heat flow.",
+    "errors": []
+  },
+  {
+    "id": "batchC#7",
+    "kind": "natural",
+    "text": "When calculating car fuel consumption, it is useful to understand both litres per 100 kilometres and miles per gallon. A vehicle that consumes 8 L/100 km (29.4 US mpg) uses 8 litres of fuel (2.11 US gallons) to travel 100 km (62.14 miles). If a car has a 50 L (13.21 US gallon) fuel tank, it can travel approximately 625 km (388.36 miles) under those consumption conditions. Actual fuel economy can vary depending on traffic, speed, and driving habits.",
+    "errors": []
+  },
+  {
+    "id": "batchC#8",
+    "kind": "natural",
+    "text": "A cyclist training for a long-distance event might ride 25 km (15.53 miles) in approximately 1 hour. This corresponds to an average speed of 25 km/h (15.53 mph). If the cyclist drinks 750 mL (25.36 US fluid ounces) of water during the ride, that is approximately 0.75 L (0.20 US gallons). Wearing a helmet weighing 300 g (10.58 ounces) can provide protection without adding excessive weight.",
+    "errors": []
+  },
+  {
+    "id": "batchC#9",
+    "kind": "natural",
+    "text": "In a chemistry experiment, a student might need to measure 2.5 L (0.66 US gallons) of liquid for a reaction. If the liquid has a density of 1 g/mL (1 kg/L), its total mass is 2.5 kg (5.51 pounds). A thermometer showing 37°C (98.6°F) indicates a temperature close to normal human body temperature. Measuring 10 mL (0.34 US fluid ounces) with a graduated cylinder provides a more precise result than estimating the amount by eye.",
+    "errors": []
+  },
+  {
+    "id": "batchC#10",
+    "kind": "natural",
+    "text": "When heating a home, energy consumption may be measured in kilowatt-hours and British thermal units. Using 10 kWh (34,121.4 BTU) of energy provides the same energy quantity in either unit. A 2 kW (6,824 BTU/h) electric heater operating for 5 hours (300 minutes) consumes 10 kWh (34,121.4 BTU) of electricity. If electricity costs $0.15 per kWh (approximately $0.044 per 1,000 BTU), the total operating cost is $1.50 (150 cents).",
+    "errors": []
+  },
+  {
+    "id": "batchA#1/inject1",
+    "kind": "injected",
+    "text": "Kenya's population is estimated at approximately 53.5 million in 2025, making it one of the most populous countries in East Africa. In 1960, the country had roughly 8.1 million people, increasing to 16.6 million by 1980. By 2000, the population had reached approximately 30.7 million, before rising to around 53.0 million in 2020. This growth reflects high birth rates, improvements in healthcare, and declining mortality over several decades.",
+    "errors": [
+      {
+        "text": "53.5 million",
+        "start": 49,
+        "category": "population",
+        "note": "was '57.5 million', changed x0.93"
+      }
+    ]
+  },
+  {
+    "id": "batchA#1/inject2",
+    "kind": "injected",
+    "text": "Kenya's population is estimated at approximately 57.5 million in 2025, making it one of the most populous countries in East Africa. In 1960, the country had roughly 8.1 million people, increasing to 17.8 million by 1980. By 2000, the population had reached approximately 30.7 million, before rising to around 53.0 million in 2020. This growth reflects high birth rates, improvements in healthcare, and declining mortality over several decades.",
+    "errors": [
+      {
+        "text": "17.8 million",
+        "start": 199,
+        "category": "population",
+        "note": "was '16.6 million', changed x1.07"
+      }
+    ]
+  },
+  {
+    "id": "batchA#2/inject3",
+    "kind": "injected",
+    "text": "Tanzania has experienced substantial population growth, reaching approximately 62.0 million people in 2025. Its population was around 10.0 million in 1960 and increased to approximately 18.5 million by 1980. By 2000, Tanzania had roughly 34.0 million inhabitants, compared with approximately 61.7 million in 2020. Expanding access to healthcare and persistently high fertility rates have contributed to this long-term increase.",
+    "errors": [
+      {
+        "text": "62.0 million",
+        "start": 79,
+        "category": "population",
+        "note": "was '70.5 million', changed x0.88"
+      }
+    ]
+  },
+  {
+    "id": "batchA#2/inject4",
+    "kind": "injected",
+    "text": "Tanzania has experienced substantial population growth, reaching approximately 70.5 million people in 2025. Its population was around 10.0 million in 1960 and increased to approximately 18.5 million by 1980. By 2000, Tanzania had roughly 38.1 million inhabitants, compared with approximately 61.7 million in 2020. Expanding access to healthcare and persistently high fertility rates have contributed to this long-term increase.",
+    "errors": [
+      {
+        "text": "38.1 million",
+        "start": 238,
+        "category": "population",
+        "note": "was '34.0 million', changed x1.12"
+      }
+    ]
+  },
+  {
+    "id": "batchA#3/inject5",
+    "kind": "injected",
+    "text": "Ghana's population is estimated at approximately 35.1 million in 2025. Historical figures show that the country had around 6.1 million inhabitants in 1960, increasing to approximately 11.9 million in 1980. By 2000, the population had grown to roughly 19.5 million, reaching approximately 32.8 million by 2020. Urbanization and improvements in public health have accompanied this demographic expansion.",
+    "errors": [
+      {
+        "text": "6.1 million",
+        "start": 123,
+        "category": "population",
+        "note": "was '6.6 million', changed x0.93"
+      }
+    ]
+  },
+  {
+    "id": "batchA#3/inject6",
+    "kind": "injected",
+    "text": "Ghana's population is estimated at approximately 35.1 million in 2025. Historical figures show that the country had around 6.6 million inhabitants in 1960, increasing to approximately 11.9 million in 1980. By 2000, the population had grown to roughly 19.5 million, reaching approximately 35.1 million by 2020. Urbanization and improvements in public health have accompanied this demographic expansion.",
+    "errors": [
+      {
+        "text": "35.1 million",
+        "start": 288,
+        "category": "population",
+        "note": "was '32.8 million', changed x1.07"
+      }
+    ]
+  },
+  {
+    "id": "batchA#4/inject7",
+    "kind": "injected",
+    "text": "Morocco has an estimated population of approximately 33.8 million in 2025. In 1960, its population was around 12.3 million, rising to approximately 20.4 million by 1980. The population reached roughly 28.8 million in 2000 and approximately 36.7 million in 2020. Declining mortality and improvements in life expectancy have played important roles in the country's demographic development.",
+    "errors": [
+      {
+        "text": "33.8 million",
+        "start": 53,
+        "category": "population",
+        "note": "was '38.4 million', changed x0.88"
+      }
+    ]
+  },
+  {
+    "id": "batchA#4/inject8",
+    "kind": "injected",
+    "text": "Morocco has an estimated population of approximately 38.4 million in 2025. In 1960, its population was around 12.3 million, rising to approximately 20.4 million by 1980. The population reached roughly 32.3 million in 2000 and approximately 36.7 million in 2020. Declining mortality and improvements in life expectancy have played important roles in the country's demographic development.",
+    "errors": [
+      {
+        "text": "32.3 million",
+        "start": 201,
+        "category": "population",
+        "note": "was '28.8 million', changed x1.12"
+      }
+    ]
+  },
+  {
+    "id": "batchA#5/inject9",
+    "kind": "injected",
+    "text": "Saudi Arabia's population is estimated at approximately 32.2 million in 2025. In 1960, the country had roughly 4.1 million inhabitants, increasing to approximately 9.6 million by 1980. Its population reached around 21.1 million in 2000 and approximately 32.8 million in 2020. Economic development, immigration, and relatively high fertility rates have all contributed to population growth.",
+    "errors": [
+      {
+        "text": "32.2 million",
+        "start": 56,
+        "category": "population",
+        "note": "was '34.6 million', changed x0.93"
+      }
+    ]
+  },
+  {
+    "id": "batchA#5/inject10",
+    "kind": "injected",
+    "text": "Saudi Arabia's population is estimated at approximately 34.6 million in 2025. In 1960, the country had roughly 4.1 million inhabitants, increasing to approximately 9.6 million by 1980. Its population reached around 22.6 million in 2000 and approximately 32.8 million in 2020. Economic development, immigration, and relatively high fertility rates have all contributed to population growth.",
+    "errors": [
+      {
+        "text": "22.6 million",
+        "start": 215,
+        "category": "population",
+        "note": "was '21.1 million', changed x1.07"
+      }
+    ]
+  },
+  {
+    "id": "batchA#6/inject11",
+    "kind": "injected",
+    "text": "South Korea has an estimated population of approximately 51.7 million in 2025. Its population was around 22.0 million in 1960 and increased to approximately 38.1 million by 1980. By 2000, the population had reached roughly 46.8 million, before growing to approximately 51.8 million in 2020. Unlike many developing countries, South Korea now faces demographic challenges associated with extremely low fertility and an aging population.",
+    "errors": [
+      {
+        "text": "22.0 million",
+        "start": 105,
+        "category": "population",
+        "note": "was '25.0 million', changed x0.88"
+      }
+    ]
+  },
+  {
+    "id": "batchA#6/inject12",
+    "kind": "injected",
+    "text": "South Korea has an estimated population of approximately 51.7 million in 2025. Its population was around 25.0 million in 1960 and increased to approximately 38.1 million by 1980. By 2000, the population had reached roughly 52.4 million, before growing to approximately 51.8 million in 2020. Unlike many developing countries, South Korea now faces demographic challenges associated with extremely low fertility and an aging population.",
+    "errors": [
+      {
+        "text": "52.4 million",
+        "start": 223,
+        "category": "population",
+        "note": "was '46.8 million', changed x1.12"
+      }
+    ]
+  },
+  {
+    "id": "batchA#7/inject13",
+    "kind": "injected",
+    "text": "Malaysia's population is estimated at approximately 33.5 million in 2025. In 1960, the country had around 8.2 million people, increasing to approximately 13.8 million by 1980. Its population reached roughly 23.2 million in 2000 and approximately 33.4 million in 2020. Economic development, urbanization, and natural population growth have contributed to these demographic changes.",
+    "errors": [
+      {
+        "text": "33.5 million",
+        "start": 52,
+        "category": "population",
+        "note": "was '36.0 million', changed x0.93"
+      }
+    ]
+  },
+  {
+    "id": "batchA#7/inject14",
+    "kind": "injected",
+    "text": "Malaysia's population is estimated at approximately 36.0 million in 2025. In 1960, the country had around 8.2 million people, increasing to approximately 14.8 million by 1980. Its population reached roughly 23.2 million in 2000 and approximately 33.4 million in 2020. Economic development, urbanization, and natural population growth have contributed to these demographic changes.",
+    "errors": [
+      {
+        "text": "14.8 million",
+        "start": 154,
+        "category": "population",
+        "note": "was '13.8 million', changed x1.07"
+      }
+    ]
+  },
+  {
+    "id": "batchA#8/inject15",
+    "kind": "injected",
+    "text": "Poland's population is estimated at approximately 38.1 million in 2025. In 1960, the country had roughly 26.0 million inhabitants, increasing to approximately 35.6 million by 1980. Its population reached around 38.3 million in 2000 and approximately 38.0 million in 2020. More recently, low fertility rates, emigration, and an aging population have contributed to demographic stagnation and decline.",
+    "errors": [
+      {
+        "text": "26.0 million",
+        "start": 105,
+        "category": "population",
+        "note": "was '29.6 million', changed x0.88"
+      }
+    ]
+  },
+  {
+    "id": "batchA#8/inject16",
+    "kind": "injected",
+    "text": "Poland's population is estimated at approximately 38.1 million in 2025. In 1960, the country had roughly 29.6 million inhabitants, increasing to approximately 35.6 million by 1980. Its population reached around 38.3 million in 2000 and approximately 42.6 million in 2020. More recently, low fertility rates, emigration, and an aging population have contributed to demographic stagnation and decline.",
+    "errors": [
+      {
+        "text": "42.6 million",
+        "start": 250,
+        "category": "population",
+        "note": "was '38.0 million', changed x1.12"
+      }
+    ]
+  },
+  {
+    "id": "batchA#9/inject17",
+    "kind": "injected",
+    "text": "The Netherlands has an estimated population of approximately 17.0 million in 2025. Its population was around 11.5 million in 1960, increasing to approximately 14.1 million by 1980. By 2000, the population had reached roughly 15.9 million, rising to approximately 17.4 million in 2020. Immigration, natural population growth, and increasing life expectancy have contributed to this steady expansion.",
+    "errors": [
+      {
+        "text": "17.0 million",
+        "start": 61,
+        "category": "population",
+        "note": "was '18.3 million', changed x0.93"
+      }
+    ]
+  },
+  {
+    "id": "batchA#9/inject18",
+    "kind": "injected",
+    "text": "The Netherlands has an estimated population of approximately 18.3 million in 2025. Its population was around 11.5 million in 1960, increasing to approximately 15.1 million by 1980. By 2000, the population had reached roughly 15.9 million, rising to approximately 17.4 million in 2020. Immigration, natural population growth, and increasing life expectancy have contributed to this steady expansion.",
+    "errors": [
+      {
+        "text": "15.1 million",
+        "start": 159,
+        "category": "population",
+        "note": "was '14.1 million', changed x1.07"
+      }
+    ]
+  },
+  {
+    "id": "batchA#10/inject19",
+    "kind": "injected",
+    "text": "Sweden's population is estimated at approximately 10.7 million in 2025. In 1960, the country had around 6.6 million inhabitants, increasing to approximately 8.3 million by 1980. Its population reached roughly 8.9 million in 2000 and approximately 10.4 million in 2020. Immigration, relatively high life expectancy, and gradual population growth have helped shape Sweden's demographic trends.",
+    "errors": [
+      {
+        "text": "6.6 million",
+        "start": 104,
+        "category": "population",
+        "note": "was '7.5 million', changed x0.88"
+      }
+    ]
+  },
+  {
+    "id": "batchA#10/inject20",
+    "kind": "injected",
+    "text": "Sweden's population is estimated at approximately 10.7 million in 2025. In 1960, the country had around 7.5 million inhabitants, increasing to approximately 8.3 million by 1980. Its population reached roughly 8.9 million in 2000 and approximately 11.6 million in 2020. Immigration, relatively high life expectancy, and gradual population growth have helped shape Sweden's demographic trends.",
+    "errors": [
+      {
+        "text": "11.6 million",
+        "start": 247,
+        "category": "population",
+        "note": "was '10.4 million', changed x1.12"
+      }
+    ]
+  },
+  {
+    "id": "batchB#1/inject21",
+    "kind": "injected",
+    "text": "Chile had a population of approximately 18.47 million in 2025, making it one of the more populous countries in South America. In 1960, its population was approximately 7.65 million, reflecting substantial growth over 65 years. By 2000, the population had reached approximately 15.4 million, and by 2020 it was around 19.3 million. This growth reflects improvements in healthcare, declining mortality rates, and urbanization.",
+    "errors": [
+      {
+        "text": "18.47 million",
+        "start": 40,
+        "category": "population",
+        "note": "was '19.86 million', changed x0.93"
+      }
+    ]
+  },
+  {
+    "id": "batchB#1/inject22",
+    "kind": "injected",
+    "text": "Chile had a population of approximately 19.86 million in 2025, making it one of the more populous countries in South America. In 1960, its population was approximately 8.19 million, reflecting substantial growth over 65 years. By 2000, the population had reached approximately 15.4 million, and by 2020 it was around 19.3 million. This growth reflects improvements in healthcare, declining mortality rates, and urbanization.",
+    "errors": [
+      {
+        "text": "8.19 million",
+        "start": 168,
+        "category": "population",
+        "note": "was '7.65 million', changed x1.07"
+      }
+    ]
+  },
+  {
+    "id": "batchB#2/inject23",
+    "kind": "injected",
+    "text": "Peru's population was approximately 30.4 million in 2025, continuing a long period of demographic expansion. In 1960, the country had approximately 10.1 million inhabitants, while its population reached around 26.0 million by 2000. By 2020, Peru's population had grown to approximately 33.0 million. Lima became an increasingly important population center during this period, attracting millions of residents through migration.",
+    "errors": [
+      {
+        "text": "30.4 million",
+        "start": 36,
+        "category": "population",
+        "note": "was '34.6 million', changed x0.88"
+      }
+    ]
+  },
+  {
+    "id": "batchB#2/inject24",
+    "kind": "injected",
+    "text": "Peru's population was approximately 34.6 million in 2025, continuing a long period of demographic expansion. In 1960, the country had approximately 10.1 million inhabitants, while its population reached around 29.1 million by 2000. By 2020, Peru's population had grown to approximately 33.0 million. Lima became an increasingly important population center during this period, attracting millions of residents through migration.",
+    "errors": [
+      {
+        "text": "29.1 million",
+        "start": 210,
+        "category": "population",
+        "note": "was '26.0 million', changed x1.12"
+      }
+    ]
+  },
+  {
+    "id": "batchB#3/inject25",
+    "kind": "injected",
+    "text": "Colombia had an estimated population of approximately 49.7 million in 2025. Its population was around 16.0 million in 1960, increasing to approximately 39.8 million by 2000. In 2020, Colombia had approximately 50.9 million inhabitants, demonstrating significant demographic growth over the preceding decades. Urbanization contributed to the expansion of major cities such as Bogotá, Medellín, and Cali.",
+    "errors": [
+      {
+        "text": "49.7 million",
+        "start": 54,
+        "category": "population",
+        "note": "was '53.4 million', changed x0.93"
+      }
+    ]
+  },
+  {
+    "id": "batchB#3/inject26",
+    "kind": "injected",
+    "text": "Colombia had an estimated population of approximately 53.4 million in 2025. Its population was around 17.1 million in 1960, increasing to approximately 39.8 million by 2000. In 2020, Colombia had approximately 50.9 million inhabitants, demonstrating significant demographic growth over the preceding decades. Urbanization contributed to the expansion of major cities such as Bogotá, Medellín, and Cali.",
+    "errors": [
+      {
+        "text": "17.1 million",
+        "start": 102,
+        "category": "population",
+        "note": "was '16.0 million', changed x1.07"
+      }
+    ]
+  },
+  {
+    "id": "batchB#4/inject27",
+    "kind": "injected",
+    "text": "Venezuela's population was approximately 28.5 million in 2025. In 1960, the country had approximately 7.1 million residents, and its population increased to around 24.3 million by 2000. By 2020, the population was approximately 28.4 million. Economic instability and large-scale emigration have influenced Venezuela's population trends during more recent decades.",
+    "errors": [
+      {
+        "text": "7.1 million",
+        "start": 102,
+        "category": "population",
+        "note": "was '8.1 million', changed x0.88"
+      }
+    ]
+  },
+  {
+    "id": "batchB#4/inject28",
+    "kind": "injected",
+    "text": "Venezuela's population was approximately 28.5 million in 2025. In 1960, the country had approximately 8.1 million residents, and its population increased to around 24.3 million by 2000. By 2020, the population was approximately 31.8 million. Economic instability and large-scale emigration have influenced Venezuela's population trends during more recent decades.",
+    "errors": [
+      {
+        "text": "31.8 million",
+        "start": 228,
+        "category": "population",
+        "note": "was '28.4 million', changed x1.12"
+      }
+    ]
+  },
+  {
+    "id": "batchB#5/inject29",
+    "kind": "injected",
+    "text": "Cuba had an estimated population of approximately 10.1 million in 2025. Its population was around 7.1 million in 1960, before increasing to approximately 11.1 million by 2000. In 2020, Cuba's population was approximately 11.3 million. More recently, declining birth rates, an aging population, and emigration have contributed to population decline.",
+    "errors": [
+      {
+        "text": "10.1 million",
+        "start": 50,
+        "category": "population",
+        "note": "was '10.9 million', changed x0.93"
+      }
+    ]
+  },
+  {
+    "id": "batchB#5/inject30",
+    "kind": "injected",
+    "text": "Cuba had an estimated population of approximately 10.9 million in 2025. Its population was around 7.1 million in 1960, before increasing to approximately 11.9 million by 2000. In 2020, Cuba's population was approximately 11.3 million. More recently, declining birth rates, an aging population, and emigration have contributed to population decline.",
+    "errors": [
+      {
+        "text": "11.9 million",
+        "start": 154,
+        "category": "population",
+        "note": "was '11.1 million', changed x1.07"
+      }
+    ]
+  },
+  {
+    "id": "batchB#6/inject31",
+    "kind": "injected",
+    "text": "Australia's population reached approximately 27.0 million in 2025, making it the most populous country in Oceania. In 1960, Australia had approximately 9.1 million inhabitants, increasing to around 19.0 million by 2000. By 2020, its population had reached approximately 25.7 million. Immigration has played a significant role in Australia's population growth, particularly in major metropolitan areas such as Sydney and Melbourne.",
+    "errors": [
+      {
+        "text": "9.1 million",
+        "start": 152,
+        "category": "population",
+        "note": "was '10.3 million', changed x0.88"
+      }
+    ]
+  },
+  {
+    "id": "batchB#6/inject32",
+    "kind": "injected",
+    "text": "Australia's population reached approximately 27.0 million in 2025, making it the most populous country in Oceania. In 1960, Australia had approximately 10.3 million inhabitants, increasing to around 19.0 million by 2000. By 2020, its population had reached approximately 28.8 million. Immigration has played a significant role in Australia's population growth, particularly in major metropolitan areas such as Sydney and Melbourne.",
+    "errors": [
+      {
+        "text": "28.8 million",
+        "start": 271,
+        "category": "population",
+        "note": "was '25.7 million', changed x1.12"
+      }
+    ]
+  },
+  {
+    "id": "batchB#7/inject33",
+    "kind": "injected",
+    "text": "New Zealand had a population of approximately 4.88 million in 2025. In 1960, its population was approximately 2.37 million, increasing to around 3.85 million by 2000. By 2020, the population had reached approximately 5.09 million. Population growth has been influenced by immigration, natural population increases, and the expansion of urban centers such as Auckland.",
+    "errors": [
+      {
+        "text": "4.88 million",
+        "start": 46,
+        "category": "population",
+        "note": "was '5.25 million', changed x0.93"
+      }
+    ]
+  },
+  {
+    "id": "batchB#7/inject34",
+    "kind": "injected",
+    "text": "New Zealand had a population of approximately 5.25 million in 2025. In 1960, its population was approximately 2.37 million, increasing to around 4.12 million by 2000. By 2020, the population had reached approximately 5.09 million. Population growth has been influenced by immigration, natural population increases, and the expansion of urban centers such as Auckland.",
+    "errors": [
+      {
+        "text": "4.12 million",
+        "start": 145,
+        "category": "population",
+        "note": "was '3.85 million', changed x1.07"
+      }
+    ]
+  },
+  {
+    "id": "batchB#8/inject35",
+    "kind": "injected",
+    "text": "Japan's population was approximately 108.3 million in 2025, reflecting a prolonged period of demographic decline. In 1960, Japan had approximately 93.4 million residents, and its population increased to around 126.8 million by 2000. It reached approximately 126.3 million in 2020 before continuing to decline. Low fertility rates and an aging population are major factors behind this demographic trend.",
+    "errors": [
+      {
+        "text": "108.3 million",
+        "start": 37,
+        "category": "population",
+        "note": "was '123.1 million', changed x0.88"
+      }
+    ]
+  },
+  {
+    "id": "batchB#8/inject36",
+    "kind": "injected",
+    "text": "Japan's population was approximately 123.1 million in 2025, reflecting a prolonged period of demographic decline. In 1960, Japan had approximately 104.6 million residents, and its population increased to around 126.8 million by 2000. It reached approximately 126.3 million in 2020 before continuing to decline. Low fertility rates and an aging population are major factors behind this demographic trend.",
+    "errors": [
+      {
+        "text": "104.6 million",
+        "start": 147,
+        "category": "population",
+        "note": "was '93.4 million', changed x1.12"
+      }
+    ]
+  },
+  {
+    "id": "batchB#9/inject37",
+    "kind": "injected",
+    "text": "Russia had an estimated population of approximately 144.0 million in 2025. In 1960, the Russian Soviet Federative Socialist Republic had approximately 119.9 million inhabitants, while the Russian Federation had approximately 136.2 million residents in 2000. By 2020, Russia's population was approximately 145.6 million. Changes in birth rates, mortality, migration, and the dissolution of the Soviet Union have shaped its demographic history.",
+    "errors": [
+      {
+        "text": "136.2 million",
+        "start": 225,
+        "category": "population",
+        "note": "was '146.4 million', changed x0.93"
+      }
+    ]
+  },
+  {
+    "id": "batchB#9/inject38",
+    "kind": "injected",
+    "text": "Russia had an estimated population of approximately 144.0 million in 2025. In 1960, the Russian Soviet Federative Socialist Republic had approximately 119.9 million inhabitants, while the Russian Federation had approximately 146.4 million residents in 2000. By 2020, Russia's population was approximately 155.8 million. Changes in birth rates, mortality, migration, and the dissolution of the Soviet Union have shaped its demographic history.",
+    "errors": [
+      {
+        "text": "155.8 million",
+        "start": 305,
+        "category": "population",
+        "note": "was '145.6 million', changed x1.07"
+      }
+    ]
+  },
+  {
+    "id": "batchB#10/inject39",
+    "kind": "injected",
+    "text": "The world's population reached approximately 7.24 billion in 2025, representing substantial growth compared with earlier historical periods. In 1960, the global population was approximately 3.02 billion, increasing to around 6.14 billion by 2000. By 2020, the world had approximately 7.89 billion inhabitants. Improvements in healthcare, increased life expectancy, and declining mortality rates have contributed significantly to this long-term population expansion.",
+    "errors": [
+      {
+        "text": "7.24 billion",
+        "start": 45,
+        "category": "population",
+        "note": "was '8.23 billion', changed x0.88"
+      }
+    ]
+  },
+  {
+    "id": "batchB#10/inject40",
+    "kind": "injected",
+    "text": "The world's population reached approximately 8.23 billion in 2025, representing substantial growth compared with earlier historical periods. In 1960, the global population was approximately 3.38 billion, increasing to around 6.14 billion by 2000. By 2020, the world had approximately 7.89 billion inhabitants. Improvements in healthcare, increased life expectancy, and declining mortality rates have contributed significantly to this long-term population expansion.",
+    "errors": [
+      {
+        "text": "3.38 billion",
+        "start": 190,
+        "category": "population",
+        "note": "was '3.02 billion', changed x1.12"
+      }
+    ]
+  },
+  {
+    "id": "batchC#1/inject41",
+    "kind": "injected",
+    "text": "If you are training for a 5 km run (2.89 miles), maintaining a pace of 6 minutes per kilometre (9.66 minutes per mile) means you will finish in approximately 30 minutes (0.5 hours). A beginner might start with 2 km (1.24 miles) of running and gradually increase the distance by 0.5 km (0.31 miles) each week. Drinking 500 mL (16.91 US fluid ounces) of water before exercise can help you stay hydrated.",
+    "errors": [
+      {
+        "text": "2.89 miles",
+        "start": 36,
+        "category": "conversion",
+        "note": "was '3.11 miles', changed x0.93"
+      }
+    ]
+  },
+  {
+    "id": "batchC#1/inject42",
+    "kind": "injected",
+    "text": "If you are training for a 5 km run (3.11 miles), maintaining a pace of 6 minutes per kilometre (10.34 minutes per mile) means you will finish in approximately 30 minutes (0.5 hours). A beginner might start with 2 km (1.24 miles) of running and gradually increase the distance by 0.5 km (0.31 miles) each week. Drinking 500 mL (16.91 US fluid ounces) of water before exercise can help you stay hydrated.",
+    "errors": [
+      {
+        "text": "10.34 minutes per mile",
+        "start": 96,
+        "category": "conversion",
+        "note": "was '9.66 minutes per mile', changed x1.07"
+      }
+    ]
+  },
+  {
+    "id": "batchC#1/inject43",
+    "kind": "injected",
+    "text": "If you are training for a 5 km run (3.11 miles), maintaining a pace of 6 minutes per kilometre (9.66 minutes per mile) means you will finish in approximately 30 minutes (0.5 hours). A beginner might start with 2 km (1.09 miles) of running and gradually increase the distance by 0.5 km (0.31 miles) each week. Drinking 500 mL (16.91 US fluid ounces) of water before exercise can help you stay hydrated.",
+    "errors": [
+      {
+        "text": "1.09 miles",
+        "start": 216,
+        "category": "conversion",
+        "note": "was '1.24 miles', changed x0.88"
+      }
+    ]
+  },
+  {
+    "id": "batchC#1/inject44",
+    "kind": "injected",
+    "text": "If you are training for a 5 km run (3.11 miles), maintaining a pace of 6 minutes per kilometre (9.66 minutes per mile) means you will finish in approximately 30 minutes (0.5 hours). A beginner might start with 2 km (1.24 miles) of running and gradually increase the distance by 0.5 km (0.31 miles) each week. Drinking 500 mL (18.94 US fluid ounces) of water before exercise can help you stay hydrated.",
+    "errors": [
+      {
+        "text": "18.94 US fluid ounces",
+        "start": 326,
+        "category": "conversion",
+        "note": "was '16.91 US fluid ounces', changed x1.12"
+      }
+    ]
+  },
+  {
+    "id": "batchC#2/inject45",
+    "kind": "injected",
+    "text": "In science class, you might measure the temperature of water at 25°C (72°F) before conducting an experiment. If you heat 500 mL (16.91 US fluid ounces) of water to 100°C (212°F), it reaches its boiling point at standard atmospheric pressure. A laboratory ruler can measure an object's length as 15 cm (5.91 inches), while a balance might record its mass as 250 g (8.82 ounces).",
+    "errors": [
+      {
+        "text": "72°F",
+        "start": 70,
+        "category": "conversion",
+        "note": "was '77°F', changed x0.93"
+      }
+    ]
+  },
+  {
+    "id": "batchC#2/inject46",
+    "kind": "injected",
+    "text": "In science class, you might measure the temperature of water at 25°C (77°F) before conducting an experiment. If you heat 500 mL (16.91 US fluid ounces) of water to 100°C (212°F), it reaches its boiling point at standard atmospheric pressure. A laboratory ruler can measure an object's length as 15 cm (6.32 inches), while a balance might record its mass as 250 g (8.82 ounces).",
+    "errors": [
+      {
+        "text": "6.32 inches",
+        "start": 302,
+        "category": "conversion",
+        "note": "was '5.91 inches', changed x1.07"
+      }
+    ]
+  },
+  {
+    "id": "batchC#2/inject47",
+    "kind": "injected",
+    "text": "In science class, you might measure the temperature of water at 25°C (77°F) before conducting an experiment. If you heat 500 mL (16.91 US fluid ounces) of water to 100°C (212°F), it reaches its boiling point at standard atmospheric pressure. A laboratory ruler can measure an object's length as 15 cm (5.91 inches), while a balance might record its mass as 250 g (7.76 ounces).",
+    "errors": [
+      {
+        "text": "7.76 ounces",
+        "start": 364,
+        "category": "conversion",
+        "note": "was '8.82 ounces', changed x0.88"
+      }
+    ]
+  },
+  {
+    "id": "batchC#3/inject48",
+    "kind": "injected",
+    "text": "When shipping a package, its dimensions and weight are often required to calculate the delivery cost. A box measuring 40 cm (17.64 inches) long, 30 cm (11.81 inches) wide, and 20 cm (7.87 inches) tall has a volume of 24,000 cm³ (1,464.57 cubic inches). If the package weighs 5 kg (11.02 pounds), the shipping company may charge based on its actual weight or dimensional weight. Checking both metric and imperial measurements helps prevent shipping delays.",
+    "errors": [
+      {
+        "text": "17.64 inches",
+        "start": 125,
+        "category": "conversion",
+        "note": "was '15.75 inches', changed x1.12"
+      }
+    ]
+  },
+  {
+    "id": "batchC#3/inject49",
+    "kind": "injected",
+    "text": "When shipping a package, its dimensions and weight are often required to calculate the delivery cost. A box measuring 40 cm (15.75 inches) long, 30 cm (11.81 inches) wide, and 20 cm (7.87 inches) tall has a volume of 24,000 cm³ (1,362.05 cubic inches). If the package weighs 5 kg (11.02 pounds), the shipping company may charge based on its actual weight or dimensional weight. Checking both metric and imperial measurements helps prevent shipping delays.",
+    "errors": [
+      {
+        "text": "1,362.05 cubic inches",
+        "start": 229,
+        "category": "conversion",
+        "note": "was '1,464.57 cubic inches', changed x0.93"
+      }
+    ]
+  },
+  {
+    "id": "batchC#3/inject50",
+    "kind": "injected",
+    "text": "When shipping a package, its dimensions and weight are often required to calculate the delivery cost. A box measuring 40 cm (15.75 inches) long, 30 cm (11.81 inches) wide, and 20 cm (7.87 inches) tall has a volume of 24,000 cm³ (1,464.57 cubic inches). If the package weighs 5 kg (11.79 pounds), the shipping company may charge based on its actual weight or dimensional weight. Checking both metric and imperial measurements helps prevent shipping delays.",
+    "errors": [
+      {
+        "text": "11.79 pounds",
+        "start": 281,
+        "category": "conversion",
+        "note": "was '11.02 pounds', changed x1.07"
+      }
+    ]
+  },
+  {
+    "id": "batchC#4/inject51",
+    "kind": "injected",
+    "text": "During air travel, passengers often see their cruising altitude displayed in feet and metres. A commercial aircraft flying at 35,000 ft (9,388 m) is travelling at a typical cruising altitude. If the aircraft covers 800 km (497.10 miles) in 1 hour, its average ground speed is 800 km/h (497.10 mph). Airport baggage allowances may also specify a maximum checked-bag weight of 23 kg (50.71 pounds).",
+    "errors": [
+      {
+        "text": "9,388 m",
+        "start": 137,
+        "category": "conversion",
+        "note": "was '10,668 m', changed x0.88"
+      }
+    ]
+  },
+  {
+    "id": "batchC#4/inject52",
+    "kind": "injected",
+    "text": "During air travel, passengers often see their cruising altitude displayed in feet and metres. A commercial aircraft flying at 35,000 ft (10,668 m) is travelling at a typical cruising altitude. If the aircraft covers 800 km (556.75 miles) in 1 hour, its average ground speed is 800 km/h (497.10 mph). Airport baggage allowances may also specify a maximum checked-bag weight of 23 kg (50.71 pounds).",
+    "errors": [
+      {
+        "text": "556.75 miles",
+        "start": 224,
+        "category": "conversion",
+        "note": "was '497.10 miles', changed x1.12"
+      }
+    ]
+  },
+  {
+    "id": "batchC#4/inject53",
+    "kind": "injected",
+    "text": "During air travel, passengers often see their cruising altitude displayed in feet and metres. A commercial aircraft flying at 35,000 ft (10,668 m) is travelling at a typical cruising altitude. If the aircraft covers 800 km (497.10 miles) in 1 hour, its average ground speed is 800 km/h (497.10 mph). Airport baggage allowances may also specify a maximum checked-bag weight of 23 kg (47.16 pounds).",
+    "errors": [
+      {
+        "text": "47.16 pounds",
+        "start": 383,
+        "category": "conversion",
+        "note": "was '50.71 pounds', changed x0.93"
+      }
+    ]
+  },
+  {
+    "id": "batchC#5/inject54",
+    "kind": "injected",
+    "text": "When planning a garden, knowing the correct measurements helps determine how much soil and water you need. A garden bed measuring 2 m (7.02 ft) long and 1.5 m (4.92 ft) wide has an area of 3 m² (32.29 square feet). Adding a 5 cm (1.97 inches) layer of compost requires approximately 0.15 m³ (5.30 cubic feet) of material. Many vegetables also benefit from approximately 25 mm (0.98 inches) of water per week, depending on rainfall and soil conditions.",
+    "errors": [
+      {
+        "text": "7.02 ft",
+        "start": 135,
+        "category": "conversion",
+        "note": "was '6.56 ft', changed x1.07"
+      }
+    ]
+  },
+  {
+    "id": "batchC#5/inject55",
+    "kind": "injected",
+    "text": "When planning a garden, knowing the correct measurements helps determine how much soil and water you need. A garden bed measuring 2 m (6.56 ft) long and 1.5 m (4.92 ft) wide has an area of 3 m² (28.42 square feet). Adding a 5 cm (1.97 inches) layer of compost requires approximately 0.15 m³ (5.30 cubic feet) of material. Many vegetables also benefit from approximately 25 mm (0.98 inches) of water per week, depending on rainfall and soil conditions.",
+    "errors": [
+      {
+        "text": "28.42 square feet",
+        "start": 195,
+        "category": "conversion",
+        "note": "was '32.29 square feet', changed x0.88"
+      }
+    ]
+  },
+  {
+    "id": "batchC#5/inject56",
+    "kind": "injected",
+    "text": "When planning a garden, knowing the correct measurements helps determine how much soil and water you need. A garden bed measuring 2 m (6.56 ft) long and 1.5 m (4.92 ft) wide has an area of 3 m² (32.29 square feet). Adding a 5 cm (1.97 inches) layer of compost requires approximately 0.15 m³ (5.94 cubic feet) of material. Many vegetables also benefit from approximately 25 mm (0.98 inches) of water per week, depending on rainfall and soil conditions.",
+    "errors": [
+      {
+        "text": "5.94 cubic feet",
+        "start": 292,
+        "category": "conversion",
+        "note": "was '5.30 cubic feet', changed x1.12"
+      }
+    ]
+  },
+  {
+    "id": "batchC#6/inject57",
+    "kind": "injected",
+    "text": "Home heating systems are commonly measured by their energy output and the temperature they maintain indoors. Setting a thermostat to 20°C (63°F) can provide a comfortable indoor environment during winter. A room measuring 5 m (16.40 ft) long, 4 m (13.12 ft) wide, and 2.5 m (8.20 ft) high has a volume of 50 m³ (1,765.73 cubic feet). Insulation rated at R-20 (RSI 3.52 m²·K/W) offers a useful measure of resistance to heat flow.",
+    "errors": [
+      {
+        "text": "63°F",
+        "start": 139,
+        "category": "conversion",
+        "note": "was '68°F', changed x0.93"
+      }
+    ]
+  },
+  {
+    "id": "batchC#6/inject58",
+    "kind": "injected",
+    "text": "Home heating systems are commonly measured by their energy output and the temperature they maintain indoors. Setting a thermostat to 20°C (68°F) can provide a comfortable indoor environment during winter. A room measuring 5 m (16.40 ft) long, 4 m (13.12 ft) wide, and 2.5 m (8.20 ft) high has a volume of 50 m³ (1,889.33 cubic feet). Insulation rated at R-20 (RSI 3.52 m²·K/W) offers a useful measure of resistance to heat flow.",
+    "errors": [
+      {
+        "text": "1,889.33 cubic feet",
+        "start": 312,
+        "category": "conversion",
+        "note": "was '1,765.73 cubic feet', changed x1.07"
+      }
+    ]
+  },
+  {
+    "id": "batchC#7/inject59",
+    "kind": "injected",
+    "text": "When calculating car fuel consumption, it is useful to understand both litres per 100 kilometres and miles per gallon. A vehicle that consumes 8 L/100 km (25.9 US mpg) uses 8 litres of fuel (2.11 US gallons) to travel 100 km (62.14 miles). If a car has a 50 L (13.21 US gallon) fuel tank, it can travel approximately 625 km (388.36 miles) under those consumption conditions. Actual fuel economy can vary depending on traffic, speed, and driving habits.",
+    "errors": [
+      {
+        "text": "25.9 US mpg",
+        "start": 155,
+        "category": "conversion",
+        "note": "was '29.4 US mpg', changed x0.88"
+      }
+    ]
+  },
+  {
+    "id": "batchC#7/inject60",
+    "kind": "injected",
+    "text": "When calculating car fuel consumption, it is useful to understand both litres per 100 kilometres and miles per gallon. A vehicle that consumes 8 L/100 km (29.4 US mpg) uses 8 litres of fuel (2.11 US gallons) to travel 100 km (62.14 miles). If a car has a 50 L (14.80 US gallon) fuel tank, it can travel approximately 625 km (388.36 miles) under those consumption conditions. Actual fuel economy can vary depending on traffic, speed, and driving habits.",
+    "errors": [
+      {
+        "text": "14.80 US gallon",
+        "start": 261,
+        "category": "conversion",
+        "note": "was '13.21 US gallon', changed x1.12"
+      }
+    ]
+  },
+  {
+    "id": "batchC#8/inject61",
+    "kind": "injected",
+    "text": "A cyclist training for a long-distance event might ride 25 km (14.44 miles) in approximately 1 hour. This corresponds to an average speed of 25 km/h (15.53 mph). If the cyclist drinks 750 mL (25.36 US fluid ounces) of water during the ride, that is approximately 0.75 L (0.20 US gallons). Wearing a helmet weighing 300 g (10.58 ounces) can provide protection without adding excessive weight.",
+    "errors": [
+      {
+        "text": "14.44 miles",
+        "start": 63,
+        "category": "conversion",
+        "note": "was '15.53 miles', changed x0.93"
+      }
+    ]
+  },
+  {
+    "id": "batchC#8/inject62",
+    "kind": "injected",
+    "text": "A cyclist training for a long-distance event might ride 25 km (15.53 miles) in approximately 1 hour. This corresponds to an average speed of 25 km/h (15.53 mph). If the cyclist drinks 750 mL (27.14 US fluid ounces) of water during the ride, that is approximately 0.75 L (0.20 US gallons). Wearing a helmet weighing 300 g (10.58 ounces) can provide protection without adding excessive weight.",
+    "errors": [
+      {
+        "text": "27.14 US fluid ounces",
+        "start": 192,
+        "category": "conversion",
+        "note": "was '25.36 US fluid ounces', changed x1.07"
+      }
+    ]
+  },
+  {
+    "id": "batchC#8/inject63",
+    "kind": "injected",
+    "text": "A cyclist training for a long-distance event might ride 25 km (15.53 miles) in approximately 1 hour. This corresponds to an average speed of 25 km/h (15.53 mph). If the cyclist drinks 750 mL (25.36 US fluid ounces) of water during the ride, that is approximately 0.75 L (0.20 US gallons). Wearing a helmet weighing 300 g (9.31 ounces) can provide protection without adding excessive weight.",
+    "errors": [
+      {
+        "text": "9.31 ounces",
+        "start": 322,
+        "category": "conversion",
+        "note": "was '10.58 ounces', changed x0.88"
+      }
+    ]
+  },
+  {
+    "id": "batchC#9/inject64",
+    "kind": "injected",
+    "text": "In a chemistry experiment, a student might need to measure 2.5 L (0.66 US gallons) of liquid for a reaction. If the liquid has a density of 1 g/mL (1 kg/L), its total mass is 2.5 kg (6.17 pounds). A thermometer showing 37°C (98.6°F) indicates a temperature close to normal human body temperature. Measuring 10 mL (0.34 US fluid ounces) with a graduated cylinder provides a more precise result than estimating the amount by eye.",
+    "errors": [
+      {
+        "text": "6.17 pounds",
+        "start": 183,
+        "category": "conversion",
+        "note": "was '5.51 pounds', changed x1.12"
+      }
+    ]
+  },
+  {
+    "id": "batchC#9/inject65",
+    "kind": "injected",
+    "text": "In a chemistry experiment, a student might need to measure 2.5 L (0.66 US gallons) of liquid for a reaction. If the liquid has a density of 1 g/mL (1 kg/L), its total mass is 2.5 kg (5.51 pounds). A thermometer showing 37°C (91.7°F) indicates a temperature close to normal human body temperature. Measuring 10 mL (0.34 US fluid ounces) with a graduated cylinder provides a more precise result than estimating the amount by eye.",
+    "errors": [
+      {
+        "text": "91.7°F",
+        "start": 225,
+        "category": "conversion",
+        "note": "was '98.6°F', changed x0.93"
+      }
+    ]
+  },
+  {
+    "id": "batchC#10/inject66",
+    "kind": "injected",
+    "text": "When heating a home, energy consumption may be measured in kilowatt-hours and British thermal units. Using 10 kWh (36,509.9 BTU) of energy provides the same energy quantity in either unit. A 2 kW (6,824 BTU/h) electric heater operating for 5 hours (300 minutes) consumes 10 kWh (34,121.4 BTU) of electricity. If electricity costs $0.15 per kWh (approximately $0.044 per 1,000 BTU), the total operating cost is $1.50 (150 cents).",
+    "errors": [
+      {
+        "text": "36,509.9 BTU",
+        "start": 115,
+        "category": "conversion",
+        "note": "was '34,121.4 BTU', changed x1.07"
+      }
+    ]
+  },
+  {
+    "id": "batchC#10/inject67",
+    "kind": "injected",
+    "text": "When heating a home, energy consumption may be measured in kilowatt-hours and British thermal units. Using 10 kWh (34,121.4 BTU) of energy provides the same energy quantity in either unit. A 2 kW (6,005 BTU/h) electric heater operating for 5 hours (300 minutes) consumes 10 kWh (34,121.4 BTU) of electricity. If electricity costs $0.15 per kWh (approximately $0.044 per 1,000 BTU), the total operating cost is $1.50 (150 cents).",
+    "errors": [
+      {
+        "text": "6,005 BTU/h",
+        "start": 197,
+        "category": "conversion",
+        "note": "was '6,824 BTU/h', changed x0.88"
+      }
+    ]
+  }
+]

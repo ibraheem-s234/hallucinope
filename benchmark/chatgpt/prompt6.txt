@@ -1,0 +1,30 @@
+Below are 10 short paragraphs. Check every number in them. For each paragraph, list
+every number that is factually wrong: wrong population figures, wrong unit conversions,
+or wrong arithmetic. Ignore small rounding differences. Answer from your own knowledge;
+do not search the web.
+
+Output ONLY valid JSON, no other text: a list with one object per paragraph, each with
+"id" (for example "P07") and "wrong_numbers": a list of objects with "text" (the wrong
+number exactly as it is written in the paragraph) and "correct_value". If every number
+in a paragraph is correct, use an empty list.
+
+
+P51: Calculating room area is important when purchasing flooring or planning furniture arrangements. A room measuring 12 ft by 10 ft has an area of 120 square feet, which is approximately 15 m². For comparison, 1 m² is equivalent to approximately 10.764 square feet. A larger room measuring 15 ft by 20 ft would have an area of 300 square feet.
+
+P52: Body weight is commonly measured in kilograms in Canada and pounds in the United States. A person weighing 70 kg has a weight of approximately 190 lb, while someone weighing 5 kg is equivalent to approximately 11.02 lb. Conversely, a weight of 150 lb corresponds to approximately 88.45 kg. These conversions are helpful when comparing measurements from different fitness devices.
+
+P53: Canada's population has grown considerably since the middle of the 20th century. In 1950, the country had approximately 14 million residents, increasing to around 18.2 million by 1960 and 21.5 million by 2000. By 2024, Canada's population had reached approximately 39.7 million. The United Nations projects that it could reach approximately 46.1 million by 2054.
+
+P54: If you are planning a road trip from Toronto to Montreal, the driving distance is approximately 543 km, depending on your route. At an average speed of 100 km/h, the journey would take approximately 5.4 hours without stops. A vehicle consuming 8 L of fuel per 100 km would use approximately 43.4 L for the trip. You should also account for traffic, rest breaks, and possible construction delays.
+
+P55: Germany had approximately 83.5 million residents in 2025, while France had approximately 48.1 million and Italy had approximately 58.9 million. Germany's nominal GDP reached approximately $5.05 trillion USD in 2025, making it Europe's largest national economy. France recorded a nominal GDP of approximately $3.37 trillion USD, while Italy reached approximately $2.55 trillion USD. Germany's GDP per capita was approximately $60,496 USD, compared with approximately $49,000 USD in France.
+
+P56: Unit conversions are useful when comparing measurements from different systems. A distance of 15 km is equivalent to 9.32 miles, while 100 miles is approximately 160.93 km. If a vehicle travels at 100 km/h, its speed is approximately 62.14 mph. Similarly, a temperature of 25°C is equivalent to 100°F, using the formula °F = (°C × 9/5) + 32.
+
+P57: Temperature and distance conversions are useful when travelling internationally. A weather forecast showing 68°F indicates a temperature of approximately 25°C. If a destination is located 2.5 miles away, the distance is approximately 4.02 km. A longer journey of 10 miles corresponds to approximately 16.09 km, which can help travellers estimate transportation distances.
+
+P58: Population density helps explain how people are distributed across different geographical areas. Bangladesh had approximately 175.7 million residents in 2025 despite having a land area of approximately 148,460 km². Pakistan had approximately 255.2 million people, while Nigeria had approximately 237.5 million. By comparison, Brazil had approximately 212.8 million residents across an area of approximately 8.52 million km². These figures demonstrate how population size and geographical area can vary considerably between countries.
+
+P59: Everyday measurements often involve converting body weight, room dimensions, and liquid volumes. A person weighing 180 lb has a body weight of approximately 100 kg. Meanwhile, a room measuring 2.4 m by 3 m has a floor area of 7.2 m². A bottle containing 750 mL of water holds 0.75 litres, while 3 litres is equivalent to 3,000 mL.
+
+P60: Area and volume measurements are important when calculating the dimensions of buildings and rooms. A rectangular room measuring 5 m by 4 m has a floor area of 20 m². If its ceiling is 2.5 m high, its total internal volume is 50 m³. One square metre is equivalent to approximately 10.764 square feet, meaning that a 100 m² apartment has approximately 1,076.4 square feet of floor space. One cubic metre is also equivalent to 1,000 litres.

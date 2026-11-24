@@ -1,0 +1,30 @@
+Below are 10 short paragraphs. Check every number in them. For each paragraph, list
+every number that is factually wrong: wrong population figures, wrong unit conversions,
+or wrong arithmetic. Ignore small rounding differences. Answer from your own knowledge;
+do not search the web.
+
+Output ONLY valid JSON, no other text: a list with one object per paragraph, each with
+"id" (for example "P07") and "wrong_numbers": a list of objects with "text" (the wrong
+number exactly as it is written in the paragraph) and "correct_value". If every number
+in a paragraph is correct, use an empty list.
+
+
+P41: Cooking measurements frequently require converting between metric and imperial units. A measuring jug containing 250 mL of liquid holds approximately 1.5 US cups. Similarly, 1 litre is equivalent to approximately 4.23 US cups, and 15 mL equals 1 tablespoon. For a large recipe, 2 litres of water would provide approximately 8.45 US cups.
+
+P42: A standard baking recipe for 12 muffins might require 250 g of flour, 150 g of sugar, 120 mL of milk, and 100 g of melted butter. You would also need approximately 2 large eggs, 10 g of baking powder, and 2 mL of vanilla extract. Bake the muffins at 180°C for approximately 18–22 minutes. Allow them to cool for at least 10 minutes before removing them from the baking tray.
+
+P43: Unit conversions are useful when comparing measurements from different systems. A distance of 15 km is equivalent to 9.32 miles, while 100 miles is approximately 160.93 km. If a vehicle travels at 100 km/h, its speed is approximately 43.50 mph. Similarly, a temperature of 25°C is equivalent to 77°F, using the formula °F = (°C × 9/5) + 32.
+
+P44: Germany had approximately 83.5 million residents in 2025, while France had approximately 68.7 million and Italy had approximately 58.9 million. Germany's nominal GDP reached approximately $5.05 trillion USD in 2025, making it Europe's largest national economy. France recorded a nominal GDP of approximately $3.37 trillion USD, while Italy reached approximately $2.55 trillion USD. Germany's GDP per capita was approximately $60,496 USD, compared with approximately $49,000 USD in France.
+
+P45: India had an estimated population of approximately 1.464 billion people in 2025, while China had approximately 0.985 billion. The United States had approximately 341.8 million residents, making it the 3rd most populous country. India's nominal GDP was approximately $3.96 trillion USD in 2025, compared with China's $19.50 trillion USD. India's population was therefore more than 4 times larger than that of the United States.
+
+P46: The world's population has increased dramatically over the past century. In 1950, approximately 2.5 billion people lived on Earth, compared with 3.0 billion in 1960 and 4.3 billion in 2000. By 2024, the global population had reached approximately 8.2 billion. This growth reflects improvements in healthcare, sanitation, nutrition, and life expectancy.
+
+P47: Understanding temperature conversions is useful when comparing weather forecasts from different countries. A temperature of 20°C is equivalent to 80°F, while 0°C corresponds to 32°F. On a particularly warm day, 30°C is equivalent to 112°F. Water freezes at approximately 0°C and boils at approximately 100°C under standard atmospheric pressure.
+
+P48: The United States had an estimated population of approximately 341.8 million in 2025, while California had approximately 39.5 million residents. Texas had approximately 31.7 million people, making it the 2nd most populous state. New York State had approximately 20 million residents, while Florida had approximately 23.8 million. The United States recorded a nominal GDP of approximately $30.77 trillion USD in 2025, the largest national economy in the world.
+
+P49: When planning a road trip, converting kilometres into miles can help estimate travel distances. A journey of 5 km is approximately 4.0 miles, while 12 km is approximately 9.70 miles. If a driver travels at 100 km/h, their speed is equivalent to approximately 62.14 mph. A 250 km trip would take 2.5 hours at an average speed of 100 km/h.
+
+P50: Speed conversions are especially useful when driving in countries that use different measurement systems. A vehicle travelling at 60 mph is moving at approximately 120 km/h. Similarly, 90 km/h is equivalent to approximately 55.92 mph. A speed of 1 m/s corresponds to 3.6 km/h, which is useful when studying walking and running speeds.

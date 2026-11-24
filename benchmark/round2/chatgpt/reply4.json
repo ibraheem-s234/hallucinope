@@ -1,0 +1,95 @@
+[\
+&#x20; {\
+&#x20;   "id": "P31",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "33.8 million",\
+&#x20;       "correct_value": "38.4 million"\
+&#x20;     },\
+&#x20;     {\
+&#x20;       "text": "12.3 million",\
+&#x20;       "correct_value": "11.6 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P32",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "22.6 million",\
+&#x20;       "correct_value": "20.6 million"\
+&#x20;     },\
+&#x20;     {\
+&#x20;       "text": "32.8 million",\
+&#x20;       "correct_value": "35.0 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P33",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "18.94 US fluid ounces",\
+&#x20;       "correct_value": "16.91 US fluid ounces"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P34",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "104.6 million",\
+&#x20;       "correct_value": "93.2 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P35",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "14.80 US gallon",\
+&#x20;       "correct_value": "13.21 US gallons"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P36",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "7.76 ounces",\
+&#x20;       "correct_value": "8.82 ounces"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P37",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P38",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "556.75 miles",\
+&#x20;       "correct_value": "497.10 miles"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P39",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "6.6 million",\
+&#x20;       "correct_value": "7.5 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P40",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "30.4 million",\
+&#x20;       "correct_value": "34.6 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; }\
+]

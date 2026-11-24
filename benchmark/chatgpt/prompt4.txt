@@ -1,0 +1,30 @@
+Below are 10 short paragraphs. Check every number in them. For each paragraph, list
+every number that is factually wrong: wrong population figures, wrong unit conversions,
+or wrong arithmetic. Ignore small rounding differences. Answer from your own knowledge;
+do not search the web.
+
+Output ONLY valid JSON, no other text: a list with one object per paragraph, each with
+"id" (for example "P07") and "wrong_numbers": a list of objects with "text" (the wrong
+number exactly as it is written in the paragraph) and "correct_value". If every number
+in a paragraph is correct, use an empty list.
+
+
+P31: India has experienced substantial population growth since independence in 1947. Its population was approximately 263 million in 1950, increased to around 1.05 billion by 2000, and reached approximately 1.45 billion in 2024. India is projected to have approximately 1.68 billion people by 2050. Population growth is expected to slow as fertility rates decline.
+
+P32: Canada's population has grown considerably since the middle of the 20th century. In 1950, the country had approximately 14 million residents, increasing to around 18.2 million by 1960 and 30.7 million by 2000. By 2024, Canada's population had reached approximately 39.7 million. The United Nations projects that it could reach approximately 46.1 million by 2054.
+
+P33: Unit conversions are useful when comparing measurements from different systems. A distance of 15 km is equivalent to 6.52 miles, while 100 miles is approximately 160.93 km. If a vehicle travels at 100 km/h, its speed is approximately 62.14 mph. Similarly, a temperature of 25°C is equivalent to 77°F, using the formula °F = (°C × 9/5) + 32.
+
+P34: Australia had approximately 27 million residents in 2025, while its largest state, New South Wales, had approximately 8.5 million people. Victoria had approximately 7 million residents, and Queensland had approximately 5.7 million. Australia's nominal GDP was approximately $1.80 trillion USD in 2025, with annual GDP growth of approximately 2.1% according to World Bank data. Its population is concentrated primarily in major coastal cities such as Sydney, Melbourne, Brisbane and Perth.
+
+P35: Understanding temperature conversions is useful when comparing weather forecasts from different countries. A temperature of 20°C is equivalent to 80°F, while 0°C corresponds to 32°F. On a particularly warm day, 30°C is equivalent to 86°F. Water freezes at approximately 0°C and boils at approximately 100°C under standard atmospheric pressure.
+
+P36: Canada's population has grown considerably since the 1960s, when it had approximately 24.5 million people in 1960. By 2000, the population had reached approximately 30.7 million, increasing further to 38.0 million in 2020. According to United Nations medium-variant projections, Canada's population is expected to approach approximately 45 million by 2050.
+
+P37: The United Nations projects that the global population will continue growing over the coming decades, although the growth rate will gradually decrease. Its 2024 medium projection estimates approximately 9.8 billion people by 2054 and approximately 10.2 billion by 2100. The population is expected to peak at around 10.3 billion during the 2080s. These projections depend on future fertility, mortality, and migration patterns.
+
+P38: China's population experienced rapid growth throughout much of the 20th century. It had approximately 707 million residents in 1950, compared with 1.26 billion in 2000 and approximately 1.42 billion in 2021. Its population subsequently began declining, reaching approximately 1.42 billion in 2024. United Nations projections suggest that China's population could fall to approximately 633 million by 2100.
+
+P39: India had an estimated population of approximately 1.903 billion people in 2025, while China had approximately 1.407 billion. The United States had approximately 341.8 million residents, making it the 3rd most populous country. India's nominal GDP was approximately $3.96 trillion USD in 2025, compared with China's $19.50 trillion USD. India's population was therefore more than 4 times larger than that of the United States.
+
+P40: Body weight is commonly measured in kilograms in Canada and pounds in the United States. A person weighing 70 kg has a weight of approximately 190 lb, while someone weighing 5 kg is equivalent to approximately 7.71 lb. Conversely, a weight of 150 lb corresponds to approximately 68.04 kg. These conversions are helpful when comparing measurements from different fitness devices.

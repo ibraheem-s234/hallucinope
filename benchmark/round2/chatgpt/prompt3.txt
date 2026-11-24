@@ -1,0 +1,30 @@
+Below are 10 short paragraphs. Check every number in them. For each paragraph, list
+every number that is factually wrong: wrong population figures, wrong unit conversions,
+or wrong arithmetic. Ignore small rounding differences. Answer from your own knowledge;
+do not search the web.
+
+Output ONLY valid JSON, no other text: a list with one object per paragraph, each with
+"id" (for example "P07") and "wrong_numbers": a list of objects with "text" (the wrong
+number exactly as it is written in the paragraph) and "correct_value". If every number
+in a paragraph is correct, use an empty list.
+
+
+P21: Venezuela's population was approximately 28.5 million in 2025. In 1960, the country had approximately 8.1 million residents, and its population increased to around 24.3 million by 2000. By 2020, the population was approximately 28.4 million. Economic instability and large-scale emigration have influenced Venezuela's population trends during more recent decades.
+
+P22: Colombia had an estimated population of approximately 53.4 million in 2025. Its population was around 16.0 million in 1960, increasing to approximately 39.8 million by 2000. In 2020, Colombia had approximately 50.9 million inhabitants, demonstrating significant demographic growth over the preceding decades. Urbanization contributed to the expansion of major cities such as Bogotá, Medellín, and Cali.
+
+P23: During air travel, passengers often see their cruising altitude displayed in feet and metres. A commercial aircraft flying at 35,000 ft (9,388 m) is travelling at a typical cruising altitude. If the aircraft covers 800 km (497.10 miles) in 1 hour, its average ground speed is 800 km/h (497.10 mph). Airport baggage allowances may also specify a maximum checked-bag weight of 23 kg (50.71 pounds).
+
+P24: When shipping a package, its dimensions and weight are often required to calculate the delivery cost. A box measuring 40 cm (15.75 inches) long, 30 cm (11.81 inches) wide, and 20 cm (7.87 inches) tall has a volume of 24,000 cm³ (1,464.57 cubic inches). If the package weighs 5 kg (11.79 pounds), the shipping company may charge based on its actual weight or dimensional weight. Checking both metric and imperial measurements helps prevent shipping delays.
+
+P25: Peru's population was approximately 34.6 million in 2025, continuing a long period of demographic expansion. In 1960, the country had approximately 10.1 million inhabitants, while its population reached around 26.0 million by 2000. By 2020, Peru's population had grown to approximately 33.0 million. Lima became an increasingly important population center during this period, attracting millions of residents through migration.
+
+P26: If you are training for a 5 km run (2.89 miles), maintaining a pace of 6 minutes per kilometre (9.66 minutes per mile) means you will finish in approximately 30 minutes (0.5 hours). A beginner might start with 2 km (1.24 miles) of running and gradually increase the distance by 0.5 km (0.31 miles) each week. Drinking 500 mL (16.91 US fluid ounces) of water before exercise can help you stay hydrated.
+
+P27: In a chemistry experiment, a student might need to measure 2.5 L (0.66 US gallons) of liquid for a reaction. If the liquid has a density of 1 g/mL (1 kg/L), its total mass is 2.5 kg (6.17 pounds). A thermometer showing 37°C (98.6°F) indicates a temperature close to normal human body temperature. Measuring 10 mL (0.34 US fluid ounces) with a graduated cylinder provides a more precise result than estimating the amount by eye.
+
+P28: The Netherlands has an estimated population of approximately 17.0 million in 2025. Its population was around 11.5 million in 1960, increasing to approximately 14.1 million by 1980. By 2000, the population had reached roughly 15.9 million, rising to approximately 17.4 million in 2020. Immigration, natural population growth, and increasing life expectancy have contributed to this steady expansion.
+
+P29: Poland's population is estimated at approximately 38.1 million in 2025. In 1960, the country had roughly 29.6 million inhabitants, increasing to approximately 35.6 million by 1980. Its population reached around 38.3 million in 2000 and approximately 38.0 million in 2020. More recently, low fertility rates, emigration, and an aging population have contributed to demographic stagnation and decline.
+
+P30: The world's population reached approximately 7.24 billion in 2025, representing substantial growth compared with earlier historical periods. In 1960, the global population was approximately 3.02 billion, increasing to around 6.14 billion by 2000. By 2020, the world had approximately 7.89 billion inhabitants. Improvements in healthcare, increased life expectancy, and declining mortality rates have contributed significantly to this long-term population expansion.

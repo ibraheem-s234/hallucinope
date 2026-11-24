@@ -1,0 +1,30 @@
+Below are 10 short paragraphs. Check every number in them. For each paragraph, list
+every number that is factually wrong: wrong population figures, wrong unit conversions,
+or wrong arithmetic. Ignore small rounding differences. Answer from your own knowledge;
+do not search the web.
+
+Output ONLY valid JSON, no other text: a list with one object per paragraph, each with
+"id" (for example "P07") and "wrong_numbers": a list of objects with "text" (the wrong
+number exactly as it is written in the paragraph) and "correct_value". If every number
+in a paragraph is correct, use an empty list.
+
+
+P01: Saudi Arabia's population is estimated at approximately 32.2 million in 2025. In 1960, the country had roughly 4.1 million inhabitants, increasing to approximately 9.6 million by 1980. Its population reached around 21.1 million in 2000 and approximately 32.8 million in 2020. Economic development, immigration, and relatively high fertility rates have all contributed to population growth.
+
+P02: South Korea has an estimated population of approximately 51.7 million in 2025. Its population was around 25.0 million in 1960 and increased to approximately 38.1 million by 1980. By 2000, the population had reached roughly 46.8 million, before growing to approximately 51.8 million in 2020. Unlike many developing countries, South Korea now faces demographic challenges associated with extremely low fertility and an aging population.
+
+P03: When shipping a package, its dimensions and weight are often required to calculate the delivery cost. A box measuring 40 cm (15.75 inches) long, 30 cm (11.81 inches) wide, and 20 cm (7.87 inches) tall has a volume of 24,000 cm³ (1,362.05 cubic inches). If the package weighs 5 kg (11.02 pounds), the shipping company may charge based on its actual weight or dimensional weight. Checking both metric and imperial measurements helps prevent shipping delays.
+
+P04: Peru's population was approximately 34.6 million in 2025, continuing a long period of demographic expansion. In 1960, the country had approximately 10.1 million inhabitants, while its population reached around 29.1 million by 2000. By 2020, Peru's population had grown to approximately 33.0 million. Lima became an increasingly important population center during this period, attracting millions of residents through migration.
+
+P05: A cyclist training for a long-distance event might ride 25 km (15.53 miles) in approximately 1 hour. This corresponds to an average speed of 25 km/h (15.53 mph). If the cyclist drinks 750 mL (27.14 US fluid ounces) of water during the ride, that is approximately 0.75 L (0.20 US gallons). Wearing a helmet weighing 300 g (10.58 ounces) can provide protection without adding excessive weight.
+
+P06: Chile had a population of approximately 19.86 million in 2025, making it one of the more populous countries in South America. In 1960, its population was approximately 8.19 million, reflecting substantial growth over 65 years. By 2000, the population had reached approximately 15.4 million, and by 2020 it was around 19.3 million. This growth reflects improvements in healthcare, declining mortality rates, and urbanization.
+
+P07: If you are training for a 5 km run (3.11 miles), maintaining a pace of 6 minutes per kilometre (9.66 minutes per mile) means you will finish in approximately 30 minutes (0.5 hours). A beginner might start with 2 km (1.24 miles) of running and gradually increase the distance by 0.5 km (0.31 miles) each week. Drinking 500 mL (16.91 US fluid ounces) of water before exercise can help you stay hydrated.
+
+P08: Tanzania has experienced substantial population growth, reaching approximately 70.5 million people in 2025. Its population was around 10.0 million in 1960 and increased to approximately 18.5 million by 1980. By 2000, Tanzania had roughly 34.0 million inhabitants, compared with approximately 61.7 million in 2020. Expanding access to healthcare and persistently high fertility rates have contributed to this long-term increase.
+
+P09: When calculating car fuel consumption, it is useful to understand both litres per 100 kilometres and miles per gallon. A vehicle that consumes 8 L/100 km (25.9 US mpg) uses 8 litres of fuel (2.11 US gallons) to travel 100 km (62.14 miles). If a car has a 50 L (13.21 US gallon) fuel tank, it can travel approximately 625 km (388.36 miles) under those consumption conditions. Actual fuel economy can vary depending on traffic, speed, and driving habits.
+
+P10: Sweden's population is estimated at approximately 10.7 million in 2025. In 1960, the country had around 7.5 million inhabitants, increasing to approximately 8.3 million by 1980. Its population reached roughly 8.9 million in 2000 and approximately 11.6 million in 2020. Immigration, relatively high life expectancy, and gradual population growth have helped shape Sweden's demographic trends.

@@ -1,0 +1,30 @@
+Below are 10 short paragraphs. Check every number in them. For each paragraph, list
+every number that is factually wrong: wrong population figures, wrong unit conversions,
+or wrong arithmetic. Ignore small rounding differences. Answer from your own knowledge;
+do not search the web.
+
+Output ONLY valid JSON, no other text: a list with one object per paragraph, each with
+"id" (for example "P07") and "wrong_numbers": a list of objects with "text" (the wrong
+number exactly as it is written in the paragraph) and "correct_value". If every number
+in a paragraph is correct, use an empty list.
+
+
+P01: Population density helps explain how people are distributed across different geographical areas. Bangladesh had approximately 175.7 million residents in 2025 despite having a land area of approximately 148,460 km². Pakistan had approximately 255.2 million people, while Nigeria had approximately 237.5 million. By comparison, Brazil had approximately 149.0 million residents across an area of approximately 8.52 million km². These figures demonstrate how population size and geographical area can vary considerably between countries.
+
+P02: Bangladesh has a population of approximately 176 million people, making it one of the most densely populated countries in the world. Its land area is approximately 147,570 square kilometres, resulting in a population density of around 1,193 people per square kilometre. In 1971, when Bangladesh became independent, its population was approximately 75 million.
+
+P03: Canada's population has grown considerably since the middle of the 20th century. In 1950, the country had approximately 10 million residents, increasing to around 18.2 million by 1960 and 30.7 million by 2000. By 2024, Canada's population had reached approximately 39.7 million. The United Nations projects that it could reach approximately 46.1 million by 2054.
+
+P04: India has experienced substantial population growth since independence in 1947. Its population was approximately 376 million in 1950, increased to around 1.37 billion by 2000, and reached approximately 1.45 billion in 2024. India is projected to have approximately 1.68 billion people by 2050. Population growth is expected to slow as fertility rates decline.
+
+P05: Canada had a population of approximately 41.6 million people in 2025, making it one of the world's most populous countries. Ontario had approximately 16.2 million residents, representing about 39% of Canada's population. Quebec had approximately 9.1 million people, while British Columbia had approximately 5.7 million. Canada's nominal GDP was approximately $2.32 trillion USD in 2025, with GDP per capita reaching approximately $55,698 USD.
+
+P06: Speed conversions are especially useful when driving in countries that use different measurement systems. A vehicle travelling at 60 mph is moving at approximately 120 km/h. Similarly, 90 km/h is equivalent to approximately 39.14 mph. A speed of 1 m/s corresponds to 3.6 km/h, which is useful when studying walking and running speeds.
+
+P07: Cooking measurements frequently require conversions between metric and imperial units. One US cup holds approximately 236.59 mL, while 1 US tablespoon equals approximately 14.79 mL. A recipe requiring 500 g of flour needs approximately 1.43 pounds of flour. Additionally, 2 litres of water is equivalent to approximately 0.53 US gallons. These conversions help ensure accurate ingredient measurements when following international recipes.
+
+P08: Unit conversions are useful when comparing measurements from different systems. A distance of 15 km is equivalent to 9.32 miles, while 100 miles is approximately 160.93 km. If a vehicle travels at 100 km/h, its speed is approximately 62.14 mph. Similarly, a temperature of 25°C is equivalent to 77°F, using the formula °F = (°C × 9/5) + 32.
+
+P09: Germany had approximately 83.5 million residents in 2025, while France had approximately 68.7 million and Italy had approximately 76.6 million. Germany's nominal GDP reached approximately $5.05 trillion USD in 2025, making it Europe's largest national economy. France recorded a nominal GDP of approximately $3.37 trillion USD, while Italy reached approximately $2.55 trillion USD. Germany's GDP per capita was approximately $60,496 USD, compared with approximately $49,000 USD in France.
+
+P10: When preparing a recipe, 1 US cup of water is approximately 300 mL, while 2 tablespoons equal 30 mL and 1 teaspoon equals 5 mL. If an oven is set to 350°F, the equivalent temperature is approximately 124°C. For a smaller recipe, 500 mL of milk is equivalent to approximately 2.11 US cups.

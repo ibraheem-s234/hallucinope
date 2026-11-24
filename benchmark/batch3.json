@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "paragraph": "When preparing a recipe, 1 US cup of water is approximately 300 mL, while 2 tablespoons equal 30 mL and 1 teaspoon equals 5 mL. If an oven is set to 350°F, the equivalent temperature is approximately 177°C. For a smaller recipe, 500 mL of milk is equivalent to approximately 2.11 US cups.",
+    "planted_errors": [
+      {
+        "text": "300 mL",
+        "true_value": 240
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "paragraph": "When planning a road trip, converting kilometres into miles can help estimate travel distances. A journey of 5 km is approximately 4.0 miles, while 12 km is approximately 7.46 miles. If a driver travels at 100 km/h, their speed is equivalent to approximately 62.14 mph. A 250 km trip would take 2.5 hours at an average speed of 100 km/h.",
+    "planted_errors": [
+      {
+        "text": "4.0 miles",
+        "true_value": 3.11
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "paragraph": "Understanding temperature conversions is useful when comparing weather forecasts from different countries. A temperature of 20°C is equivalent to 80°F, while 0°C corresponds to 32°F. On a particularly warm day, 30°C is equivalent to 86°F. Water freezes at approximately 0°C and boils at approximately 100°C under standard atmospheric pressure.",
+    "planted_errors": [
+      {
+        "text": "80°F",
+        "true_value": 68
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "paragraph": "Speed conversions are especially useful when driving in countries that use different measurement systems. A vehicle travelling at 60 mph is moving at approximately 120 km/h. Similarly, 90 km/h is equivalent to approximately 55.92 mph. A speed of 1 m/s corresponds to 3.6 km/h, which is useful when studying walking and running speeds.",
+    "planted_errors": [
+      {
+        "text": "120 km/h",
+        "true_value": 96.56
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "paragraph": "Body weight is commonly measured in kilograms in Canada and pounds in the United States. A person weighing 70 kg has a weight of approximately 190 lb, while someone weighing 5 kg is equivalent to approximately 11.02 lb. Conversely, a weight of 150 lb corresponds to approximately 68.04 kg. These conversions are helpful when comparing measurements from different fitness devices.",
+    "planted_errors": [
+      {
+        "text": "190 lb",
+        "true_value": 154.32
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "paragraph": "Calculating room area is important when purchasing flooring or planning furniture arrangements. A room measuring 12 ft by 10 ft has an area of 120 square feet, which is approximately 15 m². For comparison, 1 m² is equivalent to approximately 10.764 square feet. A larger room measuring 15 ft by 20 ft would have an area of 300 square feet.",
+    "planted_errors": [
+      {
+        "text": "15 m²",
+        "true_value": 11.15
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "paragraph": "Room volume can be calculated by multiplying its length, width, and height. A room measuring 2 m long, 3 m wide, and 2.5 m high has a volume of 20 m³. Since 1 m³ equals 1,000 litres, this room has a volume equivalent to 15,000 litres. A container holding 500 litres has a volume of 0.5 m³.",
+    "planted_errors": [
+      {
+        "text": "20 m³",
+        "true_value": 15
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "paragraph": "Cooking measurements frequently require converting between metric and imperial units. A measuring jug containing 250 mL of liquid holds approximately 1.5 US cups. Similarly, 1 litre is equivalent to approximately 4.23 US cups, and 15 mL equals 1 tablespoon. For a large recipe, 2 litres of water would provide approximately 8.45 US cups.",
+    "planted_errors": [
+      {
+        "text": "1.5 US cups",
+        "true_value": 1.06
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "paragraph": "Temperature and distance conversions are useful when travelling internationally. A weather forecast showing 68°F indicates a temperature of approximately 25°C. If a destination is located 2.5 miles away, the distance is approximately 4.02 km. A longer journey of 10 miles corresponds to approximately 16.09 km, which can help travellers estimate transportation distances.",
+    "planted_errors": [
+      {
+        "text": "25°C",
+        "true_value": 20
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "paragraph": "Everyday measurements often involve converting body weight, room dimensions, and liquid volumes. A person weighing 180 lb has a body weight of approximately 100 kg. Meanwhile, a room measuring 2.4 m by 3 m has a floor area of 7.2 m². A bottle containing 750 mL of water holds 0.75 litres, while 3 litres is equivalent to 3,000 mL.",
+    "planted_errors": [
+      {
+        "text": "100 kg",
+        "true_value": 81.65
+      }
+    ]
+  }
+]

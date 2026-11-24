@@ -1,0 +1,67 @@
+[\
+&#x20; {\
+&#x20;   "id": "P80",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "17.1 million",\
+&#x20;       "correct_value": "approximately 16.0 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P81",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P82",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P83",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "91.7°F",\
+&#x20;       "correct_value": "98.6°F"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P84",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P85",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "63°F",\
+&#x20;       "correct_value": "68°F"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P86",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "6.1 million",\
+&#x20;       "correct_value": "approximately 6.7 million"\
+&#x20;     },\
+&#x20;     {\
+&#x20;       "text": "11.9 million",\
+&#x20;       "correct_value": "approximately 11.0 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P87",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "7.1 million",\
+&#x20;       "correct_value": "approximately 7.5 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P88",\
+&#x20;   "wrong_numbers": []\
+&#x20; }\
+]

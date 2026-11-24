@@ -1,0 +1,30 @@
+Below are 10 short paragraphs. Check every number in them. For each paragraph, list
+every number that is factually wrong: wrong population figures, wrong unit conversions,
+or wrong arithmetic. Ignore small rounding differences. Answer from your own knowledge;
+do not search the web.
+
+Output ONLY valid JSON, no other text: a list with one object per paragraph, each with
+"id" (for example "P07") and "wrong_numbers": a list of objects with "text" (the wrong
+number exactly as it is written in the paragraph) and "correct_value". If every number
+in a paragraph is correct, use an empty list.
+
+
+P41: A cyclist training for a long-distance event might ride 25 km (15.53 miles) in approximately 1 hour. This corresponds to an average speed of 25 km/h (15.53 mph). If the cyclist drinks 750 mL (25.36 US fluid ounces) of water during the ride, that is approximately 0.75 L (0.20 US gallons). Wearing a helmet weighing 300 g (10.58 ounces) can provide protection without adding excessive weight.
+
+P42: When heating a home, energy consumption may be measured in kilowatt-hours and British thermal units. Using 10 kWh (34,121.4 BTU) of energy provides the same energy quantity in either unit. A 2 kW (6,005 BTU/h) electric heater operating for 5 hours (300 minutes) consumes 10 kWh (34,121.4 BTU) of electricity. If electricity costs $0.15 per kWh (approximately $0.044 per 1,000 BTU), the total operating cost is $1.50 (150 cents).
+
+P43: Chile had a population of approximately 19.86 million in 2025, making it one of the more populous countries in South America. In 1960, its population was approximately 7.65 million, reflecting substantial growth over 65 years. By 2000, the population had reached approximately 15.4 million, and by 2020 it was around 19.3 million. This growth reflects improvements in healthcare, declining mortality rates, and urbanization.
+
+P44: The Netherlands has an estimated population of approximately 18.3 million in 2025. Its population was around 11.5 million in 1960, increasing to approximately 15.1 million by 1980. By 2000, the population had reached roughly 15.9 million, rising to approximately 17.4 million in 2020. Immigration, natural population growth, and increasing life expectancy have contributed to this steady expansion.
+
+P45: Cuba had an estimated population of approximately 10.9 million in 2025. Its population was around 7.1 million in 1960, before increasing to approximately 11.9 million by 2000. In 2020, Cuba's population was approximately 11.3 million. More recently, declining birth rates, an aging population, and emigration have contributed to population decline.
+
+P46: Japan's population was approximately 108.3 million in 2025, reflecting a prolonged period of demographic decline. In 1960, Japan had approximately 93.4 million residents, and its population increased to around 126.8 million by 2000. It reached approximately 126.3 million in 2020 before continuing to decline. Low fertility rates and an aging population are major factors behind this demographic trend.
+
+P47: If you are training for a 5 km run (3.11 miles), maintaining a pace of 6 minutes per kilometre (10.34 minutes per mile) means you will finish in approximately 30 minutes (0.5 hours). A beginner might start with 2 km (1.24 miles) of running and gradually increase the distance by 0.5 km (0.31 miles) each week. Drinking 500 mL (16.91 US fluid ounces) of water before exercise can help you stay hydrated.
+
+P48: Poland's population is estimated at approximately 38.1 million in 2025. In 1960, the country had roughly 29.6 million inhabitants, increasing to approximately 35.6 million by 1980. Its population reached around 38.3 million in 2000 and approximately 42.6 million in 2020. More recently, low fertility rates, emigration, and an aging population have contributed to demographic stagnation and decline.
+
+P49: During air travel, passengers often see their cruising altitude displayed in feet and metres. A commercial aircraft flying at 35,000 ft (10,668 m) is travelling at a typical cruising altitude. If the aircraft covers 800 km (497.10 miles) in 1 hour, its average ground speed is 800 km/h (497.10 mph). Airport baggage allowances may also specify a maximum checked-bag weight of 23 kg (47.16 pounds).
+
+P50: South Korea has an estimated population of approximately 51.7 million in 2025. Its population was around 25.0 million in 1960 and increased to approximately 38.1 million by 1980. By 2000, the population had reached roughly 52.4 million, before growing to approximately 51.8 million in 2020. Unlike many developing countries, South Korea now faces demographic challenges associated with extremely low fertility and an aging population.

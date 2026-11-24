@@ -1,0 +1,30 @@
+Below are 10 short paragraphs. Check every number in them. For each paragraph, list
+every number that is factually wrong: wrong population figures, wrong unit conversions,
+or wrong arithmetic. Ignore small rounding differences. Answer from your own knowledge;
+do not search the web.
+
+Output ONLY valid JSON, no other text: a list with one object per paragraph, each with
+"id" (for example "P07") and "wrong_numbers": a list of objects with "text" (the wrong
+number exactly as it is written in the paragraph) and "correct_value". If every number
+in a paragraph is correct, use an empty list.
+
+
+P21: When planning a road trip, converting kilometres into miles can help estimate travel distances. A journey of 5 km is approximately 4.0 miles, while 12 km is approximately 7.46 miles. If a driver travels at 100 km/h, their speed is equivalent to approximately 62.14 mph. A 250 km trip would take 2.5 hours at an average speed of 100 km/h.
+
+P22: Canada had a population of approximately 29.1 million people in 2025, making it one of the world's most populous countries. Ontario had approximately 16.2 million residents, representing about 39% of Canada's population. Quebec had approximately 9.1 million people, while British Columbia had approximately 5.7 million. Canada's nominal GDP was approximately $2.32 trillion USD in 2025, with GDP per capita reaching approximately $55,698 USD.
+
+P23: The world's population has increased dramatically over the past century. In 1950, approximately 1.8 billion people lived on Earth, compared with 3.0 billion in 1960 and 6.1 billion in 2000. By 2024, the global population had reached approximately 8.2 billion. This growth reflects improvements in healthcare, sanitation, nutrition, and life expectancy.
+
+P24: Nigeria is the most populous country in Africa, with an estimated population of 280 million in 2025. Its population has grown considerably from approximately 45 million in 1960. Ethiopia, the second-most populous country in Africa, has approximately 135 million people, making it one of the continent's largest nations.
+
+P25: Canada's population has grown considerably since the middle of the 20th century. In 1950, the country had approximately 14 million residents, increasing to around 23.7 million by 1960 and 30.7 million by 2000. By 2024, Canada's population had reached approximately 39.7 million. The United Nations projects that it could reach approximately 46.1 million by 2054.
+
+P26: Body weight is commonly measured in kilograms in Canada and pounds in the United States. A person weighing 70 kg has a weight of approximately 190 lb, while someone weighing 5 kg is equivalent to approximately 11.02 lb. Conversely, a weight of 150 lb corresponds to approximately 68.04 kg. These conversions are helpful when comparing measurements from different fitness devices.
+
+P27: Population density helps explain how people are distributed across different geographical areas. Bangladesh had approximately 228.4 million residents in 2025 despite having a land area of approximately 148,460 km². Pakistan had approximately 255.2 million people, while Nigeria had approximately 237.5 million. By comparison, Brazil had approximately 212.8 million residents across an area of approximately 8.52 million km². These figures demonstrate how population size and geographical area can vary considerably between countries.
+
+P28: Toronto is Canada's largest metropolitan area, with approximately 6.2 million residents recorded in the 2021 census. Montreal had approximately 4.29 million people, while Vancouver had approximately 2.64 million. Calgary's metropolitan population was approximately 1.48 million in 2021, and Ottawa-Gatineau had approximately 1.49 million. Together, these metropolitan areas account for a substantial portion of Canada's urban population.
+
+P29: China's population experienced rapid growth throughout much of the 20th century. It had approximately 544 million residents in 1950, compared with 0.88 billion in 2000 and approximately 1.42 billion in 2021. Its population subsequently began declining, reaching approximately 1.42 billion in 2024. United Nations projections suggest that China's population could fall to approximately 633 million by 2100.
+
+P30: India had an estimated population of approximately 1.464 billion people in 2025, while China had approximately 1.407 billion. The United States had approximately 341.8 million residents, making it the 3rd most populous country. India's nominal GDP was approximately $3.96 trillion USD in 2025, compared with China's $19.50 trillion USD. India's population was therefore more than 4 times larger than that of the United States.

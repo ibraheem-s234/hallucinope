@@ -1,0 +1,62 @@
+[\
+&#x20; {\
+&#x20;   "id": "P61",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "9.31 ounces",\
+&#x20;       "correct_value": "10.58 ounces"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P62",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P63",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P64",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P65",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P66",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P67",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "62.0 million",\
+&#x20;       "correct_value": "Approximately 70.5 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P68",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P69",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "72°F",\
+&#x20;       "correct_value": "77°F"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P70",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "33.5 million",\
+&#x20;       "correct_value": "Approximately 36.0 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; }\
+]

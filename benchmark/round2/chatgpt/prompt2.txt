@@ -1,0 +1,30 @@
+Below are 10 short paragraphs. Check every number in them. For each paragraph, list
+every number that is factually wrong: wrong population figures, wrong unit conversions,
+or wrong arithmetic. Ignore small rounding differences. Answer from your own knowledge;
+do not search the web.
+
+Output ONLY valid JSON, no other text: a list with one object per paragraph, each with
+"id" (for example "P07") and "wrong_numbers": a list of objects with "text" (the wrong
+number exactly as it is written in the paragraph) and "correct_value". If every number
+in a paragraph is correct, use an empty list.
+
+
+P11: In science class, you might measure the temperature of water at 25°C (77°F) before conducting an experiment. If you heat 500 mL (16.91 US fluid ounces) of water to 100°C (212°F), it reaches its boiling point at standard atmospheric pressure. A laboratory ruler can measure an object's length as 15 cm (6.32 inches), while a balance might record its mass as 250 g (8.82 ounces).
+
+P12: If you are training for a 5 km run (3.11 miles), maintaining a pace of 6 minutes per kilometre (9.66 minutes per mile) means you will finish in approximately 30 minutes (0.5 hours). A beginner might start with 2 km (1.09 miles) of running and gradually increase the distance by 0.5 km (0.31 miles) each week. Drinking 500 mL (16.91 US fluid ounces) of water before exercise can help you stay hydrated.
+
+P13: When planning a garden, knowing the correct measurements helps determine how much soil and water you need. A garden bed measuring 2 m (6.56 ft) long and 1.5 m (4.92 ft) wide has an area of 3 m² (28.42 square feet). Adding a 5 cm (1.97 inches) layer of compost requires approximately 0.15 m³ (5.30 cubic feet) of material. Many vegetables also benefit from approximately 25 mm (0.98 inches) of water per week, depending on rainfall and soil conditions.
+
+P14: Sweden's population is estimated at approximately 10.7 million in 2025. In 1960, the country had around 7.5 million inhabitants, increasing to approximately 8.3 million by 1980. Its population reached roughly 8.9 million in 2000 and approximately 10.4 million in 2020. Immigration, relatively high life expectancy, and gradual population growth have helped shape Sweden's demographic trends.
+
+P15: The world's population reached approximately 8.23 billion in 2025, representing substantial growth compared with earlier historical periods. In 1960, the global population was approximately 3.02 billion, increasing to around 6.14 billion by 2000. By 2020, the world had approximately 7.89 billion inhabitants. Improvements in healthcare, increased life expectancy, and declining mortality rates have contributed significantly to this long-term population expansion.
+
+P16: Venezuela's population was approximately 28.5 million in 2025. In 1960, the country had approximately 8.1 million residents, and its population increased to around 24.3 million by 2000. By 2020, the population was approximately 31.8 million. Economic instability and large-scale emigration have influenced Venezuela's population trends during more recent decades.
+
+P17: In a chemistry experiment, a student might need to measure 2.5 L (0.66 US gallons) of liquid for a reaction. If the liquid has a density of 1 g/mL (1 kg/L), its total mass is 2.5 kg (5.51 pounds). A thermometer showing 37°C (98.6°F) indicates a temperature close to normal human body temperature. Measuring 10 mL (0.34 US fluid ounces) with a graduated cylinder provides a more precise result than estimating the amount by eye.
+
+P18: Tanzania has experienced substantial population growth, reaching approximately 70.5 million people in 2025. Its population was around 10.0 million in 1960 and increased to approximately 18.5 million by 1980. By 2000, Tanzania had roughly 38.1 million inhabitants, compared with approximately 61.7 million in 2020. Expanding access to healthcare and persistently high fertility rates have contributed to this long-term increase.
+
+P19: The Netherlands has an estimated population of approximately 18.3 million in 2025. Its population was around 11.5 million in 1960, increasing to approximately 14.1 million by 1980. By 2000, the population had reached roughly 15.9 million, rising to approximately 17.4 million in 2020. Immigration, natural population growth, and increasing life expectancy have contributed to this steady expansion.
+
+P20: Malaysia's population is estimated at approximately 36.0 million in 2025. In 1960, the country had around 8.2 million people, increasing to approximately 14.8 million by 1980. Its population reached roughly 23.2 million in 2000 and approximately 33.4 million in 2020. Economic development, urbanization, and natural population growth have contributed to these demographic changes.

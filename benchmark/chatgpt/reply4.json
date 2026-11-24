@@ -1,0 +1,76 @@
+[\
+&#x20; {\
+&#x20;   "id": "P31",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "263 million",\
+&#x20;       "correct_value": "Approximately 357 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P32",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P33",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "6.52 miles",\
+&#x20;       "correct_value": "Approximately 9.32 miles"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P34",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P35",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "80°F",\
+&#x20;       "correct_value": "68°F"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P36",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "24.5 million",\
+&#x20;       "correct_value": "Approximately 17.9 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P37",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P38",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P39",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "1.903 billion",\
+&#x20;       "correct_value": "Approximately 1.46 billion"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P40",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "190 lb",\
+&#x20;       "correct_value": "Approximately 154.32 lb"\
+&#x20;     },\
+&#x20;     {\
+&#x20;       "text": "7.71 lb",\
+&#x20;       "correct_value": "Approximately 11.02 lb"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; }\
+]

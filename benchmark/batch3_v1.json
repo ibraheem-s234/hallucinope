@@ -1,0 +1,109 @@
+[
+  {
+    "id": 1,
+    "paragraph": "When preparing a cake, a recipe might call for 250 g of flour, 150 g of sugar, and 125 mL of milk. Since 1 cup is approximately 250 mL, 500 mL of milk is equivalent to 2 cups. If you need to convert 750 g of flour into kilograms, the result is 0.75 kg.",
+    "planted_errors": [
+      {
+        "text": "2 cups",
+        "true_value": "500 mL is approximately 2.11 US cups (or 2.00 metric cups of 250 mL)."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "paragraph": "A road trip from Toronto to Ottawa covers approximately 450 km. If you drive at an average speed of 100 km/h, the journey takes about 4.5 hours without stops. Converting 450 km into miles gives approximately 280 miles, while 100 km/h is equivalent to 62 mph.",
+    "planted_errors": [
+      {
+        "text": "280 miles",
+        "true_value": "Approximately 280 miles (450 km is about 279.6 miles)."
+      },
+      {
+        "text": "62 mph",
+        "true_value": "Approximately 62.1 mph."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "paragraph": "Weather forecasts often use Celsius and Fahrenheit to describe temperatures. A temperature of 20°C is equivalent to 68°F, while 30°C is equivalent to 86°F. If the temperature drops to 0°C, it becomes 32°F, and a freezing temperature of -10°C corresponds to 10°F.",
+    "planted_errors": [
+      {
+        "text": "10°F",
+        "true_value": "14°F"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "paragraph": "When monitoring body weight, someone who weighs 70 kg weighs approximately 154 pounds. A person weighing 85 kg weighs about 187 pounds, while someone weighing 60 kg weighs approximately 132 pounds. To convert kilograms into pounds, multiply the weight in kilograms by approximately 2.205.",
+    "planted_errors": [
+      {
+        "text": "187 pounds",
+        "true_value": "187.4 pounds"
+      },
+      {
+        "text": "132 pounds",
+        "true_value": "132.3 pounds"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "paragraph": "A rectangular bedroom measuring 4 m in length and 3 m in width has an area of 12 square metres. Since 1 square metre equals approximately 10.764 square feet, the bedroom covers about 129 square feet. If the ceiling is 2.5 m high, the room has a volume of 30 cubic metres.",
+    "planted_errors": [
+      {
+        "text": "129 square feet",
+        "true_value": "129.17 square feet"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "paragraph": "A vehicle travelling at 90 km/h covers approximately 25 metres every second. If it maintains this speed for 2 hours, it travels 180 km. A speed of 120 km/h is equivalent to approximately 75 mph, which is a common highway speed in some countries.",
+    "planted_errors": [
+      {
+        "text": "25 metres",
+        "true_value": "25 metres per second (exactly 25 m/s)."
+      },
+      {
+        "text": "75 mph",
+        "true_value": "74.6 mph"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "paragraph": "When following a cooking recipe, 1 tablespoon is equivalent to 15 mL, while 1 teaspoon is equivalent to 5 mL. Therefore, 4 tablespoons of olive oil provide 60 mL, and 250 mL of water is equivalent to 1 metric cup. If a recipe requires 500 mL of broth, you can measure it using 2 metric cups.",
+    "planted_errors": [
+      {
+        "text": "1 metric cup",
+        "true_value": "250 mL is exactly 1 metric cup."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "paragraph": "A swimming pool measuring 8 m long, 4 m wide, and 2 m deep has a volume of 64 cubic metres. Since 1 cubic metre equals 1,000 litres, the pool can hold approximately 64,000 litres of water. A smaller container holding 500 litres has a volume of 0.5 cubic metres.",
+    "planted_errors": []
+  },
+  {
+    "id": 9,
+    "paragraph": "During winter, temperatures can fall significantly below freezing. A temperature of -20°C is equivalent to -4°F, while -30°C corresponds to -22°F. If the temperature rises to 10°C, it becomes 50°F, and a warm summer day at 35°C is equivalent to 95°F.",
+    "planted_errors": [
+      {
+        "text": "-22°F",
+        "true_value": "-22°F (approximately -22°F)."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "paragraph": "For a long-distance cycling trip, travelling 60 km in 2 hours means maintaining an average speed of 30 km/h. This is equivalent to approximately 18.6 mph. If a cyclist covers 15 km in 30 minutes, their average speed is 30 km/h, and completing a 120 km route at that pace would take 4 hours.",
+    "planted_errors": [
+      {
+        "text": "18.6 mph",
+        "true_value": "18.6 mph (approximately 18.64 mph)."
+      }
+    ]
+  }
+]

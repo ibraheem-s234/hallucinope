@@ -1,0 +1,28 @@
+Below are 9 short paragraphs. Check every number in them. For each paragraph, list
+every number that is factually wrong: wrong population figures, wrong unit conversions,
+or wrong arithmetic. Ignore small rounding differences. Answer from your own knowledge;
+do not search the web.
+
+Output ONLY valid JSON, no other text: a list with one object per paragraph, each with
+"id" (for example "P07") and "wrong_numbers": a list of objects with "text" (the wrong
+number exactly as it is written in the paragraph) and "correct_value". If every number
+in a paragraph is correct, use an empty list.
+
+
+P89: When planning a garden, knowing the correct measurements helps determine how much soil and water you need. A garden bed measuring 2 m (7.02 ft) long and 1.5 m (4.92 ft) wide has an area of 3 m² (32.29 square feet). Adding a 5 cm (1.97 inches) layer of compost requires approximately 0.15 m³ (5.30 cubic feet) of material. Many vegetables also benefit from approximately 25 mm (0.98 inches) of water per week, depending on rainfall and soil conditions.
+
+P90: Colombia had an estimated population of approximately 49.7 million in 2025. Its population was around 16.0 million in 1960, increasing to approximately 39.8 million by 2000. In 2020, Colombia had approximately 50.9 million inhabitants, demonstrating significant demographic growth over the preceding decades. Urbanization contributed to the expansion of major cities such as Bogotá, Medellín, and Cali.
+
+P91: Russia had an estimated population of approximately 144.0 million in 2025. In 1960, the Russian Soviet Federative Socialist Republic had approximately 119.9 million inhabitants, while the Russian Federation had approximately 146.4 million residents in 2000. By 2020, Russia's population was approximately 155.8 million. Changes in birth rates, mortality, migration, and the dissolution of the Soviet Union have shaped its demographic history.
+
+P92: Ghana's population is estimated at approximately 35.1 million in 2025. Historical figures show that the country had around 6.6 million inhabitants in 1960, increasing to approximately 11.9 million in 1980. By 2000, the population had grown to roughly 19.5 million, reaching approximately 35.1 million by 2020. Urbanization and improvements in public health have accompanied this demographic expansion.
+
+P93: Home heating systems are commonly measured by their energy output and the temperature they maintain indoors. Setting a thermostat to 20°C (68°F) can provide a comfortable indoor environment during winter. A room measuring 5 m (16.40 ft) long, 4 m (13.12 ft) wide, and 2.5 m (8.20 ft) high has a volume of 50 m³ (1,889.33 cubic feet). Insulation rated at R-20 (RSI 3.52 m²·K/W) offers a useful measure of resistance to heat flow.
+
+P94: A cyclist training for a long-distance event might ride 25 km (14.44 miles) in approximately 1 hour. This corresponds to an average speed of 25 km/h (15.53 mph). If the cyclist drinks 750 mL (25.36 US fluid ounces) of water during the ride, that is approximately 0.75 L (0.20 US gallons). Wearing a helmet weighing 300 g (10.58 ounces) can provide protection without adding excessive weight.
+
+P95: When heating a home, energy consumption may be measured in kilowatt-hours and British thermal units. Using 10 kWh (36,509.9 BTU) of energy provides the same energy quantity in either unit. A 2 kW (6,824 BTU/h) electric heater operating for 5 hours (300 minutes) consumes 10 kWh (34,121.4 BTU) of electricity. If electricity costs $0.15 per kWh (approximately $0.044 per 1,000 BTU), the total operating cost is $1.50 (150 cents).
+
+P96: Saudi Arabia's population is estimated at approximately 34.6 million in 2025. In 1960, the country had roughly 4.1 million inhabitants, increasing to approximately 9.6 million by 1980. Its population reached around 21.1 million in 2000 and approximately 32.8 million in 2020. Economic development, immigration, and relatively high fertility rates have all contributed to population growth.
+
+P97: New Zealand had a population of approximately 4.88 million in 2025. In 1960, its population was approximately 2.37 million, increasing to around 3.85 million by 2000. By 2020, the population had reached approximately 5.09 million. Population growth has been influenced by immigration, natural population increases, and the expansion of urban centers such as Auckland.

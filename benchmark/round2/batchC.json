@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "paragraph": "If you are training for a 5 km run (3.11 miles), maintaining a pace of 6 minutes per kilometre (9.66 minutes per mile) means you will finish in approximately 30 minutes (0.5 hours). A beginner might start with 2 km (1.24 miles) of running and gradually increase the distance by 0.5 km (0.31 miles) each week. Drinking 500 mL (16.91 US fluid ounces) of water before exercise can help you stay hydrated.",
+    "planted_errors": []
+  },
+  {
+    "id": 2,
+    "paragraph": "In science class, you might measure the temperature of water at 25°C (77°F) before conducting an experiment. If you heat 500 mL (16.91 US fluid ounces) of water to 100°C (212°F), it reaches its boiling point at standard atmospheric pressure. A laboratory ruler can measure an object's length as 15 cm (5.91 inches), while a balance might record its mass as 250 g (8.82 ounces).",
+    "planted_errors": []
+  },
+  {
+    "id": 3,
+    "paragraph": "When shipping a package, its dimensions and weight are often required to calculate the delivery cost. A box measuring 40 cm (15.75 inches) long, 30 cm (11.81 inches) wide, and 20 cm (7.87 inches) tall has a volume of 24,000 cm³ (1,464.57 cubic inches). If the package weighs 5 kg (11.02 pounds), the shipping company may charge based on its actual weight or dimensional weight. Checking both metric and imperial measurements helps prevent shipping delays.",
+    "planted_errors": []
+  },
+  {
+    "id": 4,
+    "paragraph": "During air travel, passengers often see their cruising altitude displayed in feet and metres. A commercial aircraft flying at 35,000 ft (10,668 m) is travelling at a typical cruising altitude. If the aircraft covers 800 km (497.10 miles) in 1 hour, its average ground speed is 800 km/h (497.10 mph). Airport baggage allowances may also specify a maximum checked-bag weight of 23 kg (50.71 pounds).",
+    "planted_errors": []
+  },
+  {
+    "id": 5,
+    "paragraph": "When planning a garden, knowing the correct measurements helps determine how much soil and water you need. A garden bed measuring 2 m (6.56 ft) long and 1.5 m (4.92 ft) wide has an area of 3 m² (32.29 square feet). Adding a 5 cm (1.97 inches) layer of compost requires approximately 0.15 m³ (5.30 cubic feet) of material. Many vegetables also benefit from approximately 25 mm (0.98 inches) of water per week, depending on rainfall and soil conditions.",
+    "planted_errors": []
+  },
+  {
+    "id": 6,
+    "paragraph": "Home heating systems are commonly measured by their energy output and the temperature they maintain indoors. Setting a thermostat to 20°C (68°F) can provide a comfortable indoor environment during winter. A room measuring 5 m (16.40 ft) long, 4 m (13.12 ft) wide, and 2.5 m (8.20 ft) high has a volume of 50 m³ (1,765.73 cubic feet). Insulation rated at R-20 (RSI 3.52 m²·K/W) offers a useful measure of resistance to heat flow.",
+    "planted_errors": []
+  },
+  {
+    "id": 7,
+    "paragraph": "When calculating car fuel consumption, it is useful to understand both litres per 100 kilometres and miles per gallon. A vehicle that consumes 8 L/100 km (29.4 US mpg) uses 8 litres of fuel (2.11 US gallons) to travel 100 km (62.14 miles). If a car has a 50 L (13.21 US gallon) fuel tank, it can travel approximately 625 km (388.36 miles) under those consumption conditions. Actual fuel economy can vary depending on traffic, speed, and driving habits.",
+    "planted_errors": []
+  },
+  {
+    "id": 8,
+    "paragraph": "A cyclist training for a long-distance event might ride 25 km (15.53 miles) in approximately 1 hour. This corresponds to an average speed of 25 km/h (15.53 mph). If the cyclist drinks 750 mL (25.36 US fluid ounces) of water during the ride, that is approximately 0.75 L (0.20 US gallons). Wearing a helmet weighing 300 g (10.58 ounces) can provide protection without adding excessive weight.",
+    "planted_errors": []
+  },
+  {
+    "id": 9,
+    "paragraph": "In a chemistry experiment, a student might need to measure 2.5 L (0.66 US gallons) of liquid for a reaction. If the liquid has a density of 1 g/mL (1 kg/L), its total mass is 2.5 kg (5.51 pounds). A thermometer showing 37°C (98.6°F) indicates a temperature close to normal human body temperature. Measuring 10 mL (0.34 US fluid ounces) with a graduated cylinder provides a more precise result than estimating the amount by eye.",
+    "planted_errors": []
+  },
+  {
+    "id": 10,
+    "paragraph": "When heating a home, energy consumption may be measured in kilowatt-hours and British thermal units. Using 10 kWh (34,121.4 BTU) of energy provides the same energy quantity in either unit. A 2 kW (6,824 BTU/h) electric heater operating for 5 hours (300 minutes) consumes 10 kWh (34,121.4 BTU) of electricity. If electricity costs $0.15 per kWh (approximately $0.044 per 1,000 BTU), the total operating cost is $1.50 (150 cents).",
+    "planted_errors": []
+  }
+]

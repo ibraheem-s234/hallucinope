@@ -1,0 +1,102 @@
+[\
+&#x20; {\
+&#x20;   "id": "P01",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "149.0 million",\
+&#x20;       "correct_value": "Approximately 212.8 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P02",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "147,570",\
+&#x20;       "correct_value": "Approximately 130,170 square kilometres"\
+&#x20;     },\
+&#x20;     {\
+&#x20;       "text": "1,193",\
+&#x20;       "correct_value": "Approximately 1,352 people per square kilometre"\
+&#x20;     },\
+&#x20;     {\
+&#x20;       "text": "75 million",\
+&#x20;       "correct_value": "Approximately 68–70 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P03",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "10 million",\
+&#x20;       "correct_value": "Approximately 13.7 million"\
+&#x20;     },\
+&#x20;     {\
+&#x20;       "text": "39.7 million",\
+&#x20;       "correct_value": "Approximately 41.3 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P04",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "376 million",\
+&#x20;       "correct_value": "Approximately 357 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P05",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P06",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "120 km/h",\
+&#x20;       "correct_value": "Approximately 96.56 km/h"\
+&#x20;     },\
+&#x20;     {\
+&#x20;       "text": "39.14 mph",\
+&#x20;       "correct_value": "Approximately 55.92 mph"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P07",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "1.43 pounds",\
+&#x20;       "correct_value": "Approximately 1.10 pounds"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P08",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P09",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "76.6 million",\
+&#x20;       "correct_value": "Approximately 58.9 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P10",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "300 mL",\
+&#x20;       "correct_value": "Approximately 236.59 mL"\
+&#x20;     },\
+&#x20;     {\
+&#x20;       "text": "124°C",\
+&#x20;       "correct_value": "Approximately 176.67°C"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; }\
+]

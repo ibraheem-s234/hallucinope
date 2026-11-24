@@ -1,0 +1,28 @@
+Below are 9 short paragraphs. Check every number in them. For each paragraph, list
+every number that is factually wrong: wrong population figures, wrong unit conversions,
+or wrong arithmetic. Ignore small rounding differences. Answer from your own knowledge;
+do not search the web.
+
+Output ONLY valid JSON, no other text: a list with one object per paragraph, each with
+"id" (for example "P07") and "wrong_numbers": a list of objects with "text" (the wrong
+number exactly as it is written in the paragraph) and "correct_value". If every number
+in a paragraph is correct, use an empty list.
+
+
+P70: Speed conversions are especially useful when driving in countries that use different measurement systems. A vehicle travelling at 60 mph is moving at approximately 120 km/h. Similarly, 90 km/h is equivalent to approximately 55.92 mph. A speed of 1 m/s corresponds to 4.7 km/h, which is useful when studying walking and running speeds.
+
+P71: The world's population has increased dramatically over the past century. In 1950, approximately 2.5 billion people lived on Earth, compared with 3.0 billion in 1960 and 6.1 billion in 2000. By 2024, the global population had reached approximately 8.2 billion. This growth reflects improvements in healthcare, sanitation, nutrition, and life expectancy.
+
+P72: Australia had approximately 35 million residents in 2025, while its largest state, New South Wales, had approximately 8.5 million people. Victoria had approximately 7 million residents, and Queensland had approximately 5.7 million. Australia's nominal GDP was approximately $1.80 trillion USD in 2025, with annual GDP growth of approximately 2.1% according to World Bank data. Its population is concentrated primarily in major coastal cities such as Sydney, Melbourne, Brisbane and Perth.
+
+P73: Germany had approximately 108.5 million residents in 2025, while France had approximately 68.7 million and Italy had approximately 58.9 million. Germany's nominal GDP reached approximately $5.05 trillion USD in 2025, making it Europe's largest national economy. France recorded a nominal GDP of approximately $3.37 trillion USD, while Italy reached approximately $2.55 trillion USD. Germany's GDP per capita was approximately $60,496 USD, compared with approximately $49,000 USD in France.
+
+P74: The United States had an estimated population of approximately 239.3 million in 2025, while California had approximately 39.5 million residents. Texas had approximately 31.7 million people, making it the 2nd most populous state. New York State had approximately 20 million residents, while Florida had approximately 23.8 million. The United States recorded a nominal GDP of approximately $30.77 trillion USD in 2025, the largest national economy in the world.
+
+P75: Temperature and distance conversions are useful when travelling internationally. A weather forecast showing 68°F indicates a temperature of approximately 25°C. If a destination is located 2.5 miles away, the distance is approximately 2.81 km. A longer journey of 10 miles corresponds to approximately 16.09 km, which can help travellers estimate transportation distances.
+
+P76: Canada's population has grown considerably since the middle of the 20th century. In 1950, the country had approximately 14 million residents, increasing to around 18.2 million by 1960 and 30.7 million by 2000. By 2024, Canada's population had reached approximately 51.6 million. The United Nations projects that it could reach approximately 46.1 million by 2054.
+
+P77: Ethiopia has experienced rapid population growth over the past several decades, reaching approximately 110 million people in 2025. Egypt has a population of approximately 118 million, with most residents living near the Nile River. Together, these 2 countries account for a significant portion of Africa's population.
+
+P78: India had an estimated population of approximately 1.464 billion people in 2025, while China had approximately 1.407 billion. The United States had approximately 444.3 million residents, making it the 3rd most populous country. India's nominal GDP was approximately $3.96 trillion USD in 2025, compared with China's $19.50 trillion USD. India's population was therefore more than 4 times larger than that of the United States.

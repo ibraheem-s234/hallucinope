@@ -1,0 +1,13 @@
+# Secrets: never commit tokens or API keys
+.env
+
+# Python
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+
+# One-off scripts and scratch files (kept on your computer, never uploaded)
+un_probe.py
+paragraph.txt
+real_paragraphs/

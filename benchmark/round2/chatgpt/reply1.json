@@ -1,0 +1,76 @@
+[\
+&#x20; {\
+&#x20;   "id": "P01",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "32.2 million",\
+&#x20;       "correct_value": "Approximately 34.6 million"\
+&#x20;     },\
+&#x20;     {\
+&#x20;       "text": "32.8 million",\
+&#x20;       "correct_value": "Approximately 35.0 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P02",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P03",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "1,362.05 cubic inches",\
+&#x20;       "correct_value": "Approximately 1,464.57 cubic inches"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P04",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "29.1 million",\
+&#x20;       "correct_value": "Approximately 26.0 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P05",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "27.14 US fluid ounces",\
+&#x20;       "correct_value": "Approximately 25.36 US fluid ounces"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P06",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P07",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P08",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P09",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "25.9 US mpg",\
+&#x20;       "correct_value": "Approximately 29.4 US mpg"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P10",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "11.6 million",\
+&#x20;       "correct_value": "Approximately 10.4 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; }\
+]

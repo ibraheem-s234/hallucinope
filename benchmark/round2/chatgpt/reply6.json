@@ -1,0 +1,72 @@
+[\
+&#x20; {\
+&#x20;   "id": "P51",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "32.3 million",\
+&#x20;       "correct_value": "28.0 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P52",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P53",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "26.0 million",\
+&#x20;       "correct_value": "29.6 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P54",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P55",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "4.12 million",\
+&#x20;       "correct_value": "3.86 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P56",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "136.2 million",\
+&#x20;       "correct_value": "146.3 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P57",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P58",\
+&#x20;   "wrong_numbers": []\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P59",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "28.8 million",\
+&#x20;       "correct_value": "25.7 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; },\
+&#x20; {\
+&#x20;   "id": "P60",\
+&#x20;   "wrong_numbers": [\
+&#x20;     {\
+&#x20;       "text": "22.0 million",\
+&#x20;       "correct_value": "25.0 million"\
+&#x20;     }\
+&#x20;   ]\
+&#x20; }\
+]
