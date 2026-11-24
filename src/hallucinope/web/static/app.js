@@ -40,8 +40,78 @@
   }
 
   // ---------- talking to the checker ----------
+  // Two ways to run the same Python checker:
+  //   * website: window.HALLUCINOPE_STATIC is set by build_site.py, and Python runs
+  //     inside this browser tab (Pyodide). The text never leaves the visitor's computer.
+  //   * local:   python -m hallucinope.web answers POST /api/check.
+
+  const STATIC = window.HALLUCINOPE_STATIC || null;
+  let engine = null;        // a promise of check(text) -> result, created once
+  let busy = false;
+
+  function loadScript(src) {
+    return new Promise((resolve, reject) => {
+      const script = document.createElement("script");
+      script.src = src;
+      script.onload = resolve;
+      script.onerror = () => reject(new Error(`Couldn't load ${src}`));
+      document.head.append(script);
+    });
+  }
+
+  async function fetchBytes(path) {
+    const response = await fetch(path);
+    if (!response.ok) throw new Error(`${path}: error ${response.status}`);
+    return new Uint8Array(await response.arrayBuffer());
+  }
+
+  async function startPython() {
+    await loadScript(`${STATIC.pyodide}pyodide.js`);
+    const py = await window.loadPyodide({ indexURL: STATIC.pyodide });
+    const [code, wb, un] = await Promise.all([
+      fetchBytes("static/hallucinope.zip"),
+      fetchBytes("data/worldbank_population.json"),
+      fetchBytes("data/un_population.json").catch(() => null),   // optional
+    ]);
+    py.unpackArchive(code, "zip", { extractDir: "/app" });
+    py.FS.mkdirTree("/data");
+    py.FS.writeFile("/data/worldbank_population.json", wb);
+    if (un) py.FS.writeFile("/data/un_population.json", un);
+    const info = JSON.parse(py.runPython(
+      "import sys\nsys.path.insert(0, '/app')\n" +
+      "from hallucinope.web.browser import init, check\n" +
+      "init('/data/worldbank_population.json', '/data/un_population.json')"));
+    if (!info.ok) throw new Error(`No data: ${info.notes.join("; ")}`);
+    const when = info.worldbank || info.un;
+    if (when) $("data-date").textContent = ` Data downloaded ${when}.`;
+    const check = py.globals.get("check");
+    return (text) => JSON.parse(check(text));
+  }
+
+  function getEngine() {
+    if (!engine) {
+      engine = startPython().catch((err) => {
+        engine = null;                    // allow another try
+        console.error("[Web:App] Python didn't start", err);
+        throw new Error("The checker couldn't start. Check your internet connection, " +
+          "then refresh the page.");
+      });
+    }
+    return engine;
+  }
 
   async function requestCheck(text) {
+    if (STATIC) {
+      const check = await getEngine();
+      await new Promise((r) => setTimeout(r, 30));   // let "Checking…" appear first
+      const data = check(text);
+      if (data.error) throw new Error(data.error);
+      return data;
+    }
+    return requestServer(text);
+  }
+
+  async function requestServer(text) {
     const controller = new AbortController();
     const timer = setTimeout(() => controller.abort(), TIMEOUT_MS);
     try {
@@ -76,6 +146,7 @@
       return;
     }
     checkBtn.disabled = true;
+    busy = true;
     setStatus("Checking the numbers…");
     try {
       const result = await requestCheck(text);
@@ -84,6 +155,7 @@
       console.error("[Web:App] check failed", err);
       setStatus(err.message, true);
     } finally {
+      busy = false;
       checkBtn.disabled = false;
     }
   }
@@ -302,6 +374,13 @@
     marked.addEventListener("keydown", (e) => onKeyPick(e, "mark"));
     cards.addEventListener("click", (e) => onPick(e, "card"));
     cards.addEventListener("keydown", (e) => onKeyPick(e, "card"));
+
+    if (STATIC) {               // website: start Python now, so the first check is quick
+      setStatus("Getting the checker ready (the first visit downloads about 10 MB)…");
+      getEngine().then(
+        () => { if (!busy) setStatus(""); },
+        (err) => { if (!busy) setStatus(err.message, true); });
+    }
   } catch (err) {
     console.error("[Web:App] setup failed", err);
     setStatus("The page didn't load properly. Refresh to try again.", true);

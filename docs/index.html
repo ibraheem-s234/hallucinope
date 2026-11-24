@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hallucinope</title>
+  <meta name="description" content="Check every number an AI wrote against official data.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&family=Shantell+Sans:wght@400..800&display=swap">
+  <link rel="stylesheet" href="static/style.css">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23FCFDFF'/%3E%3Cpath d='M7 17.5l5.5 5.5L25 9' fill='none' stroke='%23D2243A' stroke-width='4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+</head>
+<body>
+  <a class="skip" href="#text-input">Skip to the text box</a>
+
+  <header class="masthead">
+     <a class="logo" href="./"aria-label="Hallucinope, home">
+      <span class="logo-word">Hallucinope</span>
+      <svg class="logo-pen" viewBox="0 0 120 14" aria-hidden="true" preserveAspectRatio="none">
+        <path d="M2 9 C 30 3, 60 13, 88 6 S 112 4, 118 8" />
+      </svg>
+    </a>
+    <p class="motto">Make your AI show its receipts.</p>
+    <a class="masthead-link" href="#how">How it checks</a>
+    <button id="theme-button" class="theme-button" type="button" aria-pressed="false">Chalkboard</button>
+  </header>
+
+  <main class="desk">
+    <section class="page" aria-labelledby="page-title">
+      <span class="holes" aria-hidden="true"><i></i><i></i><i></i></span>
+      <div class="page-inner">
+        <h1 id="page-title">Check every number an AI wrote.</h1>
+        <p class="lede">Paste a paragraph. Hallucinope marks each population figure and unit
+          conversion against official data, the way a teacher marks a page.</p>
+
+        <form id="check-form" class="editor" novalidate>
+          <label class="visually-hidden" for="text-input">Text to check</label>
+          <textarea id="text-input" class="ruled" rows="9" maxlength="5000" spellcheck="false"
+            placeholder="Paste something from ChatGPT, an essay, or your notes…"></textarea>
+          <div id="marked" class="ruled marked" hidden tabindex="-1"
+               aria-label="Your text, with each checked number marked"></div>
+
+          <div class="toolbar">
+            <button id="check-button" class="btn btn-primary" type="submit">Check numbers</button>
+            <button id="edit-button" class="btn btn-quiet" type="button" hidden>Edit text</button>
+            <span id="char-count" class="char-count" aria-live="polite"></span>
+            <span class="shortcut" id="shortcut-hint">or press <kbd>Ctrl</kbd> + <kbd>Enter</kbd></span>
+          </div>
+
+          <div class="samples" id="samples">
+            <span class="samples-label">Try a sample:</span>
+          </div>
+        </form>
+
+        <p id="status" class="status" role="status" aria-live="polite"></p>
+        <p id="unchecked" class="unchecked" hidden></p>
+      </div>
+    </section>
+
+    <aside class="margin" aria-labelledby="key-title">
+      <div class="key" id="key">
+        <h2 id="key-title" class="key-title">How numbers get marked</h2>
+        <ul class="key-list">
+          <li class="key-row" data-verdict="wrong">
+            <span class="mark-sample mark-wrong">41 million</span>
+            <span class="key-name">Nope</span>
+            <span class="key-count" data-count="wrong"></span>
+            <span class="key-desc">Official data says otherwise.</span>
+          </li>
+          <li class="key-row" data-verdict="correct">
+            <span class="mark-sample mark-correct">41 million</span>
+            <span class="key-name">Checks out</span>
+            <span class="key-count" data-count="correct"></span>
+            <span class="key-desc">Matches the official figure.</span>
+          </li>
+          <li class="key-row" data-verdict="unconfirmed">
+            <span class="mark-sample mark-unconfirmed">41 million</span>
+            <span class="key-name">Double-check</span>
+            <span class="key-count" data-count="unconfirmed"></span>
+            <span class="key-desc">Only a forecast to compare with, or a census count.</span>
+          </li>
+          <li class="key-row" data-verdict="cant_verify">
+            <span class="mark-sample mark-cant_verify">41 million</span>
+            <span class="key-name">Can't check</span>
+            <span class="key-count" data-count="cant_verify"></span>
+            <span class="key-desc">No official figure for that year.</span>
+          </li>
+        </ul>
+      </div>
+      <ol class="cards" id="cards" aria-label="Notes on each number"></ol>
+    </aside>
+  </main>
+
+  <section class="how" id="how" aria-labelledby="how-title">
+    <h2 id="how-title">How it checks</h2>
+    <ol class="steps">
+      <li><strong>Finds every number with rules, not AI.</strong> So nothing gets invented
+        along the way: every number it checks is really in your text.</li>
+      <li><strong>Looks up the official figure.</strong> Populations come from the World Bank
+        and the UN's World Population Prospects 2024. Conversions are calculated from exact
+        unit definitions.</li>
+      <li><strong>Marks it, and shows the receipt.</strong> Every note names its source, so you
+        can check Hallucinope too. It can be wrong, especially with unusual wording.</li>
+    </ol>
+    <p class="scope">It checks populations of countries and the world, and conversions of
+      length, weight, temperature, speed, area and volume. Everything else is listed as not
+      checked. It runs on your computer and sends your text nowhere.</p>
+  </section>
+
+  <footer class="foot">
+    <p>Hallucinope, a student project. Data: World Bank World Development Indicators;
+            United Nations, World Population Prospects 2024.<span id="data-date"></span>
+      <a href="https://github.com/ibraheem-s234/hallucinope">Code on GitHub</a></p>
+  </footer>
+
+  <script>window.HALLUCINOPE_STATIC = {"pyodide": "https://cdn.jsdelivr.net/pyodide/v0.26.4/full/"};</script>
+  <script src="static/samples.js"></script>
+  <script src="static/app.js"></script>
+</body>
+</html>
