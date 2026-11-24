@@ -2,6 +2,8 @@
 
 **Your AI writes the words. Real data checks the numbers.**
 
+**Try it: [ibraheem-s234.github.io/hallucinope](https://ibraheem-s234.github.io/hallucinope/)** (nothing to install)
+
 Hallucinope checks every number in a paragraph (from ChatGPT, an essay, your notes) against official data, and marks it the way a teacher marks a page: wrong numbers get a red **"Nope."** with the real figure and its source.
 
 ![Hallucinope checking a paragraph ChatGPT wrote about Saudi Arabia: all five population figures marked wrong, each with the official World Bank figure](docs/screenshot.png)
